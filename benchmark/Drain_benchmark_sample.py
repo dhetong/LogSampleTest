@@ -136,7 +136,7 @@ benchmark_settings = {
         },
 }
 
-input_dir = '../Data/' # The input directory of log file
+input_dir = '../../Data/' # The input directory of log file
 output_dir = 'result/' # The output directory of parsing results
 
 HDFS_dir = 'HDFS/'
