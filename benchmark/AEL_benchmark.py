@@ -147,7 +147,16 @@ for dataset, setting in benchmark_settings.iteritems():
     log_file = os.path.basename(setting['log_file'])
 
     parser = AEL.LogParser(log_format=setting['log_format'], indir=indir, outdir=output_dir,
-                             minEventCount=setting['minEventCount'], merge_percent=setting['merge_percent'], rex=setting['regex'])
+                             minEventCount=10, merge_percent=0.7, rex=setting['regex'])
+    #For parameter evaluation
+    #parser = AEL.LogParser(log_format=setting['log_format'], indir=indir, outdir=output_dir,
+    #                         minEventCount=2, merge_percent=setting['merge_percent'], rex=setting['regex'])
+    #parser = AEL.LogParser(log_format=setting['log_format'], indir=indir, outdir=output_dir,
+    #                         minEventCount=10, merge_percent=setting['merge_percent'], rex=setting['regex'])
+    #parser = AEL.LogParser(log_format=setting['log_format'], indir=indir, outdir=output_dir,
+    #                         minEventCount=setting['minEventCount'], merge_percent=0.4, rex=setting['regex'])
+    #parser = AEL.LogParser(log_format=setting['log_format'], indir=indir, outdir=output_dir,
+    #                         minEventCount=setting['minEventCount'], merge_percent=0.7, rex=setting['regex'])
     parser.parse(log_file)
     
     F1_measure, accuracy = evaluator.evaluate(

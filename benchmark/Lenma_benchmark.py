@@ -134,7 +134,10 @@ for dataset, setting in benchmark_settings.iteritems():
     indir = os.path.join(input_dir, os.path.dirname(setting['log_file']))
     log_file = os.path.basename(setting['log_file'])
 
-    parser = LenMa.LogParser(log_format=setting['log_format'], indir=indir, outdir=output_dir, rex=setting['regex'], threshold=setting['threshold'])
+    #parser = LenMa.LogParser(log_format=setting['log_format'], indir=indir, outdir=output_dir, rex=setting['regex'], threshold=setting['threshold'])
+    #for parameter evaluation
+    #parser = LenMa.LogParser(log_format=setting['log_format'], indir=indir, outdir=output_dir, rex=setting['regex'], threshold=0.5)
+    parser = LenMa.LogParser(log_format=setting['log_format'], indir=indir, outdir=output_dir, rex=setting['regex'], threshold=0.78)
     parser.parse(log_file)
     
     F1_measure, accuracy = evaluator.evaluate(

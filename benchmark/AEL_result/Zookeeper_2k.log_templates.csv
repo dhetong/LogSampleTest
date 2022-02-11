@@ -1,0 +1,73 @@
+EventId,EventTemplate,Occurrences
+92fc9948,Notification time out: 3200,1
+9879a9ab,Received connection request <*>,299
+7a2ec7d0,Send worker leaving thread,262
+45a3ec5d,Interrupted while waiting for message on queue,314
+47e3543a,"Connection broken for id 188978561024, my id = 1, error =",94
+273e53f2,Interrupting SendWorker,266
+20d23992,Closed socket connection for client <*> which had sessionid <*>,44
+ecefe136,caught end of stream exception,37
+de56e5ef,Client attempting to renew session 0x24ed93119420016 at <*>,1
+00a8e7f7,Client attempting to establish new session at <*>,41
+37ce0325,Established session <*> with negotiated timeout <*> for client <*>,50
+abe76bf8,Accepted socket connection from <*>,48
+63d9783e,Unexpected Exception:,1
+1bc7bc65,Connection request from old client <*>; will be dropped if server is in r-o mode,39
+eeb38d12,Server environment:user.dir=/,1
+5dffcb42,Cannot open channel to 2 at election address <*>,48
+61a003ea,Processed session termination for sessionid: <*>,47
+f8c6d06b,Expiring session <*> timeout of <*> exceeded,40
+f311a57e,******* GOODBYE <*> ********,19
+00078e14,LOOKING,4
+2e117246,Cannot open channel to 3 at election address <*>,38
+f3baff5c,Notification time out: 60000,36
+4cbab665,My election bind port: <*><*>,1
+ed297523,"Have smaller server identifier, so dropping the connection: (2, 1)",1
+c172d526,FOLLOWING,2
+a7b1386b,"New election. My id =  1, proposed zxid=0x700000000",1
+b648fa64,Server environment:host.name=mesos-master-1,1
+a1237171,FOLLOWING - LEADER ELECTION TOOK - <*>,2
+59ab32a6,"Notification: 3 (n.leader), 0x700000197 (n.zxid), 0x1 (n.round), LEADING (n.state), 3 (n.sid), 0x7 (n.peerEPoch), LOOKING (my state)",1
+8c716832,autopurge.snapRetainCount set to 3,1
+d961f4e8,Server environment:java.vendor=Oracle Corporation,2
+bee84f84,Revalidating client: 0x14f05578bd80018,1
+82a35475,Client attempting to renew session 0x14f05578bd8001b at <*>,1
+ae80a1f9,"Server environment:zookeeper.version=3.4.5--1, built on 06/10/2013 17:26 GMT",1
+17644875,Server environment:user.name=zookeeper,2
+6d9106dc,Revalidating client: 0x14f05578bd80013,1
+467d31ff,Server environment:os.name=Linux,2
+bed3680d,Closed socket connection for client <*> (no session established for client),4
+ecf6827a,Exception causing close of session 0x0 due to java.io.IOException: ZooKeeperServer not running,3
+1effd706,"Notification: 2 (n.leader), 0xb00000084 (n.zxid), 0x2 (n.round), LOOKING (n.state), 1 (n.sid), 0xb (n.peerEPoch), LOOKING (my state)",1
+61e692b9,"Notification: 3 (n.leader), 0xb0000007b (n.zxid), 0x2 (n.round), LOOKING (n.state), 3 (n.sid), 0xb (n.peerEPoch), FOLLOWING (my state)",1
+da7d60d2,tickTime set to 2000,1
+187c77af,"Connection broken for id 3, my id = 1, error =",1
+0cf47064,Unexpected exception causing shutdown while sock still open,12
+23c131b7,"Connection broken for id 188978561024, my id = 2, error =",96
+2a7add7e,Got user-level KeeperException when processing sessionid:0x34ed93485090001 type:create cxid:0x55b8bb0f zxid:0x100000010 txntype:-1 reqpath:n/a Error Path:/home/curi/.zookeeper Error:KeeperErrorCode = NodeExists for /home/curi/.zookeeper,1
+c5f7f4b1,"Notification: 3 (n.leader), 0x10000006b (n.zxid), 0x2 (n.round), LOOKING (n.state), 3 (n.sid), 0x1 (n.peerEPoch), LEADING (my state)",1
+d459c04c,Starting quorum peer,1
+390a1b37,Snapshotting: 0x300000dcd to /var/lib/zookeeper/version-2/snapshot.300000dcd,1
+3204f3ff,autopurge.purgeInterval set to 0,3
+6a9a6831,Snapshotting: 0x50000062e to /var/lib/zookeeper/version-2/snapshot.50000062e,1
+5e51912e,Follower sid: 3 : info : org.apache.zookeeper.server.quorum.QuorumPeer$QuorumServer@33557fe4,1
+18863e3d,Revalidating client: 0x24f0557806a001c,1
+689b0f5e,maxSessionTimeout set to -1,1
+2dfd1380,Client attempting to renew session 0x24f0557806a0020 at <*>,1
+c00b2f72,Server environment:java.class.path=/etc/zookeeper/conf:/usr/share/java/jline.jar:/usr/share/java/log4j-1.2.jar:/usr/share/java/xercesImpl.jar:/usr/share/java/xmlParserAPIs.jar:/usr/share/java/netty.jar:/usr/share/java/slf4j-api.jar:/usr/share/java/slf4j-log4j12.jar:/usr/share/java/zookeeper.jar,1
+a3e8a36b,Have quorum of supporters; starting up and setting last processed zxid: 0xb00000000,1
+e2607a74,"Notification: 2 (n.leader), 0xa0000009a (n.zxid), 0x1 (n.round), FOLLOWING (n.state), 1 (n.sid), 0xa (n.peerEPoch), LEADING (my state)",1
+c7ef5ae9,shutdown of request processor complete,1
+9cb3def4,First is 0x0,1
+a428a4ba,"Notification: 1 (n.leader), 0xb0000007b (n.zxid), 0x2 (n.round), LOOKING (n.state), 1 (n.sid), 0xb (n.peerEPoch), LEADING (my state)",2
+a9459b27,Reading snapshot /var/lib/zookeeper/version-2/snapshot.b00000084,1
+9d86801d,Sending DIFF,1
+4c5926a1,Getting a snapshot from leader,2
+a9101546,"Notification: 3 (n.leader), 0x0 (n.zxid), 0x1 (n.round), LOOKING (n.state), 3 (n.sid), 0x0 (n.peerEPoch), LOOKING (my state)",2
+09fa2d17,"Connection broken for id 188978561024, my id = 3, error =",99
+d34f7782,"Notification: 3 (n.leader), 0x10000006b (n.zxid), 0x2 (n.round), LOOKING (n.state), 3 (n.sid), 0x1 (n.peerEPoch), LOOKING (my state)",1
+135c3c28,"Connection broken for id 1, my id = 3, error =",1
+5f27d4ac,"Notification: 3 (n.leader), 0x100001564 (n.zxid), 0x3 (n.round), FOLLOWING (n.state), 3 (n.sid), 0x2 (n.peerEPoch), FOLLOWING (my state)",1
+5bd1f197,minSessionTimeout set to -1,2
+21f7c76b,Server environment:java.home=/usr/lib/jvm/java-7-openjdk-amd64/jre,1
+433ca4da,"Notification: 3 (n.leader), 0x700000197 (n.zxid), 0x1 (n.round), LOOKING (n.state), 3 (n.sid), 0x7 (n.peerEPoch), LOOKING (my state)",1

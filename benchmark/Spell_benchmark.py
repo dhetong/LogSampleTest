@@ -130,8 +130,10 @@ for dataset, setting in benchmark_settings.iteritems():
     indir = os.path.join(input_dir, os.path.dirname(setting['log_file']))
     log_file = os.path.basename(setting['log_file'])
 
-    parser = Spell.LogParser(log_format=setting['log_format'], indir=indir,
-                             outdir=output_dir, rex=setting['regex'], tau=setting['tau'])
+    #parser = Spell.LogParser(log_format=setting['log_format'], indir=indir,  outdir=output_dir, rex=setting['regex'], tau=setting['tau'])
+    #For parameter evaluation
+    #parser = Spell.LogParser(log_format=setting['log_format'], indir=indir, outdir=output_dir, rex=setting['regex'], tau=0.50)
+    parser = Spell.LogParser(log_format=setting['log_format'], indir=indir, outdir=output_dir, rex=setting['regex'], tau=0.85)
     parser.parse(log_file)
     
     F1_measure, accuracy = evaluator.evaluate(

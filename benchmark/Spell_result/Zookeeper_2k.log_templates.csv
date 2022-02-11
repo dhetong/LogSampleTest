@@ -1,0 +1,113 @@
+EventId,EventTemplate,Occurrences
+fb454953,Notification time out 3200,1
+9879a9ab,Received connection request <*>,299
+7a2ec7d0,Send worker leaving thread,262
+45a3ec5d,Interrupted while waiting for message on queue,314
+399280d8,Connection broken for id <*> my id 1 error,96
+273e53f2,Interrupting SendWorker,266
+20d23992,Closed socket connection for client <*> which had sessionid <*>,44
+ecefe136,caught end of stream exception,37
+b369174c,Client attempting to renew session <*> at <*>,3
+00a8e7f7,Client attempting to establish new session at <*>,41
+53abb0ca,Established session <*> with negotiated timeout 10000 for client <*>,45
+abe76bf8,Accepted socket connection from <*>,48
+029a7bf2,Unexpected Exception,1
+a17da06f,Established session <*> with negotiated timeout 20000 for client <*>,5
+1bc7bc65,Connection request from old client <*>; will be dropped if server is in r-o mode,39
+a8a9fdbf,Server environment user.dir /,1
+1e7a3631,Cannot open channel to <*> at election address <*>,86
+3833852a,Processed session termination for sessionid 0x14ede63a5a70002,1
+417ac182,Processed session termination for sessionid 0x34ede65503f0010,1
+7b9e0393,Processed session termination for sessionid 0x14ede63a5a70023,1
+01cb19bd,Processed session termination for sessionid 0x34ede65503f002b,1
+24022c09,Expiring session <*> timeout of 10000ms exceeded,38
+d1f566fd,Processed session termination for sessionid 0x24ede63a01b003b,1
+b27e3433,Processed session termination for sessionid 0x34ede65503f0039,1
+e437cae4,Processed session termination for sessionid 0x14ede63a5a7003a,1
+f311a57e,******* GOODBYE <*> ********,19
+00078e14,LOOKING,4
+eb4a7072,Notification time out 60000,36
+1f5e64d1,My election bind port <*><*>,1
+4e1011a6,Have smaller server identifier so dropping the connection (2 1),1
+c172d526,FOLLOWING,2
+a34c9763,New election. My id 1 proposed zxid 0x700000000,1
+754c148d,Server environment host.name mesos-master-1,1
+a1237171,FOLLOWING - LEADER ELECTION TOOK - <*>,2
+425380e1,Notification 3 (n.leader) 0x700000197 (n.zxid) 0x1 (n.round) <*> (n.state) 3 (n.sid) 0x7 (n.peerEPoch) LOOKING (my state),2
+8c716832,autopurge.snapRetainCount set to 3,1
+b29376b2,Server environment java.vendor Oracle Corporation,2
+14fb4d64,Revalidating client 0x14f05578bd80018,1
+27abbd8d,Server environment zookeeper.version 3.4.5--1 built on 06/10/2013 17 26 GMT,1
+3a6d8e33,Server environment user.name zookeeper,2
+87733492,Revalidating client 0x14f05578bd80013,1
+0ca7e7a0,Server environment os.name Linux,2
+bed3680d,Closed socket connection for client <*> (no session established for client),4
+a4f8027c,Exception causing close of session 0x0 due to java.io.IOException ZooKeeperServer not running,3
+dde9a23d,Notification 2 (n.leader) 0xb00000084 (n.zxid) 0x2 (n.round) LOOKING (n.state) 1 (n.sid) 0xb (n.peerEPoch) LOOKING (my state),1
+99bb36f6,Notification 3 (n.leader) 0xb0000007b (n.zxid) 0x2 (n.round) LOOKING (n.state) 3 (n.sid) 0xb (n.peerEPoch) FOLLOWING (my state),1
+da7d60d2,tickTime set to 2000,1
+0cf47064,Unexpected exception causing shutdown while sock still open,12
+eaacd362,Connection broken for id 188978561024 my id <*> error,195
+85394710,Got user-level KeeperException when processing sessionid 0x34ed93485090001 type create cxid 0x55b8bb0f zxid 0x100000010 txntype -1 reqpath n/a Error Path /home/curi/.zookeeper Error KeeperErrorCode NodeExists for /home/curi/.zookeeper,1
+be995323,Processed session termination for sessionid 0x14ed93111f20005,1
+0009e30d,Processed session termination for sessionid 0x24ed93119420008,1
+2a2e1736,Processed session termination for sessionid 0x14ed93111f20000,1
+22a96145,Notification 3 (n.leader) 0x10000006b (n.zxid) 0x2 (n.round) LOOKING (n.state) 3 (n.sid) 0x1 (n.peerEPoch) <*> (my state),2
+05844bbb,Processed session termination for sessionid 0x24ed9311942000c,1
+eff3114b,Processed session termination for sessionid 0x24ed93119420021,1
+39f2803d,Processed session termination for sessionid 0x14ed93111f2003f,1
+ecec7b3c,Processed session termination for sessionid 0x34ed9ac1c1e0021,1
+319e4378,Processed session termination for sessionid 0x14ed93111f20046,1
+431b1ffb,Processed session termination for sessionid 0x34ed9ac1c1e0030,1
+5d6e95af,Processed session termination for sessionid 0x14ed93111f2004f,1
+fbea134c,Processed session termination for sessionid 0x14ed93111f20050,1
+fbd85e7d,Expiring session <*> timeout of 20000ms exceeded,2
+7b9bdb3b,Processed session termination for sessionid 0x24ed93119420073,1
+ee5b9b34,Processed session termination for sessionid 0x34ed9ac1c1e005e,1
+28cb7e86,Processed session termination for sessionid 0x24ed93119420094,1
+d1e2d1ac,Processed session termination for sessionid 0x34ed9ac1c1e0081,1
+e0621d54,Processed session termination for sessionid 0x34ed9ac1c1e0080,1
+048e348e,Processed session termination for sessionid 0x34ed9ac1c1e007a,1
+4031edc5,Processed session termination for sessionid 0x34ed9ac1c1e0078,1
+54357897,Processed session termination for sessionid 0x34ed9ac1c1e0085,1
+b18d7497,Processed session termination for sessionid 0x14ed93111f200a7,1
+d3701c64,Processed session termination for sessionid 0x34ed9ac1c1e0083,1
+38ab96af,Processed session termination for sessionid 0x34ed9ac1c1e00ae,1
+d459c04c,Starting quorum peer,1
+e5802811,Snapshotting 0x300000dcd to /var/lib/zookeeper/version-2/snapshot.300000dcd,1
+a9388d86,Processed session termination for sessionid 0x14edfaa86f60019,1
+9ec7d943,Processed session termination for sessionid 0x14edfaa86f6002d,1
+eebbc38b,Processed session termination for sessionid 0x24edfaa8717002d,1
+f61d2453,Processed session termination for sessionid 0x34edfaa9c22003d,1
+72a7ffe6,Processed session termination for sessionid 0x14edfaa86f60047,1
+3204f3ff,autopurge.purgeInterval set to 0,3
+62b848d3,Snapshotting 0x50000062e to /var/lib/zookeeper/version-2/snapshot.50000062e,1
+3581cf8c,Follower sid 3 info org.apache.zookeeper.server.quorum.QuorumPeer$QuorumServer@33557fe4,1
+af2fdd69,Processed session termination for sessionid 0x34ee30a5c53000a,1
+16adad0a,Processed session termination for sessionid 0x24ee30a54f50019,1
+6882edee,Processed session termination for sessionid 0x24ee30a54f5001a,1
+3d5feb3a,Processed session termination for sessionid 0x34ee30a5c530011,1
+d9947264,Revalidating client 0x24f0557806a001c,1
+689b0f5e,maxSessionTimeout set to -1,1
+7ec47079,Server environment java.class.path /etc/zookeeper/conf /usr/share/java/jline.jar /usr/share/java/log4j-1.2.jar /usr/share/java/xercesImpl.jar /usr/share/java/xmlParserAPIs.jar /usr/share/java/netty.jar /usr/share/java/slf4j-api.jar /usr/share/java/slf4j-log4j12.jar /usr/share/java/zookeeper.jar,1
+cc0d06c4,Have quorum of supporters; starting up and setting last processed zxid 0xb00000000,1
+06678ddb,Notification 2 (n.leader) 0xa0000009a (n.zxid) 0x1 (n.round) FOLLOWING (n.state) 1 (n.sid) 0xa (n.peerEPoch) LEADING (my state),1
+77116ffe,Processed session termination for sessionid 0x34f1724a35e000c,1
+6edce692,Processed session termination for sessionid 0x14f1724a6e8000d,1
+24609879,Processed session termination for sessionid 0x14f3fdae8ba0001,1
+c7ef5ae9,shutdown of request processor complete,1
+9cb3def4,First is 0x0,1
+e57a1549,Notification 1 (n.leader) 0xb0000007b (n.zxid) 0x2 (n.round) LOOKING (n.state) 1 (n.sid) 0xb (n.peerEPoch) LEADING (my state),2
+4d156164,Processed session termination for sessionid 0x34f4a63146b000f,1
+a1d2b925,Processed session termination for sessionid 0x14f4a6318b80004,1
+5f1d1017,Processed session termination for sessionid 0x14f4a6318b80019,1
+a9459b27,Reading snapshot /var/lib/zookeeper/version-2/snapshot.b00000084,1
+9d86801d,Sending DIFF,1
+8e7f6cec,Processed session termination for sessionid 0x34f4a63146b003c,1
+68c50a3c,Processed session termination for sessionid 0x14f4a6318b8002f,1
+4c5926a1,Getting a snapshot from leader,2
+9e326f23,Notification 3 (n.leader) 0x0 (n.zxid) 0x1 (n.round) LOOKING (n.state) 3 (n.sid) 0x0 (n.peerEPoch) LOOKING (my state),2
+28c0219f,Notification 3 (n.leader) 0x100001564 (n.zxid) 0x3 (n.round) FOLLOWING (n.state) 3 (n.sid) 0x2 (n.peerEPoch) FOLLOWING (my state),1
+5bd1f197,minSessionTimeout set to -1,2
+fc2722f7,Server environment java.home /usr/lib/jvm/java-7-openjdk-amd64/jre,1
+7e9effbf,Processed session termination for sessionid 0x24f0557806a0010,1

@@ -1,0 +1,1412 @@
+EventId,EventTemplate,Occurrences
+27624832,session closed for user <*>,9019
+09789b2b,session opened for user <*> by <*>,15025
+b6651574,(root) CMD (run-parts <*>,3017
+6391d957,data_thread() got not answer from any <*> datasource,86610
+75133fe6,"synchronized to <*>, stratum <*>",59552
+1cfe3a76,[ib_sm_sweep.c:1831]: ********************** NEW SWEEP ********************,6983
+eb0cfa2a,[ib_sm_sweep.c:1455]: No topology change,6693
+9db750e6,[ib_sm_sweep.c:1482]: No configuration change required,6563
+880f1546,Local disconnected: Connection closed.,275
+f2f7a33e,connection lost: 'Connection closed.',275
+fadd4d28,unable to qualify my own domain name <*> -- using short name,995
+d4589616,"<*> from=root, size=629060, class=0, nrcpts=1, <*> relay=#7#@localhost",12
+33823f8f,"<*> to=root, ctladdr=root (0/0), <*> xdelay=00:00:00, mailer=relay, <*> relay=[<*>] [<*>], dsn=4.0.0, stat=Deferred: Connection refused by [<*>]",998
+2598f369,"<*> from=root, size=1594553, class=0, nrcpts=1, <*> relay=#7#@localhost",23
+181661d0,"<*> from=root, size=1593894, class=0, nrcpts=1, <*> relay=#7#@localhost",12
+0fe3f3ac,"<*> from=root, size=1597080, class=0, nrcpts=1, <*> relay=#7#@localhost",161
+d0052946,DHCPDISCOVER from <*> via eth1,1283
+3b327ac5,DHCPOFFER on <*> to <*> via eth1,1284
+2dbe4e72,"jA9J1dQ7016560: from=root, size=1595423, class=0, nrcpts=1, msgid=<200511091901.jA9J1dQ7016560@aadmin1>, relay=#7#@localhost",2
+f4455acc,DHCPDISCOVER from <*> via eth1: network <*> no free leases,1455
+8956864c,DHCPACK on <*> to <*> via eth1,1132
+fe7d0745,DHCPREQUEST for <*> (<*>) from <*> via eth1,1132
+fa4e8c77,START: tftp <*> from=<*>,108
+a82970ae,DHCPREQUEST for <*> (<*>) from <*> via eth1: unknown lease <*>.,882
+362ff4ee,RRD_update (/var/lib/ganglia/rrds/C <*> illegal attempt to update using time <*> when last update time is <*> (minimum one second step),126
+6fabb36e,kernel time sync disabled 0041,70
+ad3dfbf4,time reset <*> s,5
+f20e5cd0,RRD_update (/var/lib/ganglia/rrds/D <*> illegal attempt to update using time <*> when last update time is <*> (minimum one second step),366
+4d20657c,Received SNMP packet(s) from #34#,3
+bfd50162,"synchronized to LOCAL(0), stratum 10",4
+19dac09b,kernel time sync enabled 0001,71
+3b63d24d,synchronized to <*> stratum 1,16
+e9afaf82,(root) CMD (/projects/tbird/temps/get_temps <*>,866
+182a3d2f,My unqualified host name <*> unknown; sleeping for retry,978
+3956ae6c,CentOS-4 (Kernel Module GPG key),10
+61ddf178,(supports S0 S4 S5),11
+f80ebcf5,DSDT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000e) @ 0x0000000000000000,10
+98467215,FADT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd6b0,10
+56c8a3e3,HPET (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd81c,10
+37026deb,HPET id: 0xffffffff base: 0xfed00000,10
+a1e1520c,INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl),10
+1a788466,INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 high level),10
+657e921e,IOAPIC (id[0x08] address[0xfec00000] gsi_base[0]),10
+7c08ee8a,IOAPIC (id[0x09] address[0xfec80000] gsi_base[32]),10
+b82099c6,IOAPIC (id[0x0a] address[0xfec83000] gsi_base[64]),10
+848d9c3a,<*> used by override.,30
+2188fc64,Interpreter enabled,10
+5786367b,LAPIC (acpi_id[0x01] lapic_id[0x00] enabled),10
+727d3063,LAPIC (acpi_id[0x02] lapic_id[0x06] enabled),10
+7a07785c,LAPIC (acpi_id[0x03] lapic_id[0x01] enabled),10
+b99b846e,LAPIC (acpi_id[0x04] lapic_id[0x07] enabled),10
+2bd14d50,LAPIC_NMI <*> high edge lint[0x1]),40
+a9781187,Local APIC address 0xfee00000,10
+3c74f147,MADT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd724,10
+0b137edc,MCFG (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd854,10
+0d5ddf5d,PCI Interrupt Link <*> (IRQs 3 4 5 6 7 10 11 12) <*>,22
+d4cc2336,PCI Interrupt Link <*> (IRQs 3 4 5 6 <*> <*> <*> 12),13
+7c7ba3fe,"PCI Interrupt Link <*> (IRQs 3 4 5 6 7 10 11 12) *0, disabled.",53
+f3156356,PCI Interrupt Routing Table <*>,108
+d5980a9c,PCI Root Bridge [PCI0] (00:00),10
+eb02d8a9,"PCI interrupt <*> -> GSI <*> (level, low) -> IRQ <*>",125
+04ea23b0,Power Button (FF) [PWRF],11
+712fbe4d,Processor <*> (supports C1),42
+7be80732,RSDP (v000 DELL ) @ 0x00000000000fd650,10
+d71f6b17,RSDT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd664,10
+0d65fce7,SPCR (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd7cc,10
+836ea819,Subsystem revision 20040816,10
+5925103d,Using IOAPIC for interrupt routing,10
+6be61616,Intel(R) Xeon(TM) CPU 3.60GHz stepping 03,339
+9ee8ca01,L2 cache: 2048K,50
+ee83b678,Physical Processor ID: <*>,50
+c5862456,"Trace cache: 12K uops, L1 D cache: 16K",50
+b6d701a5,colour VGA+ 80x25,10
+a0162353,mounted filesystem with ordered data mode.,34
+cb9d44d1,"sys_ia32.c,v 1.32 2002/03/24 13:02:28 ak Exp $",11
+50be2ee5,"apic_id 8, version 32, address 0xfec00000, GSI 0-23",10
+e37bf9fd,"apic_id 9, version 32, address 0xfec80000, GSI 32-55",10
+bf44d0b9,"apic_id 10, version 32, address 0xfec83000, GSI 64-87",10
+179ee787,"routing cache hash table of <*> buckets, <*>",11
+2f758fc3,PCI Hot Plug PCI Core version: 0.5,11
+e7cc2496,"root=LABEL=/ initrd=/x86_64/initrd-2.6.9-5.0.5.EL-lustre-1.4.2-perfctr-admin console=tty0 console=ttyS0,19200 fastboot BOOT_IMAGE=/x86_64/vmlinuz-2.6.9-5.0.5.EL-lustre-1.4.2-perfctr",10
+c47c3599,Registered protocol family <*>,54
+f927eeab,Using software bounce buffering for IO (SWIOTLB),11
+7a555835,Probing PCI hardware (bus 00),10
+4fb9993c,Transparent bridge - 0000:00:1e.0,10
+a18fe907,Using ACPI for IRQ routing,11
+a60bce0b,Using MMCONFIG at e0000000,10
+a3b3ca94,Using configuration type 1,10
+91f4af36,Compressed image found at block 0,10
+b79ffc59,Disabled at runtime.,11
+7f533fb9,Initializing.,10
+4e48601f,Registering netfilter hooks,11
+25ea518d,Starting in permissive mode,10
+e3539859,Unregistering netfilter hooks,11
+c87fe378,Hash tables configured (established 262144 bind 65536),11
+beef2512,Direct-Access ANSI SCSI revision: 02,11
+5b4fee34,Processor ANSI SCSI revision: 02,11
+75765837,Disk quotas dquot_6.5.1,11
+13481907,Mounted root (ext2 filesystem).,10
+d342add0,MegaRAID Model: LD 0 <*> <*> Rev: 516A,11
+67a28f15,PE/PV Model: 1x2 SCSI BP Rev: 1.0,11
+84d10a1e,initialized,11
+8bd4b5f8,initializing netlink socket (disabled),11
+f36e8103,passed.,10
+e594c23b,4.1.0-ioctl (2003-12-10) initialised: #36#@#37#,10
+b3dc57c4,allocating divert_blk for <*>,22
+cafdce56,not allocating divert_blk for non-ethernet device <*>,22
+089f18f6,v2.0:USB HID core driver,10
+565e71b1,<*> e1000_probe: Intel(R) PRO/1000 Network Connection,22
+3693f6a9,<*> e1000_watchdog: NIC Link is Up 1000 Mbps Full Duplex,12
+16483862,no floppy controllers found,11
+1d7c8312,RNG not detected,11
+708630cc,Wait for ready failed before probe !,60
+e5fe6b9c,Assuming 33MHz system bus speed for PIO modes; override with idebus=xx,11
+279d4fa2,Unknown cmd fd(5) cmd(80081272){00} arg(ffffda44) on /dev/sda,10
+a56daf2e,(C) 2000-2002 Netfilter core team,43
+bfcd95ed,Installing public key data,11
+cd2a6bd5,... autorun DONE.,21
+953a8d97,Autodetecting RAID arrays.,21
+7ce70afa,autorun ...,21
+9f2ec7ba,"md driver 0.90.0 MAX_MD_DEVS=256, MD_SB_DISKS=27",11
+4e6045e6,#38#-rh1 (Release Date: Fri Dec 10 19:02:14 EST 2004),10
+37f6c5f9,#39# (Release Date: Mon Sep 27 22:15:07 EDT 2004),10
+4e8904d6,fw version:[516A] bios version:[H418],11
+c9d8cba9,probe new device 0x1028:0x0013:0x1028:0x016c: bus 2:slot 14:func 0,11
+a2351676,PS/2 mouse device common for all mice,11
+491b5cf3,v2.0 (20020519),10
+25830347,rpc.statd startup succeeded,401
+7d73b4c5,portmap startup succeeded,424
+2d44d780,Starting ts_fixup: succeeded,393
+8c112e82,Version 1.0.6 Starting,410
+7f146802,LSI Logic MegaRAID driver,11
+9460c3d1,scanning scsi channel 0 [Phy 0] for non-raid devices,11
+e7fc75d3,scanning scsi channel 1 [virtual] for logical drives,11
+6a604788,asking for cache data failed,11
+4d12f6fa,assuming drive cache: write through,11
+a48a4202,sda1 sda2 sda3 sda4,10
+30c0ff51,Registering secondary module capability,10
+a438cf34,"i8042 AUX port at 0x60,0x64 irq 12",11
+616763a7,"i8042 KBD port at 0x60,0x64 irq 1",11
+e7db57c4,syslog-ng startup succeeded,12
+c648b2ba,syslog-ng version 1.6.7 starting,11
+481e7ae7,Detected <*> MHz processor.,10
+c3fac8e7,Using 14.318180 MHz HPET timer.,10
+e8ca34b7,Using HPET based timekeeping.,10
+1a2ac521,Creating Topspin /dev entries:,381
+a4430800,registered new driver <*>,40
+2752726e,probe of vesafb0 failed with error -6,10
+3735007d,"connection from ""#28#""",46
+f5f1f1b7,User <*> coming from <*> authenticated.,278
+85d6aca3,Now running on <*> privileges.,277
+131558ad,Mounting NFS filesystems: <*>,284
+4d0e7815,Mounting other filesystems: <*>,226
+25a072d1,Warning: we failed to resolve data source name an14 an15 an16 an17 an18 an19 an20 an21 an22 an23 an24 an25 an26 an27 an28 an29 an30 an31 an32 an33 an34 an35 an36 an37 an38 an39 an40 an41 an42 an43 an44 an45 an46 an47 an48 an49 an50 an51 an52 an53 an54 an55 an56 an57 an58 an59 an60 an61 an62 an63 an64 an65 an66 an67 an68 an69 an70 an71 an72 an73 an74 an75 an76 an77 an78 an79 an80 an81 an82 an83 an84 an85 an86 an87 an88 an89 an90 an91 an92 an93 an94 an95 an96 an97 an98 an99 an100 an101 an102 an103 an104 an105 an106 an107 an108 an109 an110 an111 an112 an113 an114 an115 an116 an117 an118 an119 an120 an121 an122 an123 an124 an125 an126 an127 an128,20
+d5dd09eb,Warning: we failed to resolve data source name an142 an143 an144 an145 an146 an147 an148 an149 an150 an151 an152 an153 an154 an155 an156 an157 an158 an159 an160 an161 an162 an163 an164 an165 an166 an167 an168 an169 an170 an171 an172 an173 an174 an175 an176 an177 an178 an179 an180 an181 an182 an183 an184 an185 an186 an187 an188 an189 an190 an191 an192 an193 an194 an195 an196 an197 an198 an199 an200 an201 an202 an203 an204 an205 an206 an207 an208 an209 an210 an211 an212 an213 an214 an215 an216 an217 an218 an219 an220 an221 an222 an223 an224 an225 an226 an227 an228 an229 an230 an231 an232 an233 an234 an235 an236 an237 an238 an239 an240 an241 an242 an243 an244 an245 an246 an247 an248 an249 an250 an251 an252 an253 an254 an255 an256,10
+c59678c6,Warning: we failed to resolve data source name an270 an271 an272 an273 an274 an275 an276 an277 an278 an279 an280 an281 an282 an283 an284 an285 an286 an287 an288 an289 an290 an291 an292 an293 an294 an295 an296 an297 an298 an299 an300 an301 an302 an303 an304 an305 an306 an307 an308 an309 an310 an311 an312 an313 an314 an315 an316 an317 an318 an319 an320 an321 an322 an323 an324 an325 an326 an327 an328 an329 an330 an331 an332 an333 an334 an335 an336 an337 an338 an339 an340 an341 an342 an343 an344 an345 an346 an347 an348 an349 an350 an351 an352 an353 an354 an355 an356 an357 an358 an359 an360 an361 an362 an363 an364 an365 an366 an367 an368 an369 an370 an371 an372 an373 an374 an375 an376 an377 an378 an379 an380 an381 an382 an383 an384,10
+cccb11e7,Warning: we failed to resolve data source name an398 an399 an400 an401 an402 an403 an404 an405 an406 an407 an408 an409 an410 an411 an412 an413 an414 an415 an416 an417 an418 an419 an420 an421 an422 an423 an424 an425 an426 an427 an428 an429 an430 an431 an432 an433 an434 an435 an436 an437 an438 an439 an440 an441 an442 an443 an444 an445 an446 an447 an448 an449 an450 an451 an452 an453 an454 an455 an456 an457 an458 an459 an460 an461 an462 an463 an464 an465 an466 an467 an468 an469 an470 an471 an472 an473 an474 an475 an476 an477 an478 an479 an480 an481 an482 an483 an484 an485 an486 an487 an488 an489 an490 an491 an492 an493 an494 an495 an496 an497 an498 an499 an500 an501 an502 an503 an504 an505 an506 an507 an508 an509 an510 an511 an512,10
+9f26ab18,Warning: we failed to resolve data source name an526 an527 an528 an529 an530 an531 an532 an533 an534 an535 an536 an537 an538 an539 an540 an541 an542 an543 an544 an545 an546 an547 an548 an549 an550 an551 an552 an553 an554 an555 an556 an557 an558 an559 an560 an561 an562 an563 an564 an565 an566 an567 an568 an569 an570 an571 an572 an573 an574 an575 an576 an577 an578 an579 an580 an581 an582 an583 an584 an585 an586 an587 an588 an589 an590 an591 an592 an593 an594 an595 an596 an597 an598 an599 an600 an601 an602 an603 an604 an605 an606 an607 an608 an609 an610 an611 an612 an613 an614 an615 an616 an617 an618 an619 an620 an621 an622 an623 an624 an625 an626 an627 an628 an629 an630 an631 an632 an633 an634 an635 an636 an637 an638 an639 an640,10
+7461ee05,Warning: we failed to resolve data source name an654 an655 an656 an657 an658 an659 an660 an661 an662 an663 an664 an665 an666 an667 an668 an669 an670 an671 an672 an673 an674 an675 an676 an677 an678 an679 an680 an681 an682 an683 an684 an685 an686 an687 an688 an689 an690 an691 an692 an693 an694 an695 an696 an697 an698 an699 an700 an701 an702 an703 an704 an705 an706 an707 an708 an709 an710 an711 an712 an713 an714 an715 an716 an717 an718 an719 an720 an721 an722 an723 an724 an725 an726 an727 an728 an729 an730 an731 an732 an733 an734 an735 an736 an737 an738 an739 an740 an741 an742 an743 an744 an745 an746 an747 an748 an749 an750 an751 an752 an753 an754 an755 an756 an757 an758 an759 an760 an761 an762 an763 an764 an765 an766 an767 an768,10
+f251fb42,Warning: we failed to resolve data source name an782 an783 an784 an785 an786 an787 an788 an789 an790 an791 an792 an793 an794 an795 an796 an797 an798 an799 an800 an801 an802 an803 an804 an805 an806 an807 an808 an809 an810 an811 an812 an813 an814 an815 an816 an817 an818 an819 an820 an821 an822 an823 an824 an825 an826 an827 an828 an829 an830 an831 an832 an833 an834 an835 an836 an837 an838 an839 an840 an841 an842 an843 an844 an845 an846 an847 an848 an849 an850 an851 an852 an853 an854 an855 an856 an857 an858 an859 an860 an861 an862 an863 an864 an865 an866 an867 an868 an869 an870 an871 an872 an873 an874 an875 an876 an877 an878 an879 an880 an881 an882 an883 an884 an885 an886 an887 an888 an889 an890 an891 an892 an893 an894 an895 an896,10
+7cb0fa8a,Warning: we failed to resolve data source name an910 an911 an912 an913 an914 an915 an916 an917 an918 an919 an920 an921 an922 an923 an924 an925 an926 an927 an928 an929 an930 an931 an932 an933 an934 an935 an936 an937 an938 an939 an940 an941 an942 an943 an944 an945 an946 an947 an948 an949 an950 an951 an952 an953 an954 an955 an956 an957 an958 an959 an960 an961 an962 an963 an964 an965 an966 an967 an968 an969 an970 an971 an972 an973 an974 an975 an976 an977 an978 an979 an980 an981 an982 an983 an984 an985 an986 an987 an988 an989 an990 an991 an992 an993 an994 an995 an996 an997 an998 an999 an1000 an1001 an1002 an1003 an1004 an1005 an1006 an1007 an1008 an1009 an1010 an1011 an1012 an1013 an1014 an1015 an1016 an1017 an1018 an1019 an1020 an1021 an1022 an1023 an1024,10
+f522ad29,Warning: we failed to resolve data source name bn14 bn15 bn16 bn17 bn18 bn19 bn20 bn21 bn22 bn23 bn24 bn25 bn26 bn27 bn28 bn29 bn30 bn31 bn32 bn33 bn34 bn35 bn36 bn37 bn38 bn39 bn40 bn41 bn42 bn43 bn44 bn45 bn46 bn47 bn48 bn49 bn50 bn51 bn52 bn53 bn54 bn55 bn56 bn57 bn58 bn59 bn60 bn61 bn62 bn63 bn64 bn65 bn66 bn67 bn68 bn69 bn70 bn71 bn72 bn73 bn74 bn75 bn76 bn77 bn78 bn79 bn80 bn81 bn82 bn83 bn84 bn85 bn86 bn87 bn88 bn89 bn90 bn91 bn92 bn93 bn94 bn95 bn96 bn97 bn98 bn99 bn100 bn101 bn102 bn103 bn104 bn105 bn106 bn107 bn108 bn109 bn110 bn111 bn112 bn113 bn114 bn115 bn116 bn117 bn118 bn119 bn120 bn121 bn122 bn123 bn124 bn125 bn126 bn127 bn128,10
+dd13dd64,Warning: we failed to resolve data source name bn142 bn143 bn144 bn145 bn146 bn147 bn148 bn149 bn150 bn151 bn152 bn153 bn154 bn155 bn156 bn157 bn158 bn159 bn160 bn161 bn162 bn163 bn164 bn165 bn166 bn167 bn168 bn169 bn170 bn171 bn172 bn173 bn174 bn175 bn176 bn177 bn178 bn179 bn180 bn181 bn182 bn183 bn184 bn185 bn186 bn187 bn188 bn189 bn190 bn191 bn192 bn193 bn194 bn195 bn196 bn197 bn198 bn199 bn200 bn201 bn202 bn203 bn204 bn205 bn206 bn207 bn208 bn209 bn210 bn211 bn212 bn213 bn214 bn215 bn216 bn217 bn218 bn219 bn220 bn221 bn222 bn223 bn224 bn225 bn226 bn227 bn228 bn229 bn230 bn231 bn232 bn233 bn234 bn235 bn236 bn237 bn238 bn239 bn240 bn241 bn242 bn243 bn244 bn245 bn246 bn247 bn248 bn249 bn250 bn251 bn252 bn253 bn254 bn255 bn256,10
+edcddc07,Warning: we failed to resolve data source name bn270 bn271 bn272 bn273 bn274 bn275 bn276 bn277 bn278 bn279 bn280 bn281 bn282 bn283 bn284 bn285 bn286 bn287 bn288 bn289 bn290 bn291 bn292 bn293 bn294 bn295 bn296 bn297 bn298 bn299 bn300 bn301 bn302 bn303 bn304 bn305 bn306 bn307 bn308 bn309 bn310 bn311 bn312 bn313 bn314 bn315 bn316 bn317 bn318 bn319 bn320 bn321 bn322 bn323 bn324 bn325 bn326 bn327 bn328 bn329 bn330 bn331 bn332 bn333 bn334 bn335 bn336 bn337 bn338 bn339 bn340 bn341 bn342 bn343 bn344 bn345 bn346 bn347 bn348 bn349 bn350 bn351 bn352 bn353 bn354 bn355 bn356 bn357 bn358 bn359 bn360 bn361 bn362 bn363 bn364 bn365 bn366 bn367 bn368 bn369 bn370 bn371 bn372 bn373 bn374 bn375 bn376 bn377 bn378 bn379 bn380 bn381 bn382 bn383 bn384,10
+b6fc3d7a,Warning: we failed to resolve data source name bn398 bn399 bn400 bn401 bn402 bn403 bn404 bn405 bn406 bn407 bn408 bn409 bn410 bn411 bn412 bn413 bn414 bn415 bn416 bn417 bn418 bn419 bn420 bn421 bn422 bn423 bn424 bn425 bn426 bn427 bn428 bn429 bn430 bn431 bn432 bn433 bn434 bn435 bn436 bn437 bn438 bn439 bn440 bn441 bn442 bn443 bn444 bn445 bn446 bn447 bn448 bn449 bn450 bn451 bn452 bn453 bn454 bn455 bn456 bn457 bn458 bn459 bn460 bn461 bn462 bn463 bn464 bn465 bn466 bn467 bn468 bn469 bn470 bn471 bn472 bn473 bn474 bn475 bn476 bn477 bn478 bn479 bn480 bn481 bn482 bn483 bn484 bn485 bn486 bn487 bn488 bn489 bn490 bn491 bn492 bn493 bn494 bn495 bn496 bn497 bn498 bn499 bn500 bn501 bn502 bn503 bn504 bn505 bn506 bn507 bn508 bn509 bn510 bn511 bn512,10
+6f83c3f4,Warning: we failed to resolve data source name bn526 bn527 bn528 bn529 bn530 bn531 bn532 bn533 bn534 bn535 bn536 bn537 bn538 bn539 bn540 bn541 bn542 bn543 bn544 bn545 bn546 bn547 bn548 bn549 bn550 bn551 bn552 bn553 bn554 bn555 bn556 bn557 bn558 bn559 bn560 bn561 bn562 bn563 bn564 bn565 bn566 bn567 bn568 bn569 bn570 bn571 bn572 bn573 bn574 bn575 bn576 bn577 bn578 bn579 bn580 bn581 bn582 bn583 bn584 bn585 bn586 bn587 bn588 bn589 bn590 bn591 bn592 bn593 bn594 bn595 bn596 bn597 bn598 bn599 bn600 bn601 bn602 bn603 bn604 bn605 bn606 bn607 bn608 bn609 bn610 bn611 bn612 bn613 bn614 bn615 bn616 bn617 bn618 bn619 bn620 bn621 bn622 bn623 bn624 bn625 bn626 bn627 bn628 bn629 bn630 bn631 bn632 bn633 bn634 bn635 bn636 bn637 bn638 bn639 bn640,10
+8d48c09b,Warning: we failed to resolve data source name bn654 bn655 bn656 bn657 bn658 bn659 bn660 bn661 bn662 bn663 bn664 bn665 bn666 bn667 bn668 bn669 bn670 bn671 bn672 bn673 bn674 bn675 bn676 bn677 bn678 bn679 bn680 bn681 bn682 bn683 bn684 bn685 bn686 bn687 bn688 bn689 bn690 bn691 bn692 bn693 bn694 bn695 bn696 bn697 bn698 bn699 bn700 bn701 bn702 bn703 bn704 bn705 bn706 bn707 bn708 bn709 bn710 bn711 bn712 bn713 bn714 bn715 bn716 bn717 bn718 bn719 bn720 bn721 bn722 bn723 bn724 bn725 bn726 bn727 bn728 bn729 bn730 bn731 bn732 bn733 bn734 bn735 bn736 bn737 bn738 bn739 bn740 bn741 bn742 bn743 bn744 bn745 bn746 bn747 bn748 bn749 bn750 bn751 bn752 bn753 bn754 bn755 bn756 bn757 bn758 bn759 bn760 bn761 bn762 bn763 bn764 bn765 bn766 bn767 bn768,10
+cc3d2433,Warning: we failed to resolve data source name dadmin2 dadmin3 dadmin4,10
+6ec154ac,RRD_update (/var/lib/ganglia/rrds/unspecified/badmin3/disk_total.rrd): illegal attempt to update using time <*> when last update time is <*> (minimum one second step),115
+177da6c1,Warning: we failed to resolve data source name bn782 bn783 bn784 bn785 bn786 bn787 bn788 bn789 bn790 bn791 bn792 bn793 bn794 bn795 bn796 bn797 bn798 bn799 bn800 bn801 bn802 bn803 bn804 bn805 bn806 bn807 bn808 bn809 bn810 bn811 bn812 bn813 bn814 bn815 bn816 bn817 bn818 bn819 bn820 bn821 bn822 bn823 bn824 bn825 bn826 bn827 bn828 bn829 bn830 bn831 bn832 bn833 bn834 bn835 bn836 bn837 bn838 bn839 bn840 bn841 bn842 bn843 bn844 bn845 bn846 bn847 bn848 bn849 bn850 bn851 bn852 bn853 bn854 bn855 bn856 bn857 bn858 bn859 bn860 bn861 bn862 bn863 bn864 bn865 bn866 bn867 bn868 bn869 bn870 bn871 bn872 bn873 bn874 bn875 bn876 bn877 bn878 bn879 bn880 bn881 bn882 bn883 bn884 bn885 bn886 bn887 bn888 bn889 bn890 bn891 bn892 bn893 bn894 bn895 bn896,10
+33336686,Warning: we failed to resolve data source name bn910 bn911 bn912 bn913 bn914 bn915 bn916 bn917 bn918 bn919 bn920 bn921 bn922 bn923 bn924 bn925 bn926 bn927 bn928 bn929 bn930 bn931 bn932 bn933 bn934 bn935 bn936 bn937 bn938 bn939 bn940 bn941 bn942 bn943 bn944 bn945 bn946 bn947 bn948 bn949 bn950 bn951 bn952 bn953 bn954 bn955 bn956 bn957 bn958 bn959 bn960 bn961 bn962 bn963 bn964 bn965 bn966 bn967 bn968 bn969 bn970 bn971 bn972 bn973 bn974 bn975 bn976 bn977 bn978 bn979 bn980 bn981 bn982 bn983 bn984 bn985 bn986 bn987 bn988 bn989 bn990 bn991 bn992 bn993 bn994 bn995 bn996 bn997 bn998 bn999 bn1000 bn1001 bn1002 bn1003 bn1004 bn1005 bn1006 bn1007 bn1008 bn1009 bn1010 bn1011 bn1012 bn1013 bn1014 bn1015 bn1016 bn1017 bn1018 bn1019 bn1020 bn1021 bn1022 bn1023 bn1024,10
+b5659518,Warning: we failed to resolve data source name cn14 cn15 cn16 cn17 cn18 cn19 cn20 cn21 cn22 cn23 cn24 cn25 cn26 cn27 cn28 cn29 cn30 cn31 cn32 cn33 cn34 cn35 cn36 cn37 cn38 cn39 cn40 cn41 cn42 cn43 cn44 cn45 cn46 cn47 cn48 cn49 cn50 cn51 cn52 cn53 cn54 cn55 cn56 cn57 cn58 cn59 cn60 cn61 cn62 cn63 cn64 cn65 cn66 cn67 cn68 cn69 cn70 cn71 cn72 cn73 cn74 cn75 cn76 cn77 cn78 cn79 cn80 cn81 cn82 cn83 cn84 cn85 cn86 cn87 cn88 cn89 cn90 cn91 cn92 cn93 cn94 cn95 cn96 cn97 cn98 cn99 cn100 cn101 cn102 cn103 cn104 cn105 cn106 cn107 cn108 cn109 cn110 cn111 cn112 cn113 cn114 cn115 cn116 cn117 cn118 cn119 cn120 cn121 cn122 cn123 cn124 cn125 cn126 cn127 cn128,10
+54f6f651,Warning: we failed to resolve data source name cn142 cn143 cn144 cn145 cn146 cn147 cn148 cn149 cn150 cn151 cn152 cn153 cn154 cn155 cn156 cn157 cn158 cn159 cn160 cn161 cn162 cn163 cn164 cn165 cn166 cn167 cn168 cn169 cn170 cn171 cn172 cn173 cn174 cn175 cn176 cn177 cn178 cn179 cn180 cn181 cn182 cn183 cn184 cn185 cn186 cn187 cn188 cn189 cn190 cn191 cn192 cn193 cn194 cn195 cn196 cn197 cn198 cn199 cn200 cn201 cn202 cn203 cn204 cn205 cn206 cn207 cn208 cn209 cn210 cn211 cn212 cn213 cn214 cn215 cn216 cn217 cn218 cn219 cn220 cn221 cn222 cn223 cn224 cn225 cn226 cn227 cn228 cn229 cn230 cn231 cn232 cn233 cn234 cn235 cn236 cn237 cn238 cn239 cn240 cn241 cn242 cn243 cn244 cn245 cn246 cn247 cn248 cn249 cn250 cn251 cn252 cn253 cn254 cn255 cn256,10
+4d427333,Warning: we failed to resolve data source name cn270 cn271 cn272 cn273 cn274 cn275 cn276 cn277 cn278 cn279 cn280 cn281 cn282 cn283 cn284 cn285 cn286 cn287 cn288 cn289 cn290 cn291 cn292 cn293 cn294 cn295 cn296 cn297 cn298 cn299 cn300 cn301 cn302 cn303 cn304 cn305 cn306 cn307 cn308 cn309 cn310 cn311 cn312 cn313 cn314 cn315 cn316 cn317 cn318 cn319 cn320 cn321 cn322 cn323 cn324 cn325 cn326 cn327 cn328 cn329 cn330 cn331 cn332 cn333 cn334 cn335 cn336 cn337 cn338 cn339 cn340 cn341 cn342 cn343 cn344 cn345 cn346 cn347 cn348 cn349 cn350 cn351 cn352 cn353 cn354 cn355 cn356 cn357 cn358 cn359 cn360 cn361 cn362 cn363 cn364 cn365 cn366 cn367 cn368 cn369 cn370 cn371 cn372 cn373 cn374 cn375 cn376 cn377 cn378 cn379 cn380 cn381 cn382 cn383 cn384,10
+0add0991,Warning: we failed to resolve data source name cn398 cn399 cn400 cn401 cn402 cn403 cn404 cn405 cn406 cn407 cn408 cn409 cn410 cn411 cn412 cn413 cn414 cn415 cn416 cn417 cn418 cn419 cn420 cn421 cn422 cn423 cn424 cn425 cn426 cn427 cn428 cn429 cn430 cn431 cn432 cn433 cn434 cn435 cn436 cn437 cn438 cn439 cn440 cn441 cn442 cn443 cn444 cn445 cn446 cn447 cn448 cn449 cn450 cn451 cn452 cn453 cn454 cn455 cn456 cn457 cn458 cn459 cn460 cn461 cn462 cn463 cn464 cn465 cn466 cn467 cn468 cn469 cn470 cn471 cn472 cn473 cn474 cn475 cn476 cn477 cn478 cn479 cn480 cn481 cn482 cn483 cn484 cn485 cn486 cn487 cn488 cn489 cn490 cn491 cn492 cn493 cn494 cn495 cn496 cn497 cn498 cn499 cn500 cn501 cn502 cn503 cn504 cn505 cn506 cn507 cn508 cn509 cn510 cn511 cn512,10
+5f09be64,Warning: we failed to resolve data source name cn526 cn527 cn528 cn529 cn530 cn531 cn532 cn533 cn534 cn535 cn536 cn537 cn538 cn539 cn540 cn541 cn542 cn543 cn544 cn545 cn546 cn547 cn548 cn549 cn550 cn551 cn552 cn553 cn554 cn555 cn556 cn557 cn558 cn559 cn560 cn561 cn562 cn563 cn564 cn565 cn566 cn567 cn568 cn569 cn570 cn571 cn572 cn573 cn574 cn575 cn576 cn577 cn578 cn579 cn580 cn581 cn582 cn583 cn584 cn585 cn586 cn587 cn588 cn589 cn590 cn591 cn592 cn593 cn594 cn595 cn596 cn597 cn598 cn599 cn600 cn601 cn602 cn603 cn604 cn605 cn606 cn607 cn608 cn609 cn610 cn611 cn612 cn613 cn614 cn615 cn616 cn617 cn618 cn619 cn620 cn621 cn622 cn623 cn624 cn625 cn626 cn627 cn628 cn629 cn630 cn631 cn632 cn633 cn634 cn635 cn636 cn637 cn638 cn639 cn640,10
+73ed15a4,Warning: we failed to resolve data source name cn654 cn655 cn656 cn657 cn658 cn659 cn660 cn661 cn662 cn663 cn664 cn665 cn666 cn667 cn668 cn669 cn670 cn671 cn672 cn673 cn674 cn675 cn676 cn677 cn678 cn679 cn680 cn681 cn682 cn683 cn684 cn685 cn686 cn687 cn688 cn689 cn690 cn691 cn692 cn693 cn694 cn695 cn696 cn697 cn698 cn699 cn700 cn701 cn702 cn703 cn704 cn705 cn706 cn707 cn708 cn709 cn710 cn711 cn712 cn713 cn714 cn715 cn716 cn717 cn718 cn719 cn720 cn721 cn722 cn723 cn724 cn725 cn726 cn727 cn728 cn729 cn730 cn731 cn732 cn733 cn734 cn735 cn736 cn737 cn738 cn739 cn740 cn741 cn742 cn743 cn744 cn745 cn746 cn747 cn748 cn749 cn750 cn751 cn752 cn753 cn754 cn755 cn756 cn757 cn758 cn759 cn760 cn761 cn762 cn763 cn764 cn765 cn766 cn767 cn768,10
+cdb4bef8,Warning: we failed to resolve data source name cn782 cn783 cn784 cn785 cn786 cn787 cn788 cn789 cn790 cn791 cn792 cn793 cn794 cn795 cn796 cn797 cn798 cn799 cn800 cn801 cn802 cn803 cn804 cn805 cn806 cn807 cn808 cn809 cn810 cn811 cn812 cn813 cn814 cn815 cn816 cn817 cn818 cn819 cn820 cn821 cn822 cn823 cn824 cn825 cn826 cn827 cn828 cn829 cn830 cn831 cn832 cn833 cn834 cn835 cn836 cn837 cn838 cn839 cn840 cn841 cn842 cn843 cn844 cn845 cn846 cn847 cn848 cn849 cn850 cn851 cn852 cn853 cn854 cn855 cn856 cn857 cn858 cn859 cn860 cn861 cn862 cn863 cn864 cn865 cn866 cn867 cn868 cn869 cn870 cn871 cn872 cn873 cn874 cn875 cn876 cn877 cn878 cn879 cn880 cn881 cn882 cn883 cn884 cn885 cn886 cn887 cn888 cn889 cn890 cn891 cn892 cn893 cn894 cn895 cn896,10
+5742405a,Warning: we failed to resolve data source name cn910 cn911 cn912 cn913 cn914 cn915 cn916 cn917 cn918 cn919 cn920 cn921 cn922 cn923 cn924 cn925 cn926 cn927 cn928 cn929 cn930 cn931 cn932 cn933 cn934 cn935 cn936 cn937 cn938 cn939 cn940 cn941 cn942 cn943 cn944 cn945 cn946 cn947 cn948 cn949 cn950 cn951 cn952 cn953 cn954 cn955 cn956 cn957 cn958 cn959 cn960 cn961 cn962 cn963 cn964 cn965 cn966 cn967 cn968 cn969 cn970 cn971 cn972 cn973 cn974 cn975 cn976 cn977 cn978 cn979 cn980 cn981 cn982 cn983 cn984 cn985 cn986 cn987 cn988 cn989 cn990 cn991 cn992 cn993 cn994 cn995 cn996 cn997 cn998 cn999 cn1000 cn1001 cn1002 cn1003 cn1004 cn1005 cn1006 cn1007 cn1008 cn1009 cn1010 cn1011 cn1012 cn1013 cn1014 cn1015 cn1016 cn1017 cn1018 cn1019 cn1020 cn1021 cn1022 cn1023 cn1024,10
+8c1f7859,Warning: we failed to resolve data source name dn14 dn15 dn16 dn17 dn18 dn19 dn20 dn21 dn22 dn23 dn24 dn25 dn26 dn27 dn28 dn29 dn30 dn31 dn32 dn33 dn34 dn35 dn36 dn37 dn38 dn39 dn40 dn41 dn42 dn43 dn44 dn45 dn46 dn47 dn48 dn49 dn50 dn51 dn52 dn53 dn54 dn55 dn56 dn57 dn58 dn59 dn60 dn61 dn62 dn63 dn64 dn65 dn66 dn67 dn68 dn69 dn70 dn71 dn72 dn73 dn74 dn75 dn76 dn77 dn78 dn79 dn80 dn81 dn82 dn83 dn84 dn85 dn86 dn87 dn88 dn89 dn90 dn91 dn92 dn93 dn94 dn95 dn96 dn97 dn98 dn99 dn100 dn101 dn102 dn103 dn104 dn105 dn106 dn107 dn108 dn109 dn110 dn111 dn112 dn113 dn114 dn115 dn116 dn117 dn118 dn119 dn120 dn121 dn122 dn123 dn124 dn125 dn126 dn127 dn128,10
+52f5ac8e,Warning: we failed to resolve data source name dn142 dn143 dn144 dn145 dn146 dn147 dn148 dn149 dn150 dn151 dn152 dn153 dn154 dn155 dn156 dn157 dn158 dn159 dn160 dn161 dn162 dn163 dn164 dn165 dn166 dn167 dn168 dn169 dn170 dn171 dn172 dn173 dn174 dn175 dn176 dn177 dn178 dn179 dn180 dn181 dn182 dn183 dn184 dn185 dn186 dn187 dn188 dn189 dn190 dn191 dn192 dn193 dn194 dn195 dn196 dn197 dn198 dn199 dn200 dn201 dn202 dn203 dn204 dn205 dn206 dn207 dn208 dn209 dn210 dn211 dn212 dn213 dn214 dn215 dn216 dn217 dn218 dn219 dn220 dn221 dn222 dn223 dn224 dn225 dn226 dn227 dn228 dn229 dn230 dn231 dn232 dn233 dn234 dn235 dn236 dn237 dn238 dn239 dn240 dn241 dn242 dn243 dn244 dn245 dn246 dn247 dn248 dn249 dn250 dn251 dn252 dn253 dn254 dn255 dn256,10
+18455a45,Warning: we failed to resolve data source name dn270 dn271 dn272 dn273 dn274 dn275 dn276 dn277 dn278 dn279 dn280 dn281 dn282 dn283 dn284 dn285 dn286 dn287 dn288 dn289 dn290 dn291 dn292 dn293 dn294 dn295 dn296 dn297 dn298 dn299 dn300 dn301 dn302 dn303 dn304 dn305 dn306 dn307 dn308 dn309 dn310 dn311 dn312 dn313 dn314 dn315 dn316 dn317 dn318 dn319 dn320 dn321 dn322 dn323 dn324 dn325 dn326 dn327 dn328 dn329 dn330 dn331 dn332 dn333 dn334 dn335 dn336 dn337 dn338 dn339 dn340 dn341 dn342 dn343 dn344 dn345 dn346 dn347 dn348 dn349 dn350 dn351 dn352 dn353 dn354 dn355 dn356 dn357 dn358 dn359 dn360 dn361 dn362 dn363 dn364 dn365 dn366 dn367 dn368 dn369 dn370 dn371 dn372 dn373 dn374 dn375 dn376 dn377 dn378 dn379 dn380 dn381 dn382 dn383 dn384,10
+5340900e,Warning: we failed to resolve data source name dn398 dn399 dn400 dn401 dn402 dn403 dn404 dn405 dn406 dn407 dn408 dn409 dn410 dn411 dn412 dn413 dn414 dn415 dn416 dn417 dn418 dn419 dn420 dn421 dn422 dn423 dn424 dn425 dn426 dn427 dn428 dn429 dn430 dn431 dn432 dn433 dn434 dn435 dn436 dn437 dn438 dn439 dn440 dn441 dn442 dn443 dn444 dn445 dn446 dn447 dn448 dn449 dn450 dn451 dn452 dn453 dn454 dn455 dn456 dn457 dn458 dn459 dn460 dn461 dn462 dn463 dn464 dn465 dn466 dn467 dn468 dn469 dn470 dn471 dn472 dn473 dn474 dn475 dn476 dn477 dn478 dn479 dn480 dn481 dn482 dn483 dn484 dn485 dn486 dn487 dn488 dn489 dn490 dn491 dn492 dn493 dn494 dn495 dn496 dn497 dn498 dn499 dn500 dn501 dn502 dn503 dn504 dn505 dn506 dn507 dn508 dn509 dn510 dn511 dn512,10
+a0545d96,Warning: we failed to resolve data source name dn526 dn527 dn528 dn529 dn530 dn531 dn532 dn533 dn534 dn535 dn536 dn537 dn538 dn539 dn540 dn541 dn542 dn543 dn544 dn545 dn546 dn547 dn548 dn549 dn550 dn551 dn552 dn553 dn554 dn555 dn556 dn557 dn558 dn559 dn560 dn561 dn562 dn563 dn564 dn565 dn566 dn567 dn568 dn569 dn570 dn571 dn572 dn573 dn574 dn575 dn576 dn577 dn578 dn579 dn580 dn581 dn582 dn583 dn584 dn585 dn586 dn587 dn588 dn589 dn590 dn591 dn592 dn593 dn594 dn595 dn596 dn597 dn598 dn599 dn600 dn601 dn602 dn603 dn604 dn605 dn606 dn607 dn608 dn609 dn610 dn611 dn612 dn613 dn614 dn615 dn616 dn617 dn618 dn619 dn620 dn621 dn622 dn623 dn624 dn625 dn626 dn627 dn628 dn629 dn630 dn631 dn632 dn633 dn634 dn635 dn636 dn637 dn638 dn639 dn640,10
+5c218f8e,Warning: we failed to resolve data source name dn654 dn655 dn656 dn657 dn658 dn659 dn660 dn661 dn662 dn663 dn664 dn665 dn666 dn667 dn668 dn669 dn670 dn671 dn672 dn673 dn674 dn675 dn676 dn677 dn678 dn679 dn680 dn681 dn682 dn683 dn684 dn685 dn686 dn687 dn688 dn689 dn690 dn691 dn692 dn693 dn694 dn695 dn696 dn697 dn698 dn699 dn700 dn701 dn702 dn703 dn704 dn705 dn706 dn707 dn708 dn709 dn710 dn711 dn712 dn713 dn714 dn715 dn716 dn717 dn718 dn719 dn720 dn721 dn722 dn723 dn724 dn725 dn726 dn727 dn728 dn729 dn730 dn731 dn732 dn733 dn734 dn735 dn736 dn737 dn738 dn739 dn740 dn741 dn742 dn743 dn744 dn745 dn746 dn747 dn748 dn749 dn750 dn751 dn752 dn753 dn754 dn755 dn756 dn757 dn758 dn759 dn760 dn761 dn762 dn763 dn764 dn765 dn766 dn767 dn768,10
+324936f2,Warning: we failed to resolve data source name dn782 dn783 dn784 dn785 dn786 dn787 dn788 dn789 dn790 dn791 dn792 dn793 dn794 dn795 dn796 dn797 dn798 dn799 dn800 dn801 dn802 dn803 dn804 dn805 dn806 dn807 dn808 dn809 dn810 dn811 dn812 dn813 dn814 dn815 dn816 dn817 dn818 dn819 dn820 dn821 dn822 dn823 dn824 dn825 dn826 dn827 dn828 dn829 dn830 dn831 dn832 dn833 dn834 dn835 dn836 dn837 dn838 dn839 dn840 dn841 dn842 dn843 dn844 dn845 dn846 dn847 dn848 dn849 dn850 dn851 dn852 dn853 dn854 dn855 dn856 dn857 dn858 dn859 dn860 dn861 dn862 dn863 dn864 dn865 dn866 dn867 dn868 dn869 dn870 dn871 dn872 dn873 dn874 dn875 dn876 dn877 dn878 dn879 dn880 dn881 dn882 dn883 dn884 dn885 dn886 dn887 dn888 dn889 dn890 dn891 dn892 dn893 dn894 dn895 dn896,10
+1284c498,Warning: we failed to resolve data source name dn910 dn911 dn912 dn913 dn914 dn915 dn916 dn917 dn918 dn919 dn920 dn921 dn922 dn923 dn924 dn925 dn926 dn927 dn928 dn929 dn930 dn931 dn932 dn933 dn934 dn935 dn936 dn937 dn938 dn939 dn940 dn941 dn942 dn943 dn944 dn945 dn946 dn947 dn948 dn949 dn950 dn951 dn952 dn953 dn954 dn955 dn956 dn957 dn958 dn959 dn960 dn961 dn962 dn963 dn964 dn965 dn966 dn967 dn968 dn969 dn970 dn971 dn972 dn973 dn974 dn975 dn976 dn977 dn978 dn979 dn980 dn981 dn982 dn983 dn984 dn985 dn986 dn987 dn988 dn989 dn990 dn991 dn992 dn993 dn994 dn995 dn996 dn997 dn998 dn999 dn1000 dn1001 dn1002 dn1003 dn1004 dn1005 dn1006 dn1007 dn1008 dn1009 dn1010 dn1011 dn1012 dn1013 dn1014 dn1015 dn1016 dn1017 dn1018 dn1019 dn1020 dn1021 dn1022 dn1023 dn1024,10
+019bb08c,Warning: we failed to resolve trusted host name dadmin3 dadmin4,10
+264d5edd,gmetad startup succeeded,10
+9b1751bd,succeeded,244
+e652840d,Server listening on :: port 22.,79
+a8b7eb25,error: Bind to port 22 on <*> failed: Address already in use.,79
+712394d8,Cannot open file /dev/logsurfer for writing (No such file or directory),10
+79af7456,Changing permissions on special file /dev/logsurfer,11
+09f718ce,xinetd startup succeeded,81
+0d55b2d4,Reading included configuration file: <*> <*> [line=15],324
+c14a328c,Reading included configuration file: <*> <*> [line=18],91
+49149713,Reading included configuration file: <*> <*> [line=17],162
+b8a54d2a,Reading included configuration file: /etc/xinetd.d/daytime [file=/etc/xinetd.d/daytime] [line=11],81
+d2553927,Reading included configuration file: <*> <*> [line=14],164
+9b227401,Reading included configuration file: <*> <*> [line=13],404
+f87da624,Reading included configuration file: /etc/xinetd.d/rsync [file=/etc/xinetd.d/rsync] [line=12],81
+0188b48f,Started working: 1 available service,10
+260dcbc4,removing chargen,162
+21dea3dd,removing daytime,162
+a0183fd1,removing echo,162
+73265bab,removing eklogin,81
+ce314661,removing ftp,80
+f8c3256b,removing klogin,81
+077005f0,removing kshell,81
+c27729e2,removing ntalk,81
+69f0f986,removing printer,81
+35a2dfee,removing rsync,80
+8857d862,removing telnet,81
+9550986e,removing time,162
+3f023526,xinetd Version 2.3.13 started with libwrap loadavg options compiled in.,81
+41a28f14,"jA9JBWxH019649: from=root, size=1596872, class=0, nrcpts=1, msgid=<200511091911.jA9JBWxH019649@aadmin1>, relay=#7#@localhost",2
+29329e2b,"Device: /dev/sda, Temperature changed <*> Celsius to <*> Celsius since last report",462
+c89a99ae,tftp: client does not accept options,2345
+25be66dc,warning: unable to look up public/pickup: No such file or directory,479
+668ba66e,Connection broken to <*> reopening in 60 seconds,60
+9dd66d82,Accepted publickey for <*> from ::ffff:<*> port <*> ssh2,11204
+2068e6ab,START: rsync <*> from=<*>,13732
+41f5477e,Kickstart Install: Torque Mom and Maui speconf Tree,75
+e72b9d1c,Kickstart: configure services,75
+877055b5,Kickstart Install: Prepare speconf_sync to work,75
+d4c8f7e8,Kickstart: setup firstboot,75
+b78d4fb4,Kickstart: setup firstboot for ganglia client software,75
+1bb03c69,pam_timestamp: updated timestamp file <*>,302
+f5aa81fa,running '/usr/sbin/up2date --nox -i <*> with root privileges on behalf of 'root',151
+08a26756,gmond startup succeeded,146
+737a3a33,gmond shutdown succeeded,124
+f3f66216,Kickstart Install: Setup to become a Tbird login,74
+a26fdf53,Kickstart Install: tbird kernel package,75
+0a0321a8,Kickstart: setup firstboot for tbird panasas env,75
+d96740f1,Installing all prepared tables,1
+75d40ea8,Starting NFS services: succeeded,10
+27e0a36f,rpc.mountd startup succeeded,10
+beef3b8e,rpc.nfsd startup succeeded,10
+c4f71aab,rpc.rquotad startup succeeded,10
+713e618e,ntpd startup succeeded,156
+145a6ec5,Listening on interface <*> <*>#123,554
+f255941b,"Listening on interface wildcard, ::#123",80
+a419589d,kernel time sync status 0040,156
+f85d8172,ntpd #2#@1.1190-r Mon Oct 11 09:15:58 EDT 2004 (1),156
+e7a11707,precision = 1.000 usec,156
+9b53702b,signal_no_reset: signal 13 had flags 4000000,9
+34c3c947,step time server <*> offset <*> sec,154
+02efd722,/usr/bin/mysqladmin -u root -h tbird-admin1 password 'new-password',1
+045b685d,/usr/bin/mysqladmin -u root password 'new-password',1
+34356470,Fill help tables,1
+0d4ae4b8,PLEASE REMEMBER TO SET A PASSWORD FOR THE MySQL root USER !,1
+36e9961d,Please report any problems with the /usr/bin/mysqlbug script!,1
+e58ee2d1,See the manual for more instructions.,1
+c559931e,Support MySQL by buying support/licenses at https://#4#,1
+cdb07b75,The latest information about MySQL is available on the web at,1
+6fb417d7,"To do so, start the server, then issue the following commands:",1
+2cd9c9e6,To start mysqld at boot time you have to copy support-files/mysql.server,1
+66d86e68,You can start the MySQL daemon with:,1
+39453fac,You can test the MySQL daemon with the benchmarks in the 'sql-bench' directory:,1
+ca8dd7ab,cd /usr ; /usr/bin/mysqld_safe &,1
+d2f4f92f,cd sql-bench ; perl run-all-tests,1
+86881b51,http://#5#,1
+1775fb9c,to the right place for your system,1
+789f6dce,Initializing MySQL database: succeeded,1
+2cdea1de,Starting MySQL: succeeded,9
+1efc109b,All rights reserved.,83
+3cd5b830,Copyright 2004 Internet Systems Consortium.,83
+63aedad2,"For info, please visit http://#6#/sw/dhcp/",83
+626cb88a,Internet Systems Consortium DHCP Server V3.0.1,83
+3a04b00c,Listening on LPF/eth0/00:11:43:e3:94:9a/admin_net,18
+cd74efee,Sending on LPF/eth0/00:11:43:e3:94:9a/admin_net,18
+917dcc8b,Sending on Socket/fallback/fallback-net,62
+743ffbc8,Wrote 0 deleted host decls to leases file.,62
+8a39b2b6,Wrote 0 leases to leases file.,62
+2f8fcf13,Wrote 0 new dynamic host decls to leases file.,62
+c0f8e2ad,dhcpd startup succeeded,31
+de4d8a88,httpd startup succeeded,10
+5c28aa6b,<*> avc: denied { read write } for <*> comm=ntpdate name=tty dev=ram0 ino=46 scontext=user_u:system_r:ntpd_t tcontext=system_u:object_r:file_t tclass=chr_file,76
+e7e9bfba,setup NTP client,75
+55ab9c77,ntpd shutdown failed,76
+6a170761,<*> avc: denied { read } for pid=19257 comm=ntpdate <*> <*> <*> scontext=user_u:system_r:ntpd_t <*> tclass=file,69
+750f0dca,<*> avc: denied { read } for <*> comm=ntpdate path=/tmp/biosdev (deleted) dev=ramfs <*> scontext=user_u:system_r:ntpd_t tcontext=user_u:object_r:ramfs_t tclass=blk_file,76
+83399815,<*> avc: denied { <*> } for <*> comm=ntpdate <*> dev=ramfs <*> scontext=user_u:system_r:ntpd_t tcontext=system_u:object_r:ramfs_t tclass=file,84
+7ca97cfe,<*> avc: denied { read write } for <*> comm=ntpdate <*> dev=sockfs <*> scontext=user_u:system_r:ntpd_t tcontext=user_u:system_r:unconfined_t tclass=udp_socket,76
+03f9d102,<*> avc: denied { search } for <*> comm=ntpdate name=dev dev=ram0 ino=30 scontext=user_u:system_r:ntpd_t tcontext=system_u:object_r:file_t tclass=dir,75
+3154138a,<*> avc: denied { write } for <*> <*> name=log dev=ram0 <*> <*> tcontext=user_u:object_r:file_t tclass=sock_file,148
+8cd56183,<*> avc: denied { getattr } for <*> comm=ntpd path=/dev/null dev=ram0 ino=40 scontext=user_u:system_r:ntpd_t tcontext=system_u:object_r:file_t tclass=chr_file,74
+8517948b,"configure: keyword ""authenticate"" unknown, line ignored",94
+12c0517e,frequency initialized <*> PPM from /var/lib/ntp/drift,147
+4428cca0,Kickstart Install: Dell OMSA Package,76
+cd05ca84,running '/usr/sbin/up2date --nox -i -f kernel-devel' with root privileges on behalf of 'root',76
+9b93c8b1,Kickstart Install: Dell BIOS CONF Package,76
+e9da6206,Kickstart: setup the cisco (topspin) ib stack,76
+144f1951,"<*> from=root, size=1597856, class=0, nrcpts=1, <*> relay=#7#@localhost",63
+6878cbe9,"jA9IBXO5004001: from=root, size=1592992, class=0, nrcpts=1, msgid=<200511091811.jA9IBXO5004001@cadmin1>, relay=#7#@localhost",1
+34b6e188,Kickstart Install: TBIRD Dell FIRMWARE Update Module,76
+e24059ac,Kickstart/Yast Install: Finished installation on localhost.localdomain,76
+ba12f384,Lustre: <*> maximum lustre stack <*>,18
+5f978615,Lustre: Echo OBD driver; #10#@#11#,9
+2dcd7354,"Lustre: OBD class driver Build Version: #12#-19691231170000-PRISTINE-.f3home.#13#.build.2.6.buildir.BUILD.lustre-kernel-2.6.9.lustre.linux-2.6.9-<*>smp, #10#@#11#",9
+ff5bc0fe,"Lustre: Routing socket NAL loaded (Routing disabled, initial mem 0, incarnation <*>",9
+41a5cc7f,"started, listening on port 988",9
+6298f065,"synchronized to #14#, stratum 2",5
+3612d5a3,Switching to runlevel: <*>,4180
+fda557bb,shutting down for system <*>,4414
+94c041d9,httpd shutdown succeeded,9
+8341e18c,rpc.mountd shutdown succeeded,9
+f787d565,"Caught signal 15, un-registering and exiting.",123
+93f51c44,Shutting down NFS services: succeeded,9
+de121c07,nfsd shutdown succeeded,9
+c3726855,rpc.rquotad shutdown succeeded,9
+50df89a1,last server has exited,9
+a31a2a01,unexporting all filesystems,9
+960980ea,sshd -TERM succeeded,664
+7d779975,Received signal 15; terminating.,674
+f900f768,dhcpd shutdown succeeded,30
+6ad4d497,Stopping MySQL: succeeded,8
+b2276ca1,Unmounting NFS filesystems: succeeded,748
+9d504ffc,ntpd shutdown succeeded,754
+695d8251,ntpd exiting on signal 15,761
+ae5be743,xinetd shutdown succeeded,770
+b05754fa,Exiting...,770
+d7763055,irqbalance startup succeeded,408
+0ec1a17a,"DMA zone: 4096 pages, LIFO batch:1",339
+20fb0ff0,"HighMem zone: 0 pages, LIFO batch:1",335
+0787efdf,"Normal zone: 1830912 pages, LIFO batch:16",344
+489a4c7b,Type: Direct-Access ANSI SCSI revision: <*>,74
+4c468cf8,Type: Processor ANSI SCSI revision: 02,72
+e5909875,Vendor: MegaRAID Model: LD 0 RAID0 <*> Rev: <*>,59
+499954af,Vendor: PE/PV Model: 1x2 SCSI BP Rev: 1.0,73
+7e7cba5c,BIOS-e820: 0000000000000000 - 00000000000a0000 (usable),413
+72fe0404,BIOS-e820: 0000000000100000 - 00000000bffc0000 (usable),425
+90aa7ad8,BIOS-e820: 00000000bffc0000 - 00000000bffcfc00 (ACPI data),414
+c0670361,BIOS-e820: 00000000bffcfc00 - 00000000bffff000 (reserved),413
+2b33aecc,BIOS-e820: 00000000e0000000 - <*> (reserved),417
+ade20eee,BIOS-e820: 00000000fed00000 - 00000000fed00400 (reserved),405
+a455b242,BIOS-e820: 00000000fee00000 - 00000000fee10000 (reserved),419
+bd62aabb,BIOS-e820: 00000000ffb00000 - 0000000100000000 (reserved),416
+1a07a697,BIOS-e820: 0000000100000000 - 00000001c0000000 (usable),403
+dc008d73,RHH kernel module initialized successfully,67
+503eca1e,THH kernel module initialized successfully,68
+5f59c0fe,sda: sda1 sda2 sda3 sda4 < sda5 sda6 >,76
+61080331,- Added public key EA232A604969C61D,149
+58568c1a,"- User ID: Red Hat, Inc. (Kernel Module GPG key)",151
+b218fa4c,ACPI wakeup devices:,89
+da8564c1,ACPI: (supports S0 S4 S5),87
+9e9f1fdf,ACPI: DSDT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000e) @ 0x0000000000000000,341
+5dd65230,ACPI: FADT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ <*>,363
+75111868,ACPI: HPET (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ <*>,353
+d0865902,ACPI: HPET id: 0xffffffff base: 0xfed00000,394
+eda0a612,ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl),384
+506cfe0d,ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 high level),392
+75f656ce,ACPI: IOAPIC (id[0x07] address[0xfec00000] gsi_base[0]),387
+cc35216a,ACPI: IOAPIC (id[0x08] address[0xfec80000] gsi_base[32]),392
+80d90f3c,ACPI: IOAPIC (id[0x09] address[0xfec83000] gsi_base[64]),385
+87cf408f,ACPI: <*> used by override.,980
+3c9bd707,ACPI: Interpreter enabled,286
+84d6358c,ACPI: LAPIC (acpi_id[0x01] lapic_id[0x00] enabled),412
+afa42808,ACPI: LAPIC (acpi_id[0x02] lapic_id[0x06] enabled),403
+ce70d4b8,ACPI: LAPIC (acpi_id[0x03] <*> disabled),385
+e054d61b,ACPI: LAPIC (acpi_id[0x04] <*> disabled),386
+27bab093,ACPI: LAPIC_NMI <*> high edge lint[0x1]),1551
+02f2aa8e,ACPI: Local APIC address 0xfee00000,382
+524746bb,ACPI: MADT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ <*>,355
+efca7263,ACPI: MCFG (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ <*>,354
+0ccf363e,ACPI: PCI Interrupt Link <*> (IRQs 3 4 5 6 7 10 11 12) <*>,531
+0ba4f522,ACPI: PCI Interrupt Link <*> (IRQs 3 4 5 6 <*> <*> <*> 12),756
+7d45d9e0,"ACPI: PCI Interrupt Link <*> (IRQs 3 4 5 6 7 10 11 12) *0, disabled.",770
+b1ecff3c,ACPI: PCI Interrupt Routing Table <*>,2054
+a3516ae4,ACPI: PCI Root Bridge [PCI0] (00:00),287
+0278a557,"ACPI: PCI interrupt <*> -> GSI <*> (level, low) -> IRQ <*>",3461
+06825620,ACPI: Power Button (FF) [PWRF],68
+8f43df13,ACPI: Processor <*> (supports C1),297
+6204d307,ACPI: RSDP (v000 DELL ) @ <*>,375
+7de25742,ACPI: RSDT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ <*>,360
+053db2a1,ACPI: SPCR (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ <*>,366
+4e856061,ACPI: Subsystem revision 20040816,310
+aebadbc0,ACPI: Using IOAPIC for interrupt routing,305
+22c3bef0,Adding 13309844k swap on /dev/sda2. Priority:-1 extents:1,69
+b303a8f0,"Attached scsi disk sda at scsi0, channel <*> id 0, lun 0",74
+83fe54c5,"Attached scsi generic <*> at scsi0, channel <*> id <*> lun 0, type <*>",140
+8c537990,BIOS-provided physical RAM map:,416
+991c7441,Bootdata ok (command line is ro <*> tsc console=tty0 <*> rhgb quiet),419
+6ae98fab,Booting processor 1/6 rip 6000 rsp <*>,356
+1ae86a34,Bootmem setup node 0 0000000000000000-00000001c0000000,390
+679e773a,Brought up 2 CPUs,327
+de6cd9cf,Built 1 zonelists,391
+611fd889,CPU0: Intel(R) Xeon(TM) CPU 3.60GHz stepping 03,349
+a090a511,CPU: Hyper-Threading is disabled,1051
+6d58ac7e,CPU: L2 cache: 2048K,1067
+16103901,"CPU: Trace cache: 12K uops, L1 D cache: 16K",1039
+ad1472a3,Calibrating delay loop... <*> BogoMIPS <*>,615
+7d2f04f5,Capability LSM initialized as secondary,371
+cc2cb575,Checking aperture...,377
+a5b547df,Console: colour VGA+ 80x25,364
+52ef9387,Copyright (c) 1999-2004 Intel Corporation.,71
+90cdab58,DMI 2.3 present.,412
+4b704428,"Dentry cache hash table entries: 1048576 (order: 11, 8388608 bytes)",364
+7c4a740d,Detected <*> MHz APIC timer.,330
+a6d3bd46,"Dquot-cache hash table entries: 512 (order 0, 4096 bytes)",177
+c75567e3,EXT3 FS on <*> internal journal,277
+f70a10ee,EXT3-fs: INFO: recovery required on readonly filesystem.,67
+09cd9ade,EXT3-fs: mounted filesystem with ordered data mode.,280
+bdb7ce49,EXT3-fs: recovery complete.,68
+707f0b33,EXT3-fs: write access #15# be enabled during recovery.,70
+0c90abe9,Faking a node at 0000000000000000-00000001c0000000,406
+e6f56863,Freeing unused kernel memory: 188k freed,88
+2862343b,"IA32 emulation $Id: sys_ia32.c,v 1.32 2002/03/24 13:02:28 ak Exp $",199
+3d08a1e5,"IOAPIC[0]: apic_id 7, version 32, address 0xfec00000, GSI 0-23",391
+5d821d7d,"IOAPIC[1]: apic_id 8, version 32, address 0xfec80000, GSI 32-55",379
+6ded2c9c,"IOAPIC[2]: apic_id 9, version 32, address 0xfec83000, GSI 64-87",393
+73cefaed,"IP: routing cache hash table of 32768 buckets, 512Kbytes",96
+fe3c862d,Initializing CPU#0,379
+5b715881,Initializing CPU#1,345
+2b566107,Initializing Cryptographic API,166
+3637fd61,Initializing IPsec netlink socket,90
+e09e5f15,"Inode-cache hash table entries: 524288 (order: 10, 4194304 bytes)",350
+8b89f160,Intel E7520/7320/7525 detected.<6>pci_hotplug: PCI Hot Plug PCI Core version: 0.5,144
+d511cbda,Intel(R) PRO/1000 Network Driver - version 6.0.54-k2-NAPI,70
+7dea65f0,Kernel command line: ro <*> tsc console=tty0 <*> rhgb quiet,369
+e27b23bc,Linux agpgart interface v0.100 (c) Dave Jones,126
+6ddca8b5,Linux version <*> <*> (gcc version 3.4.3 20050227 (Red Hat 3.4.3-22.1)) #1 SMP Tue <*> <*> <*> <*> 2005,421
+634ae816,Loading keyring,165
+a5916ac6,"Mellanox Tavor Device Driver is creating device ""InfiniHost0"" (domain=00, bus=08, devfn=00)",67
+c8600647,"Memory: <*> available <*> kernel code, 0k reserved, <*> data, 188k init)",355
+688cd44e,"Mount-cache hash table entries: 256 (order: 0, 4096 bytes)",348
+4af88f8f,NET: Registered protocol family <*>,732
+1defbcf1,No NUMA configuration found,406
+21e60650,No mptable found.,410
+6dae5f8b,On node 0 totalpages: 1835008,373
+8d630a2b,PCI-DMA: Using software bounce buffering for IO (SWIOTLB),198
+f0a878f0,PCI0 PALO PBLO VPR0 PBHI PICH,87
+f73595e3,PCI: Probing PCI hardware (bus 00),313
+41ed2983,PCI: Setting latency timer of device <*> to 64,336
+37f8edc2,PCI: Transparent bridge - 0000:00:1e.0,298
+4aacee6a,PCI: Using ACPI for IRQ routing,243
+657892af,PCI: Using MMCONFIG at e0000000,307
+607eef3d,PCI: Using configuration type 1,315
+e93849b7,PCI: cache line size of 128 is not supported by device 0000:00:1d.7,68
+4ee6dac5,"PID hash table entries: 4096 (order: 12, 131072 bytes)",357
+f04ce919,Placing software IO TLB between 0x7eb5000 - 0xbeb5000,357
+204ba6f2,Probing IDE interface <*>,525
+72c54591,Processor <*> 15:4 APIC version 16,795
+b0ef9ace,RAMDISK driver initialized: 16 RAM disks of 16384K size 1024 blocksize,120
+25be35b6,Real Time Clock Driver v1.12,137
+208b1922,SCSI device sda: <*> 512-byte hdwr sectors <*> MB),77
+cecc13aa,SCSI subsystem initialized,84
+ebb6db13,SELinux: Disabled at runtime.,71
+158c34d8,SELinux: Initializing.,360
+6999d396,SELinux: Registering netfilter hooks,173
+426f668c,SELinux: Starting in permissive mode,371
+401870b4,SELinux: Unregistering netfilter hooks,70
+3c5e98a7,Security Scaffold v1.0.0 initialized,382
+f3957b35,"Serial: 8250/16550 driver $Revision: 1.90 $ 8 ports, IRQ sharing enabled",118
+40014f29,Setting APIC routing to flat,396
+892c3001,TCP: Hash tables configured (established 262144 bind 65536),88
+e0661b3c,"There is already a security framework initialized, register_security failed.",369
+98908df9,"Total HugeTLB memory allocated, 0",191
+9766c5c3,Total of 2 processors activated <*> BogoMIPS).,315
+3684cf74,USB Universal Host Controller Interface driver v2.2,68
+e171a347,Uniform Multi-Platform E-IDE driver Revision: 7.00alpha2,118
+cd364792,Using ACPI (MADT) for SMP configuration information,370
+11e22d59,Using IO APIC NMI watchdog,361
+a3bd2f17,Using cfq io scheduler,81
+7ccebfbe,Using local APIC timer interrupts.,320
+4d73c3e7,VFS: Disk quotas dquot_6.5.1,175
+958b2434,Warning: acpi_table_parse(ACPI_SLIT) returned 0!,406
+7d5b41e4,Warning: acpi_table_parse(ACPI_SRAT) returned 0!,410
+0e103e4f,<*> find a suitable network device; setting lid_base to 1,67
+cb45fbbf,activating NMI Watchdog ... done.,347
+b5337712,audit(1131538441.365:1): initialized,1
+4b7e6959,audit: initializing netlink socket (disabled),196
+6550622f,checking TSC synchronization across 2 CPUs: passed.,317
+521066c3,checking if image is initramfs... it is,330
+28a7542f,device-mapper: 4.4.0-ioctl (2005-01-12) initialised: dm-#16#@#17#,69
+88474e9c,divert: allocating divert_blk for <*>,272
+385a86d9,divert: not allocating divert_blk for non-ethernet device <*>,167
+36f26def,drivers/usb/input/hid-core.c: v2.0:USB HID core driver,98
+975383bf,e1000: <*> e1000_probe: Intel(R) PRO/1000 Network Connection,140
+0f394fb6,e1000: <*> e1000_watchdog: NIC Link is Up 1000 Mbps Full Duplex,73
+a3a24d09,ehci_hcd 0000:00:1d.7: EHCI Host Controller,68
+1baccd5d,"ehci_hcd 0000:00:1d.7: USB 2.0 enabled, EHCI 1.00, driver 2004-May-10",69
+cd58647c,"ehci_hcd 0000:00:1d.7: irq 193, pci mem <*>",68
+dfc5b30e,"ehci_hcd 0000:00:1d.7: new USB bus registered, assigned bus number 1",68
+ef476468,floppy0: no floppy controllers found,69
+a51fc80c,hub 1-0:1.0: 6 ports detected,69
+b2764c25,hub <*> USB hub found,340
+75e28a14,hub <*> 2 ports detected,269
+737e8c0b,hw_random hardware driver 1.0.0 loaded,45
+79909543,ib0: InfiniHost0 port 1,68
+195199c2,ib1: InfiniHost0 port 2,66
+03a92354,ide-floppy driver 0.99.newide,101
+b79529df,ide: Assuming 33MHz system bus speed for PIO modes; override with idebus=xx,110
+acf05552,inserting floppy driver for <*>,71
+6427c534,ip_tables: (C) 2000-2002 Netfilter core team,266
+14adadc3,kjournald starting. Commit interval 5 seconds,283
+4124b970,"klogd 1.4.1, log source = /proc/kmsg started.",488
+cb46a609,ksign: Installing public key data,160
+71372c58,md: ... autorun DONE.,70
+38fe4fa3,md: Autodetecting RAID arrays.,70
+b5e84bfb,md: autorun ...,69
+7ca9033b,"md: md driver 0.90.0 MAX_MD_DEVS=256, MD_SB_DISKS=27",94
+dcb5a23f,megaraid cmm: #18# (Release Date: Mon Mar 7 00:01:03 EST 2005),60
+31c55fe4,megaraid: #19# (Release Date: Mon Mar 07 12:27:22 EST 2005),60
+337ed584,megaraid: fw version:[521S] bios version:[H430],58
+4b79c831,megaraid: probe new device 0x1028:0x0013:0x1028:0x016c: bus 2:slot 14:func 0,60
+28d86c57,mice: PS/2 mouse device common for all mice,100
+e1e0655b,mtrr: v2.0 (20020519),313
+e80c8a5c,per-CPU timeslice cutoff: <*> usecs.,346
+2d63468e,scsi0 : LSI Logic MegaRAID driver,59
+9cce776b,scsi[0]: scanning scsi channel 0 [Phy 0] for non-raid devices,59
+8f4c17d6,scsi[0]: scanning scsi channel 1 [virtual] for logical drives,59
+d7c85960,sda: asking for cache data failed,59
+1c5e39cb,sda: assuming drive cache: write through,59
+41ffccb1,selinux_register_security: Registering secondary module capability,367
+2872d2ea,"serio: i8042 AUX port at 0x60,0x64 irq 12",128
+7942703b,"serio: i8042 KBD port at 0x60,0x64 irq 1",128
+90ea87d9,task migration cache decay timeout: 1 msecs.,355
+ed48f744,testing NMI watchdog ... OK.,340
+f7dc852a,time.c: Detected <*> MHz processor.,368
+86e0a98f,time.c: Using 14.318180 MHz HPET timer.,383
+519a6e46,time.c: Using HPET based timekeeping.,325
+2526593d,ts_kernel_services: module license 'Proprietary' taints kernel.,66
+4ec21197,ttyS0 at I/O 0x3f8 (irq = 4) is a <*>,124
+72fc5a1c,uhci_hcd <*> UHCI Host Controller,204
+f42d6eb4,"uhci_hcd 0000:00:1d.0: irq 169, io base <*>",68
+e2c5eb70,"uhci_hcd <*> new USB bus registered, assigned bus number <*>",205
+fb9e604f,"uhci_hcd 0000:00:1d.1: irq 177, io base <*>",67
+f98bf4fe,"uhci_hcd 0000:00:1d.2: irq 185, io base <*>",68
+f106ea47,usb 1-3: new high speed USB device using address 2,68
+f1205e3c,usbcore: registered new driver <*>,678
+c548107e,using mwait in idle threads.,352
+abd14c95,klogd startup succeeded,479
+91fea51a,syslogd startup succeeded,503
+6f97e9d4,restart.,563
+00c09a87,rpc.idmapd startup succeeded,393
+cf16ad0a,Wed Nov 9 <*> MST 2005,52
+525e58a4,"/: clean, <*> files, <*> blocks",158
+979b9b2b,"/boot: clean, <*> files, <*> blocks",176
+44af6c21,/boot: recovering journal,175
+29873438,"/tmp: clean, <*> files, <*> blocks",151
+4a848d39,/tmp: recovering journal,150
+b2c6bd05,"/var1: clean, <*> files, <*> blocks",96
+c3b1f8ec,/var1: recovering journal,93
+696dbc03,Checking all file systems.,262
+3a7c1c2f,[/sbin/fsck.ext3 (1) -- <*> fsck.ext3 -a <*>,908
+68afa78e,Entering runlevel: 3,208
+14930dc8,i2c /dev entries driver,71
+9d09a9a0,No volume groups found,283
+5e1fa4d2,bindcache: failed init IPS: 0x5 (Out of memory),442
+dbd35c95,"pan_ips: error -- cfg target addresses, 0x5 (Out of memory), err_loc=1, rhel_4_amd64/release/build/panfs/ips/pan_ips_cfg.c:294",151
+68394f5b,"pan_ips: error -- real init, 0x5 (Out of memory), err_loc=3, <*>",111
+581ba1d7,debug: could not init rm_client: 0x5 (Out of memory),215
+0fb7ec34,mount.panfs error: mount request rejected because client-realm clock skew exceeds 10 seconds,205
+6afa2d36,mount.panfs: cannot init pan_fm_util_path_util module: 0x5 (Out of memory),213
+a2b229e4,Bringing up interface <*> succeeded,240
+f3b4bfda,Bringing up loopback interface: succeeded,119
+a9d64ca2,Setting network parameters: succeeded,128
+5067ee0f,-e,334
+ea0f0cf9,Checking filesystems succeeded,242
+f68465f1,Checking root filesystem succeeded,289
+ce6689c4,Configuring kernel parameters: succeeded,297
+7cffd2ab,Enabling local filesystem quotas: succeeded,193
+50d5309e,Enabling swap space: succeeded,207
+93c3f7ef,Mounting local filesystems: <*>,220
+f7aa7a98,Remounting root filesystem in read-write mode: succeeded,268
+438072cf,Setting clock (localtime): <*> Nov <*> <*> MST 2005 succeeded,272
+fbe5ef50,Setting hostname <*> succeeded,271
+b533c717,Setting up Logical Volume Management: succeeded,244
+b43c9ab7,Starting lm_sensors: succeeded,191
+3f8c9bae,smartd startup failed,63
+3adcc40c,Configuration file /etc/smartd.conf parsed.,171
+b99181a6,"Device: /dev/sda, Bad IEC (SMART) mode page, err=5, skip device",63
+15c5e3c8,"Device: /dev/sda, opened",183
+3e5fb2d5,Home page is http://#20#/,191
+3425827a,Opened configuration file /etc/smartd.conf,187
+bacffe20,Unable to register SCSI device /dev/sda at line 1 of file /etc/smartd.conf,63
+b73df3e2,Unable to register device /dev/sda (no Directive -d removable). Exiting.,63
+c431a6ae,smartd version 5.33 [x86_64-redhat-linux-gnu] Copyright (C) 2002-4 Bruce Allen,185
+16ab0262,Starting udev: succeeded,342
+34111b96,fs.file-max = 562454,416
+172d92d2,kernel.core_uses_pid = 1,483
+5d0e7e37,kernel.sysrq = 0,510
+c3b905f6,kernel.sysrq = 1,431
+5bba403d,net.core.rmem_default = 262144,488
+dc4a9fc8,net.core.rmem_max = 262144,481
+87d982c0,net.core.wmem_default = 262144,481
+7eccf143,net.core.wmem_max = 262144,466
+d21b1912,net.ipv4.conf.default.accept_source_route = 0,502
+af74229d,net.ipv4.conf.default.rp_filter = 1,505
+3fe8a715,net.ipv4.ip_forward = 0,529
+8da10ef6,net.ipv4.neigh.default.gc_thresh1 = 8192,437
+5d4201d9,net.ipv4.neigh.default.gc_thresh2 = 8192,468
+64ee50ee,net.ipv4.neigh.default.gc_thresh3 = 8192,464
+55ac7573,net.ipv4.route.gc_thresh = 8192,412
+22a97846,starting udevd daemon,323
+6d743a2a,Unmounting NFS filesystems (retry): succeeded,16
+665fb952,acpid startup succeeded,157
+fc64191a,snmpd startup succeeded,191
+554b3170,dcdbas device driver loaded,107
+49773dd1,NET-SNMP version 5.1.2,173
+c2e589ec,dcdipm device driver loaded,76
+a69485db,Instrumentation Service EventID: 1000 Server Administrator starting,71
+54ffff38,Instrumentation Service EventID: 1001 Server Administrator startup complete,71
+2b93c0e1,dcevt32d startup succeeded,72
+8230447a,dcstor32d startup succeeded,71
+e04d35c0,dcsnmp32d startup succeeded,72
+f8a7b95b,Disabled Privacy Extensions on device <*>,70
+1da5319d,IPv6 over IPv4 tunneling driver,70
+76d915af,Started working: <*> available services,71
+84292799,crond startup succeeded,71
+cc75e4ea,(CRON) STARTUP (V5.0),71
+ea111085,pbs_mom startup succeeded,67
+f5cd6761,messagebus startup succeeded,72
+9b663b87,omsad32 startup succeeded,71
+3fcbdd57,haldaemon startup succeeded,72
+d119b26d,[smux_accept] accepted fd 13 from <*>,145
+b904306c,"accepted smux peer: oid SNMPv2-SMI::enterprises.674.10892.1, password , descr Systems Management SNMP MIB Plug-in Manager",145
+b9ad2acd,removed all generated mount points,72
+b348733e,lockd -KILL succeeded,43
+f21a3645,rpc.statd shutdown succeeded,102
+933ac45d,portmap shutdown succeeded,93
+e421df67,failed to contact portmap (errno -101).,7
+e1302b72,sendmsg returned error 101,7
+5c4e57a9,gmetad shutdown succeeded,8
+f46e5f63,Shutting down GANGLIA gmetad:,8
+5774846c,Stopping syslog-ng:,8
+81541726,[,8
+0b75537d,Shutting down interface eth0: succeeded,8
+a280e48f,Shutting down loopback interface: succeeded,8
+a3fabb82,RPC call returned error 101,7
+7dc273dd,syslog-ng version <*> going down,10
+66ae9e82,"connection from ""#22#""",2
+300e3135,Kerberos password accepted for user <*> <*>,15
+a06ea71a,Password authentication for user <*> accepted.,15
+d0f2f318,"jA9ILdxj011942: from=root, size=1595494, class=0, nrcpts=1, msgid=<200511091821.jA9ILdxj011942@dadmin1>, relay=#7#@localhost",1
+a8fe4c40,Install: apply updates,75
+3d4745aa,Kickstart Install: Reducing mingetty count ...,75
+ff66fa28,Kickstart: Configure sysctl parameters,75
+008711f0,Kickstart: setup authorization schema,75
+4e1116fc,Kickstart: setup soft links and NFS mounts,75
+87f7fc87,running '/usr/sbin/up2date-config' with root privileges on behalf of 'root',75
+ba94c3bd,Kickstart Install: CAP tarball,75
+47adbf55,klogd shutdown failed,75
+16a3cef8,Kickstart Install: SNL COE Legal Banner,75
+fbf91a5a,Kickstart Install: setup CAP sysconfig file,75
+66387350,Kickstart Install: OSCAR modules RPMS,75
+6895df04,Kickstart Install: SISUITE Client RPMS,75
+bfa8aa39,Kickstart Install: pdsh + ssh packages,75
+5cad5df9,Kickstart Install: oneSIS RPM,75
+2a58c601,Kickstart Install: SUN JDK Package,74
+e5244672,<*> avc: denied { read } for <*> comm=ntpdate path=/.buildstamp dev=ram0 ino=125 scontext=user_u:system_r:ntpd_t tcontext=system_u:object_r:file_t tclass=file,75
+b7d5d75f,Install: Removing tftpboot installation link from <*>,1
+c84d1db6,"Package Release ID=R106628 Package Description=Dell BMC Firmware, v.1.40, A05 Support Log path=/var/log/#26#/updatepackage/log/support/R106628.log Exit code = 2 (Reboot required)",1
+5f6a681c,Got trap from peer on fd 13,174
+e8d2e772,installing panasas drivers,1
+36d11581,"jA9IVUvS027504: from=root, size=627554, class=0, nrcpts=1, msgid=<200511091831.jA9IVUvS027504@eadmin1>, relay=#7#@localhost",1
+d8ac2140,PanFS Client version: rhel_4_amd64/release <*> SMP,5
+458ad57d,pan_common: init complete,5
+564e0b9b,pan_common: registered major number <*> for device panasas,5
+46b0e010,"pan_kmod: registered subdev 0x78 (""PANASAS kernel trace facility"")",5
+0503e757,pan_trace: panfs trace buffer <*> added.,5
+7c7f1838,panfs mount: Byte range locking is turned ON,5
+e5185958,panfs mount: Directory Caching is turned ON,5
+9c7cd32b,panfs mount: Dribble Writes mode is enabled,5
+4857cc0c,"panfs mount: If you are running a GenuineIntel kernel, you may get an oops.",5
+1a067f89,panfs mount: Read Ahead is turned ON at level 1,5
+5349e550,panfs mount: loading a AuthenticAMD CPU panfs.o kernel module on a GenuineIntel CPU,5
+3e1119b8,"panfs: no version for ""struct_module"" found: kernel tainted.",5
+bacb1e94,mount.panfs: started PanFS device [panfs://#27#/home],9
+657a29eb,Instrumentation Service EventID: 1052 Temperature sensor returned to a normal value Sensor location: BMC <*> Temp Chassis location: Main System Chassis Previous state was: Unknown Temperature sensor value (in Degrees Celsius): <*>,2
+341b7072,Instrumentation Service EventID: <*> Temperature sensor <*> <*> <*> <*> <*> <*> <*> <*> Temp Chassis location: Main System Chassis Previous state was: Unknown Temperature sensor value (in Degrees Celsius): <*>,2
+f28b8910,"jA9IVdlk003841: from=root, size=1597636, class=0, nrcpts=1, msgid=<200511091831.jA9IVdlk003841@aadmin1>, relay=#7#@localhost",1
+61b36a18,synchronisation lost,2
+78e7b937,"<*> from=root, size=1597801, class=0, nrcpts=1, <*> relay=#7#@localhost",3
+43bdbcf6,STATS: dropped 0,11
+5898dc29,process_limit: processing hard <*> 32768 for DEFAULT,57
+b67abdc3,process_limit: processing soft <*> 32768 for DEFAULT,44
+b10a98bd,reading settings from '/etc/security/limits.conf',15
+b8f8494a,0000000000000000 - 00000000000a0000 (usable),9
+64a9e075,0000000000100000 - 00000000cffc0000 (usable),9
+bb3b4adf,00000000cffc0000 - 00000000cffcfc00 (ACPI data),9
+31ca06d8,00000000cffcfc00 - 00000000cffff000 (reserved),9
+c3e2632c,00000000e0000000 - 00000000fec90000 (reserved),9
+07e1429f,00000000fed00000 - 00000000fed00400 (reserved),9
+be071b0d,00000000fee00000 - 00000000fee10000 (reserved),9
+d995453f,00000000ffb00000 - 0000000100000000 (reserved),9
+017a5df5,0000000100000000 - 0000000330000000 (usable),9
+597b3532,"<*> pages, LIFO batch:1",18
+c4333387,"2097152 (order: 12, 16777216 bytes)",9
+782e19cc,"512 (order 0, 4096 bytes)",10
+800b5f14,196k freed,9
+c58d1d75,"1048576 (order: 11, 8388608 bytes)",9
+878e6af7,"12302088k/13369344k available (2341k kernel code, 0k reserved, 924k data, 196k init)",9
+287994ca,"256 (order: 0, 4096 bytes)",9
+ddcda627,"3338240 pages, LIFO batch:16",9
+f56436e9,3342336,9
+7ae300f1,"4096 (order: 12, 131072 bytes)",9
+f909ca6c,16 RAM disks of 16384K size 1024 blocksize,10
+723aab22,<*> 512-byte hdwr sectors <*> MB),10
+7d7e3883,"8250/16550 driver $Revision: 1.90 $ 8 ports, IRQ sharing enabled",10
+3410d95f,7.00alpha2,10
+4d5dcf30,852.05 usecs.,9
+bbad6c35,1 msecs.,9
+96e62cdf,"connection from ""#40#""",52
+283ea054,"<*> from=root, size=1594498, class=0, nrcpts=1, <*> relay=#7#@localhost",2
+9ad2c2a1,"connection from ""#44#""",48
+563164b2,"<*> from=root, size=1597831, class=0, nrcpts=1, <*> relay=#7#@localhost",3
+496e5f6d,ROOT LOGIN ON <*>,23
+2822219e,"<*> from=root, size=1596453, class=0, nrcpts=1, <*> relay=#7#@localhost",2
+91f6a909,DEVPATH is not set,31
+2cd67dff,AT Translated Set 2 keyboard on isa0060/serio0,3
+5cec81bf,bad username [ ],3
+735263fa,FAILED LOGIN <*> FROM (null) FOR <*> Authentication failure,18
+bc5b27be,input: AT Translated Set 2 keyboard on isa0060/serio0,36
+2f08a67f,messagebus shutdown failed,3859
+c268ea54,pbs_mom shutdown succeeded,649
+7746b36d,smartd shutdown failed,558
+648310d8,Received TERM or STOP signal... shutting down...,798
+25d8b0c4,acpid shutdown succeeded,748
+e798643d,snmpd shutdown succeeded,841
+8290632a,Kernel log daemon terminating.,78
+ba41b9fb,Kernel logging (proc) stopped.,79
+791c18b1,lockd shutdown failed,75
+859e9404,klogd shutdown succeeded,1
+8ab31928,audit(1131541150.365:1): initialized,1
+9018c3e4,hw_random: RNG not detected,25
+24bc2b8c,[/sbin/fsck.ext3 (1) -- <*>,72
+da54352f,fsck.ext3 -a /dev/sda3,4
+3c1f6f23,Instrumentation Service EventID: 1053 Temperature sensor detected a warning value Sensor location: BMC Ambient Temp Chassis location: Main System Chassis Previous state was: OK (Normal) Temperature sensor value (in Degrees Celsius): 10.0,43
+8529527e,"connection from ""#46#""",2
+e12fc313,Agent forwarding request denied in configuration.,2
+3b303a9d,Instrumentation Service EventID: 1052 Temperature sensor returned to a normal value Sensor location: BMC Ambient Temp Chassis location: Main System Chassis Previous state was: Non-Critical (Warning) Temperature sensor value (in Degrees Celsius): 11.0,43
+c1c2d7d7,[ib_sm_sweep.c:1264]: Rediscover the subnet,367
+58a21a0f,[ib_sm_sweep.c:1792]: async events require sweep,427
+b653d5bb,"[ib_sm_discovery.c:1103]: Failed discover node test, node <*> port_num= <*> error code 1",5
+ab009700,"<*> Failed to <*> - hop_count: 5, direct_path: 0, 1, 15, 16, <*> <*> 0, 0, 0, 0",2
+a0088730,[ib_sm_discovery.c:470]: Failed to GetNodeInfo() because of NO RESPONSE,17
+133c27da,[ib_sm_discovery.c:949]: no routing required for port guid <*> lid <*>,140
+2b59517f,[INFO]: Configuration caused by discovering <*> ports,332
+472dfa42,"[ib_sm_assign.c:229]: Set port <*> <*> DOWN (port prefix fe80000000000000, subnet_prefix fe80000000",995
+0db675d4,"[ib_sm_assign.c:568]: Force port to go down due to LID conflict, node - <*> <*>",368
+cd6eaa68,[ib_sm_sweep.c:1442]: Topology changed,292
+e06b0bfc,"connection from ""#49#""",6
+2f37e3ed,Thu Nov 10 <*> MST 2005,226
+daab9ebe,"/1: clean, <*> files, <*> blocks",89
+3b74b506,"/boot1: clean, <*> files, <*> blocks",74
+3f3b2d47,/boot1: recovering journal,75
+6aeffc1e,"/tmp1: clean, <*> files, <*> blocks",89
+9f32dee2,/tmp1: recovering journal,85
+241bad8d,[trip Temperature is 68 Celsius],106
+969bb1ac,"Device: /dev/sda, initial Temperature is <*> Celsius",106
+8a96cc2b,"Device: /dev/sda, is SMART capable. Adding to ""monitor"" list.",111
+71beb53d,Monitoring 0 ATA and 1 SCSI devices,119
+69c5af3b,audit(1131596598.371:1): initialized,1
+326536b4,smartd startup succeeded,104
+37e2e5f0,smartd has fork()ed into background mode. New <*>,98
+cea56fee,Vendor: SEAGATE Model: ST373207LC Rev: D701,18
+bf038cd3,Copyright (c) 1999-2005 LSI Logic Corporation,22
+96335459,Fusion MPT SCSI Host driver 3.02.18,21
+39c6782a,Fusion MPT base driver 3.02.18,28
+cf75b92e,SCSI device sda: drive cache: write through,15
+c7f40a69,"ioc0: 53C1030: Capabilities={Initiator,Target}",19
+c90ff8f5,mptbase: Initiating ioc0 bringup,15
+7d572608,"scsi0 : ioc0: LSI53C1030, FwRev=01032300h, Ports=1, MaxQ=203, <*>",22
+b4a1b6c7,<*> no IPv6 routers present,198
+f67f0ac3,[INFO]: Generate SM <*> trap for <*>,4240
+fc54cd4a,"[ib_sm_bringup.c:513]: Program port state, <*> port= <*> current state <*> neighbor <*> port= <*> current state 2",2142
+f2fc443c,[ib_sm_sweep.c:144]: A new IB node <*> was discovered and assigned LID <*>,977
+1e671a3d,[INFO]: Configuration caused by multicast membership change,167
+eaca9fff,"jA9KVVLT032128: from=root, size=630566, class=0, nrcpts=1, msgid=<200511092031.jA9KVVLT032128@eadmin1>, relay=#7#@localhost",1
+2fd6f81f,"<*> from=root, size=1596295, class=0, nrcpts=1, <*> relay=#7#@localhost",2
+25224e33,"<*> from=root, size=1593893, class=0, nrcpts=1, <*> relay=#7#@localhost",2
+616794dd,[INFO]: IB CliSessionThread PID= 24904,234
+d1e38f80,"<*> from=root, size=631354, class=0, nrcpts=1, <*> relay=#7#@localhost",162
+a8e91c05,"jA9KfW79017890: from=root, size=1591431, class=0, nrcpts=1, msgid=<200511092041.jA9KfW79017890@cadmin1>, relay=#7#@localhost",1
+01ffb2a1,"jA9KfhDP021912: from=root, size=1596616, class=0, nrcpts=1, msgid=<200511092041.jA9KfhDP021912@aadmin1>, relay=#7#@localhost",1
+81f0dfed,audit(1131547621.369:1): initialized,1
+3dd5eafc,fsck.ext3 -a /dev/sda5,68
+4a9f050f,in your dhcpd.conf file for the network segment,44
+9c9ef826,to which interface eth1:0 is attached. **,44
+b503749f,"you want, please write a subnet declaration",44
+f88bbebd,** Ignoring requests on eth1:0. If this is not what,44
+315ca79c,Listening on LPF/eth1/00:11:43:e3:ba:a7/C_net,6
+151dd929,No subnet declaration for eth1:0 (<*>).,44
+f1dfaaed,Sending on LPF/eth1/00:11:43:e3:ba:a7/C_net,6
+1f752492,"jA9KpWV8021036: from=root, size=1592937, class=0, nrcpts=1, msgid=<200511092051.jA9KpWV8021036@cadmin1>, relay=#7#@localhost",1
+a4578a14,"<*> from=root, size=1597633, class=0, nrcpts=1, <*> relay=#7#@localhost",7
+e92a0a06,"jA9KpcTK025711: from=root, size=1597052, class=0, nrcpts=1, msgid=<200511092051.jA9KpcTK025711@dadmin1>, relay=#7#@localhost",1
+57bc949b,"jA9KpeR5012622: from=root, size=1593150, class=0, nrcpts=1, msgid=<200511092051.jA9KpeR5012622@badmin1>, relay=#7#@localhost",1
+a49b8357,audit(1131547912.367:1): initialized,1
+9750df0f,"pan_ips: error -- cfg target addresses, 0x5 (Out of memory), err_loc=1, rhel_4_amd64/release/build/panfs/ips/pan_ips_cfg.c:294 <11>Nov <*> <*> mount.panfs: pan_ips: error -- real init, 0x5 (Out of memory), err_loc=3, <*>",83
+e29ae9d9,System clock time adjusted to the past. Resetting next wakeup time.,4
+4a388dda,audit(1131598439.367:1): initialized,1
+48b5cc90,"/var: clean, <*> files, <*> blocks",138
+615a38db,/var: recovering journal,151
+1029f1df,#26# : <*> ; <*> ; USER=root ; <*>,3
+61b56e4a,[ib_sm_sweep.c:254]: An existing IB node GUID <*> LID <*> was removed,2772
+961d7be3,"[ib_sm_bringup.c:472]: Active port(s) now in INIT state <*> <*> state=2, neighbor <*> <*> state=2",221
+7eb5764d,[INFO]: Configuration caused by previous GET/SET operation failures,54
+177eb2f1,audit(1131548326.367:1): initialized,1
+d87ae9b6,RTNETLINK answers: Network is unreachable,9
+048af399,audit(1131547763.365:1): initialized,1
+8e6ce7f9,"<*> from=root, size=1592333, class=0, nrcpts=1, <*> relay=#7#@localhost",3
+5a8f07b3,audit(1131548562.367:1): initialized,1
+de654c6f,"connection from ""#52#""",3
+01ccca92,DHCPACK on <*> to <*> via eth0,18
+c7ce01a8,DHCPREQUEST for <*> from <*> via eth0,14
+8895721e,audit(1131545144.365:1): initialized,1
+9ed7c80e,mount.panfs warning: mount still trying to ping realm. Mount has been trying to ping for 2 seconds and may try for another 8 seconds,8
+148ce884,couldn't ping address #27#:3095 using <*> 0x23a1 (pan_sock: timeout),6
+3ead4a9e,mount.panfs warning:,6
+0ebc1dc3,"mount.panfs warning: This mount still may succeed, but one or more local interfaces (listed below) failed communicate with the Panasas realm during mount. This suggests that a route cannot be established between these local interface(s) and the system. A client sends a list of IP addresses on which the Panasas storage system may establish a connection. If any one of these addresses should be excluded from the mount time check, use the 'callback-network-disallow' or 'callback-address-disallow' mount options. See 'man 8 mount.panfs' for more details on PanFS mount options. Excluding the interface from the check at mount time #15# avoid long running mount commands.",7
+e48d0e67,mount.panfs: failed local addresses: <*>,7
+edc63aeb,mount.panfs: successful local addresses: <*>:1,7
+8078547e,RPC: error 512 connecting to server saon101v2,2
+8706c68e,"jA9LBbgZ018780: from=root, size=1591921, class=0, nrcpts=1, msgid=<200511092111.jA9LBbgZ018780@badmin1>, relay=#7#@localhost",1
+3d0feb81,"<*> from=root, size=1597836, class=0, nrcpts=1, <*> relay=#7#@localhost",3
+193f437a,audit(1131549077.366:1): initialized,1
+9961bedb,audit(1131549114.367:1): initialized,1
+2d693dfe,recovery complete.,3
+d581abc7,"jA9LLYjd005303: from=root, size=1596100, class=0, nrcpts=1, msgid=<200511092121.jA9LLYjd005303@aadmin1>, relay=#7#@localhost",1
+42789b10,"connection from ""<*>""",81
+ceec9b80,Remote host disconnected: Authentication cancelled by user.,2
+2dda1f1d,authentication cancelled by user: 'Authentication cancelled by user.',2
+6f38146d,Key exchange failed in remote: 'Key exchange failed.',3
+3013ba5b,Remote host disconnected: Key exchange failed.,3
+aa0142c3,Public key <*> used.,76
+5dcc8478,Public key authentication for user <*> accepted.,76
+b10946b0,LOGIN ON <*> BY #26#,35
+ca1f0ce3,<*> : <*> ; <*> ; USER=root ; COMMAND=/bin/su -,14
+d7962aac,"jA9LVWs7008387: from=root, size=1594609, class=0, nrcpts=1, msgid=<200511092131.jA9LVWs7008387@aadmin1>, relay=#7#@localhost",1
+fbf7fb20,"[ib_sm_assign.c:273]: Clean up SA resources for port forced down due to subnet prefix change, node - <*> port=1",627
+ad9d23bb,"[ib_sm_bringup.c:513]: Program port state, <*> port= <*> current state 4, neighbor <*> port= 1, current state 4",629
+3b8da35b,[ib_sm_bringup.c:531]: Force port <*> <*> <*> to DOWN because (1) 1st sweep or (2) role change.,630
+62e3f22b,[ib_sm_bringup.c:577]: Force neighbor port <*> <*> <*> to DOWN because (1) 1st sweep or (2) role change.,630
+f3db1259,"[ib_sm_discovery.c:739]: switch lid change, node - <*> port=0, neighbor (nil), changing lid from 0, back to original <*>",433
+c28de938,[ib_sm_routing.c:2961]: Failed to set SwitchInfo on <*>,43
+9c5f4531,[ib_sm_routing.c:3050]: Failed to set LFT to <*>,2452
+e794d4a3,Listening on LPF/eth1/00:11:43:e3:b8:e7/A_net,4
+3103c20c,Sending on LPF/eth1/00:11:43:e3:b8:e7/A_net,4
+34607bb4,"jA9LfW7R028102: from=root, size=1592278, class=0, nrcpts=1, msgid=<200511092141.jA9LfW7R028102@badmin1>, relay=#7#@localhost",1
+4429f370,audit(1131550976.364:1): initialized,1
+a22db128,audit(1131601572.368:1): initialized,1
+4cb09431,audit(1131551180.365:1): initialized,1
+33adede9,Keyboard on isa0060/serio0 reports too many keys pressed.,2
+346442ec,"jA9LpXwI031179: from=root, size=1592334, class=0, nrcpts=1, msgid=<200511092151.jA9LpXwI031179@badmin1>, relay=#7#@localhost",1
+2a27a591,"jA9LpacO016423: from=root, size=1596130, class=0, nrcpts=1, msgid=<200511092151.jA9LpacO016423@aadmin1>, relay=#7#@localhost",1
+7dc4cfa5,[IB_NET][ipoib_sarp_rewrite_send][/mnt_projects/sysapps/src/ib/topspin/topspin-src-3.2.0-16/host/ulp/ipoib/obj_host_amd64_custom1_rhel4/ts_ipoib/ipoib_arp.c:1008]ib0: can't find hw address for hash 00:00:00:00:00:00,31
+8a70e395,audit(1131551785.365:1): initialized,1
+36a48342,audit(1131551833.366:1): initialized,1
+9b3ed34a,audit(1131551833.364:1): initialized,1
+781f006b,audit(1131551836.365:1): initialized,1
+17678776,audit(1131551837.365:1): initialized,1
+14c20cff,audit(1131551837.367:1): initialized,1
+0fe7a9b6,audit(1131548268.367:1): initialized,1
+2b6bfbd3,mount.panfs warning: couldn't ping address #27#:3095,1
+cfa6deb8,"using <*>:1, 0x23a1 (pan_sock: timeout)",1
+952dc7e7,audit(1131551875.366:1): initialized,1
+ebb1aaef,audit(1131551879.365:1): initialized,3
+1220962c,audit(1131551880.365:1): initialized,2
+3181b104,audit(1131551881.365:1): initialized,1
+a4759827,audit(1131551880.366:1): initialized,1
+472801e7,audit(1131551923.365:1): initialized,1
+b4a719d8,"jA9M1Wvl010586: from=root, size=1593353, class=0, nrcpts=1, msgid=<200511092201.jA9M1Wvl010586@cadmin1>, relay=#7#@localhost",1
+ae0afb7c,"<*> from=root, size=1593177, class=0, nrcpts=1, <*> relay=#7#@localhost",2
+0176656a,"jA9M1gwH014848: from=root, size=1596355, class=0, nrcpts=1, msgid=<200511092201.jA9M1gwH014848@dadmin1>, relay=#7#@localhost",1
+c96e2b85,[ib_sm_sweep.c:1035]: Detect switch (LID= <*> port state change,7
+1408e770,[ib_sm_sweep.c:1227]: Switch reported state change,5
+29199ec1,audit(1131552119.365:1): initialized,1
+6fbe5060,audit(1131552124.365:1): initialized,1
+4cfa630a,/tmp1:,2
+3ff138e5,"Clearing orphaned inode 18 (uid=0, gid=0, mode=0100755, size=6036)",1
+47b9cfeb,RRD_update (/var/lib/ganglia/rrds/A Nodes/__SummaryInfo__/disk_free.rrd): illegal attempt to update using time <*> when last update time is <*> (minimum one second step),110
+15a973e2,"[ib_sm_assign.c:615]: Clean up SA resources for port forced down due to LID conflict, node - <*> port=1",4
+e8cd5079,"[ib_sm_bringup.c:450]: Active state mismatch <*> <*> state 1, <*> <*> state 4",1579
+c0393ffd,"jA9MBVbw024329: from=root, size=1596008, class=0, nrcpts=1, msgid=<200511092211.jA9MBVbw024329@aadmin1>, relay=#7#@localhost",1
+f95459c2,"jA9MBX1d017931: from=root, size=1595791, class=0, nrcpts=1, msgid=<200511092211.jA9MBX1d017931@dadmin1>, relay=#7#@localhost",1
+b0ba88be,audit(1131552661.365:1): initialized,1
+14e13659,[ib_sm_sweep.c:411]: IB node <*> port <*> is INIT state,13
+5d37b30c,[INFO]: Configuration caused by some ports in INIT state,12
+b55cd5eb,"[ib_sm_bringup.c:513]: Program port state, node=5ad00000278fe, port= <*> current state <*> neighbor <*> port= 7, current state <*>",3
+6c9e2348,[ib_sm_bringup.c:538]: Force port <*> <*> to DOWN because state(1) should be active but not.,30
+77785473,[ib_sm_bringup.c:584]: Force neighbor port <*> <*> to DOWN because <*> should be active but not.,30
+efa35461,"<*> Skip node= <*> port= <*> bringup because topology is stale, no response",29
+4da44f28,"<*> from=root, size=1593176, class=0, nrcpts=1, <*> relay=#7#@localhost",2
+4b9a5160,"jA9MLW5u021009: from=root, size=1597025, class=0, nrcpts=1, msgid=<200511092221.jA9MLW5u021009@dadmin1>, relay=#7#@localhost",1
+5143bacb,audit(1131553415.365:1): initialized,1
+b24356c0,Invalid user #57# from ::ffff:<*>,1
+2cde9be8,haldaemon -TERM succeeded,69
+41ba0884,messagebus -TERM succeeded,60
+093aba7a,audit(1131553802.365:1): initialized,4
+94756205,"pan_ips: error -- real init, 0x5 (Out of memory), err_loc=3, <*> <11>Nov <*> <*> mount.panfs: bindcache: failed init IPS: 0x5 (Out of memory)",12
+9d3317f6,/tmp:,13
+71eb7cc8,"Clearing orphaned inode <*> (uid=18252, gid=18252, mode=0100775, size=6036)",14
+dcb3503d,audit(1131553838.367:1): initialized,1
+0a2263be,audit(1131553846.366:1): initialized,1
+64cd035c,audit(1131553845.365:1): initialized,3
+05df5fa1,audit(1131553845.362:1): initialized,1
+97a1821e,audit(1131553845.364:1): initialized,1
+9ba1c530,audit(1131553846.365:1): initialized,3
+5c4909a6,audit(1131553846.363:1): initialized,1
+53875334,"<*> to=root, delay=00:00:02, mailer=relay, <*> stat=queued",3
+765ca614,"jA9MVYIY005136: from=root, size=620812, class=0, nrcpts=1, msgid=<200511092231.jA9MVYIY005136@eadmin1>, relay=#7#@localhost",1
+3054c526,"<*> from=root, size=1597019, class=0, nrcpts=1, <*> relay=#7#@localhost",2
+f946195b,"jA9MVgBf026611: from=root, size=1596845, class=0, nrcpts=1, msgid=<200511092231.jA9MVgBf026611@dadmin1>, relay=#7#@localhost",1
+8ddecb1b,audit(1131550326.366:1): initialized,1
+6d0f5a54,"connection from ""#58#""",2
+32ba2121,"jA9MfWj6009163: from=root, size=1596498, class=0, nrcpts=1, msgid=<200511092241.jA9MfWj6009163@aadmin1>, relay=#7#@localhost",1
+10ffec56,"jA9MfYcq020494: from=root, size=1594682, class=0, nrcpts=1, msgid=<200511092241.jA9MfYcq020494@badmin1>, relay=#7#@localhost",1
+74201d57,"jA9Mfbse009978: from=root, size=631328, class=0, nrcpts=1, msgid=<200511092241.jA9Mfbse009978@eadmin1>, relay=#7#@localhost",1
+378b2cc6,audit(1131554493.367:1): initialized,1
+a71ef51c,audit(1131554566.366:1): initialized,1
+48719d15,"<*> from=root, size=1594737, class=0, nrcpts=1, <*> relay=#7#@localhost",110
+02dac948,"jA9Mpdob013924: from=root, size=1596568, class=0, nrcpts=1, msgid=<200511092251.jA9Mpdob013924@aadmin1>, relay=#7#@localhost",1
+d4aa312e,[WARN]: CLI output failed with error Broken pipe. Exiting thread.,4
+7804bc62,"connection from ""#60#""",16
+b13e99b2,[INFO]: Receive SystemImageGUID change trap from port (LID= 29),1
+261bb34b,[INFO]: Configuration caused by System Image GUID change,1
+720189e7,audit(1131556155.365:1): initialized,1
+808ad5dc,fsck.ext3 -a /dev/sda6,3
+02a863b2,"jA9NBXl8020144: from=root, size=1597056, class=0, nrcpts=1, msgid=<200511092311.jA9NBXl8020144@aadmin1>, relay=#7#@localhost",1
+6e33a925,"<*> from=root, size=1595396, class=0, nrcpts=1, <*> relay=#7#@localhost",130
+37b5132a,"jA9NLWAZ024968: from=root, size=1597314, class=0, nrcpts=1, msgid=<200511092321.jA9NLWAZ024968@aadmin1>, relay=#7#@localhost",1
+f7c230f6,[ib_sm_assign.c:389]: Failed to set LID on <*> because NO RESPONSE,2
+08254a3a,[ib_sm_assign.c:122]: Failed to get PortInfo - <*> <*>,10
+8c425b5c,"<*> from=root, size=1597773, class=0, nrcpts=1, <*> relay=#7#@localhost",2
+d91e96a9,"[ib_sm_bringup.c:513]: Program port state, <*> port= <*> current state <*> neighbor <*> port= 2, current state <*>",6
+56aba075,"jA9NfV2O006711: from=root, size=1597605, class=0, nrcpts=1, msgid=<200511092341.jA9NfV2O006711@aadmin1>, relay=#7#@localhost",1
+44857617,"jA9Nfawb026214: from=root, size=1597059, class=0, nrcpts=1, msgid=<200511092341.jA9Nfawb026214@dadmin1>, relay=#7#@localhost",1
+43972732,"[ib_sm_bringup.c:513]: Program port state, <*> port= <*> current state 1, neighbor <*> port= <*> current state 1",27
+12c183c1,"jA9NpWum009802: from=root, size=1597065, class=0, nrcpts=1, msgid=<200511092351.jA9NpWum009802@aadmin1>, relay=#7#@localhost",1
+0f67c241,[ib_sm_sweep.c:369]: Failed to discover management port - <*>,5
+08747f52,"jAA01Xhe014557: from=root, size=1596388, class=0, nrcpts=1, msgid=<200511100001.jAA01Xhe014557@aadmin1>, relay=#7#@localhost",1
+0702e1d1,"<*> from=root, size=1594710, class=0, nrcpts=1, <*> relay=#7#@localhost",2
+4d90d8a4,"jAA0Bckx017705: from=root, size=1596730, class=0, nrcpts=1, msgid=<200511100011.jAA0Bckx017705@aadmin1>, relay=#7#@localhost",1
+9ae6bc1b,"[ib_sm_discovery.c:490]: Failed to GetNodeInfo() - hop_count: 6, direct_path: 0, 1, <*> <*> <*> <*> <*> 0, 0, 0",16
+741bd773,[ib_sm_discovery.c:163]: Failed to discover port - <*> <*>,250
+2ab62c83,"[ib_sm_routing.c:2458]: No spine present in chassis, splitting switch_elem",1
+83038a8b,"<*> from=root, size=1597494, class=0, nrcpts=1, <*> relay=#7#@localhost",2
+ef704998,"jAA0pWDL001036: from=root, size=1596676, class=0, nrcpts=1, msgid=<200511100051.jAA0pWDL001036@aadmin1>, relay=#7#@localhost",1
+f0c4d518,Idle timeout exceeded.,6
+1f0d621f,"jAA1BWpH008749: from=root, size=1595784, class=0, nrcpts=1, msgid=<200511100111.jAA1BWpH008749@aadmin1>, relay=#7#@localhost",1
+ba240f5b,"<*> from=root, size=1597827, class=0, nrcpts=1, <*> relay=#7#@localhost",2
+d2732918,"<*> from=root, size=1596546, class=0, nrcpts=1, <*> relay=#7#@localhost",2
+a320fa24,"jAA1pbGw023047: from=root, size=1597010, class=0, nrcpts=1, msgid=<200511100151.jAA1pbGw023047@aadmin1>, relay=#7#@localhost",1
+91b68b99,STATS: dropped 377,1
+180ce463,"<*> from=root, size=1597444, class=0, nrcpts=1, <*> relay=#7#@localhost",3
+e296ec4e,<*> avc: denied { <*> avc: denied { getattr } for pid=19265 comm=ntpd path=/dev/null dev=ram0 ino=40 scontext=user_u:system_r:ntpd_t tcontext=system_u:object_r:file_t tclass=chr_file,2
+82b1c66d,"jAA2peUA014324: from=root, size=1597613, class=0, nrcpts=1, msgid=<200511100251.jAA2peUA014324@aadmin1>, relay=#7#@localhost",1
+06e9169c,"jAA3fWaG000743: from=root, size=1596701, class=0, nrcpts=1, msgid=<200511100341.jAA3fWaG000743@aadmin1>, relay=#7#@localhost",1
+8da15977,/var/log/cron: No space left on device,1
+97674a26,"<*> from=root, size=1596656, class=0, nrcpts=1, <*> relay=#7#@localhost",2
+eac692ed,"jAA4LWcw016585: from=root, size=1595651, class=0, nrcpts=1, msgid=<200511100421.jAA4LWcw016585@aadmin1>, relay=#7#@localhost",1
+c6116ccd,"<*> from=root, size=1596796, class=0, nrcpts=1, <*> relay=#7#@localhost",2
+f0281674,poll() timeout,76
+9995a155,"jAA4fbX8023009: from=root, size=1597436, class=0, nrcpts=1, msgid=<200511100441.jAA4fbX8023009@aadmin1>, relay=#7#@localhost",1
+6b6abb0e,"jAA4pcIV027574: from=root, size=1597837, class=0, nrcpts=1, msgid=<200511100451.jAA4pcIV027574@aadmin1>, relay=#7#@localhost",1
+c74bcd97,STATS: dropped 1170,1
+0832b576,"<*> from=root, size=1594738, class=0, nrcpts=1, <*> relay=#7#@localhost",8
+eeb0a7bf,"connection from ""#67#""",9
+77a63fe6,Active:764515 inactive:727169 dirty:0 writeback:0 unstable:0 free:3550 slab:8020 mapped:1490913 pagetables:9947,1
+49b4dc03,Free pages: <*> (0kB HighMem),7
+3373c9e5,Mem-info:,7
+bf43252f,Node 0 DMA free:11592kB min:4kB low:8kB high:12kB active:0kB inactive:0kB present:16384kB <*> all_unreclaimable? yes,7
+b5034b68,Node 0 DMA per-cpu:,7
+68c5d2ea,Node 0 DMA: 0*4kB 1*8kB 0*16kB 0*32kB 1*64kB 4*128kB 1*256kB 1*512kB 0*1024kB 1*2048kB 2*4096kB = 11592kB,7
+a93784c9,Node 0 HighMem free:0kB min:128kB low:256kB high:384kB active:0kB inactive:0kB present:0kB pages_scanned:0 all_unreclaimable? no,7
+caba116e,Node 0 HighMem per-cpu: empty,7
+24d20d25,Node 0 HighMem: empty,7
+8c1911ac,Node 0 Normal <*> min:2696kB low:5392kB high:8088kB <*> <*> present:7323648kB <*> all_unreclaimable? yes,7
+5ca5aa71,Node 0 Normal per-cpu:,7
+d105839b,Node 0 Normal: 0*4kB 0*8kB 1*16kB 1*32kB 0*64kB 2*128kB 1*256kB 0*512kB 0*1024kB 1*2048kB 0*4096kB = 2608kB,1
+050ace21,"Swap cache: add 64536622, delete 64536412, find 9606733/15749207, race 11+82",1
+c060f49e,"cpu <*> cold: low 0, high <*> batch <*>",28
+228de340,cpu 0 hot: low <*> high <*> batch <*>,14
+dd68f5db,cpu 1 hot: low <*> high <*> batch <*>,14
+fc380231,oom-killer: gfp_mask=0x1d2,6
+5937dedb,protections[]: 0 0 0,21
+c265f535,1835008 pages of RAM,7
+dddd5044,264 pages swap cached,7
+dadb3538,308365 reserved pages,7
+5685e8c9,70527 pages shared,1
+5d71d466,Free swap: 0kB,7
+e3d9fb97,Out of Memory: Killed process <*> <*>,7
+76fa1e7e,"<*> from=root, size=1596848, class=0, nrcpts=1, <*> relay=#7#@localhost",3
+d4eae908,"jAA6LWrA029835: from=root, size=1596152, class=0, nrcpts=1, msgid=<200511100621.jAA6LWrA029835@aadmin1>, relay=#7#@localhost",1
+5f8a6cd0,"jAA6fbtb005301: from=root, size=1597212, class=0, nrcpts=1, msgid=<200511100641.jAA6fbtb005301@aadmin1>, relay=#7#@localhost",1
+f9423625,(#65#) CMD (/home/#65#/salinas/tbird/cron_script.tbird > /home/#65#/salinas/tbird/VOTD/crontab.log 2>&1),1
+3b8dbae3,"jAA7Bdwa016293: from=root, size=1596291, class=0, nrcpts=1, msgid=<200511100711.jAA7Bdwa016293@aadmin1>, relay=#7#@localhost",1
+4407c1b5,"jAA7VW6q024197: from=root, size=1596356, class=0, nrcpts=1, msgid=<200511100731.jAA7VW6q024197@aadmin1>, relay=#7#@localhost",1
+01842735,"jAA8LWw2010654: from=root, size=1597016, class=0, nrcpts=1, msgid=<200511100821.jAA8LWw2010654@aadmin1>, relay=#7#@localhost",1
+b3249d97,"<*> from=root, size=1597691, class=0, nrcpts=1, <*> relay=#7#@localhost",2
+d701f3d7,"jAA8pW7T021643: from=root, size=1596694, class=0, nrcpts=1, msgid=<200511100851.jAA8pW7T021643@aadmin1>, relay=#7#@localhost",1
+5d4a239e,"jAA9BcYg029544: from=root, size=1596933, class=0, nrcpts=1, msgid=<200511100911.jAA9BcYg029544@aadmin1>, relay=#7#@localhost",1
+da1b6109,"jAA9VWUD005017: from=root, size=1595620, class=0, nrcpts=1, msgid=<200511100931.jAA9VWUD005017@aadmin1>, relay=#7#@localhost",1
+61893ed2,"jAA9fc6X008094: from=root, size=1597530, class=0, nrcpts=1, msgid=<200511100941.jAA9fc6X008094@aadmin1>, relay=#7#@localhost",1
+824fab23,"jAAA1WsZ015994: from=root, size=1596951, class=0, nrcpts=1, msgid=<200511101001.jAAA1WsZ015994@aadmin1>, relay=#7#@localhost",1
+1eb4f32e,"jAAABV0m020815: from=root, size=1596748, class=0, nrcpts=1, msgid=<200511101011.jAAABV0m020815@aadmin1>, relay=#7#@localhost",1
+4384d385,"jAAABe97012270: from=root, size=1594708, class=0, nrcpts=1, msgid=<200511101011.jAAABe97012270@badmin1>, relay=#7#@localhost",1
+edd932bc,"jAAAVb1K026985: from=root, size=1597809, class=0, nrcpts=1, msgid=<200511101031.jAAAVb1K026985@aadmin1>, relay=#7#@localhost",1
+e49cbada,"jAAApWtQ002457: from=root, size=1596302, class=0, nrcpts=1, msgid=<200511101051.jAAApWtQ002457@aadmin1>, relay=#7#@localhost",1
+bcc667e4,"<*> from=root, size=1594736, class=0, nrcpts=1, <*> relay=#7#@localhost",14
+588fa3e4,"jAAB1dXV007270: from=root, size=1597835, class=0, nrcpts=1, msgid=<200511101101.jAAB1dXV007270@aadmin1>, relay=#7#@localhost",1
+d0c8c3f9,"jAAB21vf012121: from=root, size=5848, class=0, nrcpts=1, msgid=<200511101102.jAAB21vf012121@#68#>, relay=#7#@localhost",1
+bb60cc5e,"jAAB21j2029208: from=root, size=5657, class=0, nrcpts=1, msgid=<200511101102.jAAB21j2029208@#69#>, relay=#7#@localhost",1
+f1cd6491,Updated timestamp for job `cron.daily' to 2005-11-10,106
+a757c0c2,ALERT exited abnormally with [1],18
+997f2e4d,"jAAB229K005691: from=root, size=1117, class=0, nrcpts=1, msgid=<200511101102.jAAB229K005691@#70#>, relay=#7#@localhost",1
+f2b1e054,"jAAB22pW005037: from=root, size=1372, class=0, nrcpts=1, msgid=<200511101102.jAAB22pW005037@#71#>, relay=#7#@localhost",1
+e1f8bb56,"jAAB22Hm004119: from=root, size=1486, class=0, nrcpts=1, msgid=<200511101102.jAAB22Hm004119@#72#>, relay=#7#@localhost",1
+3990006b,"jAAB2403021621: 0: fl=0x8000, mode=100644: dev=8/6, ino=367, nlink=0, u/gid=0/0, size=3447",1
+9c3b3429,"jAAB2403021621: <*> fl=0x1, mode=10600: FIFO: dev=0/7, ino=5719211, nlink=1, u/gid=0/0, size=0",2
+009766fc,"<*> 3: fl=0x2, mode=140777: SOCK localhost->[[UNIX: /dev/log]]",2
+57b70d24,"<*> SYSERR(root): queueup: cannot create queue file <*> euid=51, fd=-1, fp=0x0: No space left on device",2
+b2905d43,<*> SYSERR(root): returntosender: cannot select queue for <*>,4
+ac2ab7cf,"jAAB2403021621: from=root, size=3447, class=0, nrcpts=1, msgid=<200511101102.jAAB2403021621@#73#>, relay=#7#@localhost",1
+19b42977,"<*> low on space (SMTP-DAEMON needs <*> bytes + 100 blocks in /var/spool/clientmqueue), max avail: 0",8
+252be12f,"jAAB2403021621: to=root, delay=00:00:00, pri=33447, stat=Insufficient disk space; try again later",1
+a6a01e90,/var/log/maillog: No space left on device,1
+57f29e4b,"jAAB2535026061: from=root, size=38858, class=0, nrcpts=1, msgid=<200511101102.jAAB2535026061@#74#>, relay=#7#@localhost",1
+2bfbc65b,"<*> from=root, size=1467, class=0, nrcpts=1, <*> relay=#7#@localhost",12
+fb839398,"jAAB320f003314: from=root, size=1549, class=0, nrcpts=1, msgid=<200511101103.jAAB320f003314@an532>, relay=#7#@localhost",1
+1cc850d0,"jAAB32Mn003063: from=root, size=1482, class=0, nrcpts=1, msgid=<200511101103.jAAB32Mn003063@an895>, relay=#7#@localhost",1
+6dd09f7f,"<*> from=root, size=1468, class=0, nrcpts=1, <*> relay=#7#@localhost",10
+ebb2a5c5,"<*> from=root, size=356, class=0, nrcpts=1, <*> relay=#7#@localhost",18
+9fef0877,"<*> from=root, size=1466, class=0, nrcpts=1, <*> relay=#7#@localhost",3
+41009bc5,"<*> from=root, size=1463, class=0, nrcpts=1, <*> relay=#7#@localhost",2
+1a22350f,"jAAB32Ha003475: from=root, size=1662, class=0, nrcpts=1, msgid=<200511101103.jAAB32Ha003475@cn1>, relay=#7#@localhost",1
+32a9e5b0,"<*> from=root, size=1580, class=0, nrcpts=1, <*> relay=#7#@localhost",6
+41fd70df,"jAAB31cN003205: from=root, size=1407, class=0, nrcpts=1, msgid=<200511101103.jAAB31cN003205@cn113>, relay=#7#@localhost",1
+3c6c1aff,"jAAB32r7003439: from=root, size=1626, class=0, nrcpts=1, msgid=<200511101103.jAAB32r7003439@cn14>, relay=#7#@localhost",1
+6f141f7e,"<*> from=root, size=1578, class=0, nrcpts=1, <*> relay=#7#@localhost",5
+c589524b,"jAAB32Qq003423: from=root, size=1554, class=0, nrcpts=1, msgid=<200511101103.jAAB32Qq003423@cn3>, relay=#7#@localhost",1
+93b7199c,"jAAB32J8003432: from=root, size=1602, class=0, nrcpts=1, msgid=<200511101103.jAAB32J8003432@cn8>, relay=#7#@localhost",1
+463d4025,"<*> from=root, size=1295, class=0, nrcpts=1, <*> relay=#7#@localhost",2
+0438eca0,"jAAB32jP003249: from=root, size=1483, class=0, nrcpts=1, msgid=<200511101103.jAAB32jP003249@cn989>, relay=#7#@localhost",1
+09a45ff0,"jAAB32gO003764: from=root, size=1524, class=0, nrcpts=1, msgid=<200511101103.jAAB32gO003764@dn209>, relay=#7#@localhost",1
+89613e30,"<*> from=root, size=1548, class=0, nrcpts=1, <*> relay=#7#@localhost",14
+a5ab40b0,"jAAB32Kf003435: from=root, size=1563, class=0, nrcpts=1, msgid=<200511101103.jAAB32Kf003435@dn217>, relay=#7#@localhost",1
+7c8853f4,"<*> from=root, size=1297, class=0, nrcpts=1, <*> relay=#7#@localhost",4
+0deb1b7e,"<*> from=root, size=1465, class=0, nrcpts=1, <*> relay=#7#@localhost",3
+4cf8ad86,"jAAB33g7003372: from=root, size=1367, class=0, nrcpts=1, msgid=<200511101103.jAAB33g7003372@an421>, relay=#7#@localhost",1
+305f1238,"jAAB33Tt003280: from=root, size=1310, class=0, nrcpts=1, msgid=<200511101103.jAAB33Tt003280@an53>, relay=#7#@localhost",1
+b591ec41,"jAAB33Ei003265: from=root, size=1606, class=0, nrcpts=1, msgid=<200511101103.jAAB33Ei003265@cn6>, relay=#7#@localhost",1
+ea6beb73,"jAAB33sI003328: from=root, size=1673, class=0, nrcpts=1, msgid=<200511101103.jAAB33sI003328@dn161>, relay=#7#@localhost",1
+ea3ea2e1,"jAAB33TO003227: from=root, size=1865, class=0, nrcpts=1, msgid=<200511101103.jAAB33TO003227@en171>, relay=#7#@localhost",1
+d5d7aa8f,"jAAB33VV009463: from=root, size=3746, class=0, nrcpts=1, msgid=<200511101103.jAAB33VV009463@en257>, relay=#7#@localhost",1
+9e693d20,"jAAB33MZ003170: from=root, size=1327, class=0, nrcpts=1, msgid=<200511101103.jAAB33MZ003170@en263>, relay=#7#@localhost",1
+67fb68f1,"jAAB33w2003428: from=root, size=1447, class=0, nrcpts=1, msgid=<200511101103.jAAB33w2003428@en74>, relay=#7#@localhost",1
+a0e3dcff,"jAAB338J003222: from=root, size=1421, class=0, nrcpts=1, msgid=<200511101103.jAAB338J003222@en86>, relay=#7#@localhost",1
+eac29383,"jAAB34uE003260: from=root, size=1492, class=0, nrcpts=1, msgid=<200511101103.jAAB34uE003260@cn705>, relay=#7#@localhost",1
+77ec4e44,"jAAB372a013919: from=root, size=208191, class=0, nrcpts=1, msgid=<200511101103.jAAB372a013919@eadmin1>, relay=#7#@localhost",1
+8c2d16f4,"jAAB6QnO007369: from=root, size=211561, class=0, nrcpts=1, msgid=<200511101106.jAAB6QnO007369@aadmin1>, relay=#7#@localhost",1
+1746ffd0,(root) MAIL (mailed 873 bytes of output but got status 0x0047 ),1
+d0c25e4a,"jAAB24FD021623: 0: fl=0x0, mode=10600: FIFO: dev=0/7, ino=5719627, nlink=1, u/gid=0/0, size=0",1
+f60f40f7,"jAAB24FD021623: <*> fl=0x8002, mode=20666: CHR: dev=0/13, ino=1282, nlink=1, u/gid=0/0, size=0",2
+df24348c,"jAAB24FD021623: from=root, size=1140, class=0, nrcpts=1, msgid=<200511101102.jAAB24FD021623@#73#>, relay=#7#@localhost",1
+777b3b33,Trying to re-exec init,2
+f9a8da68,"jAABBYW7010634: from=root, size=1596756, class=0, nrcpts=1, msgid=<200511101111.jAABBYW7010634@aadmin1>, relay=#7#@localhost",1
+76952854,"jAABVe3E018543: from=root, size=1597382, class=0, nrcpts=1, msgid=<200511101131.jAABVe3E018543@aadmin1>, relay=#7#@localhost",1
+2b98d7d5,"jAABfW3m021623: from=root, size=1597090, class=0, nrcpts=1, msgid=<200511101141.jAABfW3m021623@aadmin1>, relay=#7#@localhost",1
+7ce492fb,"jAABpdXQ026444: from=root, size=1596826, class=0, nrcpts=1, msgid=<200511101151.jAABpdXQ026444@aadmin1>, relay=#7#@localhost",1
+2e9b136c,"jAACBVVS001897: from=root, size=1596471, class=0, nrcpts=1, msgid=<200511101211.jAACBVVS001897@aadmin1>, relay=#7#@localhost",1
+103c2d94,"jAACLW4u004997: from=root, size=1596634, class=0, nrcpts=1, msgid=<200511101221.jAACLW4u004997@aadmin1>, relay=#7#@localhost",1
+61aa8065,"jAACfapS012903: from=root, size=1596725, class=0, nrcpts=1, msgid=<200511101241.jAACfapS012903@aadmin1>, relay=#7#@localhost",1
+3fd04818,"jAADVbEL031784: from=root, size=1597661, class=0, nrcpts=1, msgid=<200511101331.jAADVbEL031784@aadmin1>, relay=#7#@localhost",1
+ce754290,"jAADpYpV007257: from=root, size=1596721, class=0, nrcpts=1, msgid=<200511101351.jAADpYpV007257@aadmin1>, relay=#7#@localhost",1
+17b54006,exiting,9
+a94eedb5,Lustre: Routing socket NAL unloaded (final mem 0),9
+27e94864,"jAAFBbr4004700: from=root, size=1596300, class=0, nrcpts=1, msgid=<200511101511.jAAFBbr4004700@aadmin1>, relay=#7#@localhost",1
+652a4aec,"connection from ""#75#""",1
+f645badd,STATS: dropped 378,2
+0ca5b0cd,"jAAFfWCF017421: from=root, size=1595280, class=0, nrcpts=1, msgid=<200511101541.jAAFfWCF017421@aadmin1>, relay=#7#@localhost",1
+a6ad83d4,X11 connection from <*> (#8#),2
+5c0632fa,bad username [\],1
+45935c63,#26# : <*> ; PWD=/home/#26# ; USER=root ; COMMAND=/bin/su <*>,22
+e43c04b2,"connection from ""#78#""",1
+1fa6a594,Kerberos password failed for user #55# (#55#@#24#).,3
+7443df40,Local password failed for user #55#.,3
+d93c6969,PAM password failed for user #55#.,3
+7f93cde2,Password authentication for user #55# failed (from #78# port 56551).,3
+d038e4d8,"auths-pam: PAM subprocess returned packet SSH_PAM_OP_ERROR. (err_num: 7, err_msg: Authentication failure)",3
+2415b972,PAM transaction resulted in error.,3
+f47b8bf8,authentication failure; logname=LOGIN uid=0 euid=0 <*> ruser= rhost=,4
+b780997e,check pass; user unknown,4
+ff1f430c,"connection from ""#79#""",8
+578feffa,authentication failure; logname=LOGIN uid=0 euid=0 <*> ruser= rhost= <*>,3
+37701079,STATS: dropped 323,1
+f4b688da,"jAAGfWNb006967: from=root, size=1597855, class=0, nrcpts=1, msgid=<200511101641.jAAGfWNb006967@aadmin1>, relay=#7#@localhost",1
+9a459dfb,"jAAGfXGC002932: from=root, size=1594730, class=0, nrcpts=1, msgid=<200511101641.jAAGfXGC002932@badmin1>, relay=#7#@localhost",1
+aec6cc64,Lustre: 13191:0:(socknal.c:325:ksocknal_associate_route_conn_locked()) Binding 0xa00044a <*> to <*>,1
+489ed37b,Lustre: 13194:0:(socknal.c:325:ksocknal_associate_route_conn_locked()) Binding 0xa00044b <*> to <*>,1
+956d648c,Lustre: 13194:0:(socknal.c:325:ksocknal_associate_route_conn_locked()) Binding 0xa00044c <*> to <*>,1
+b25e7583,Lustre: 13194:0:(socknal.c:325:ksocknal_associate_route_conn_locked()) Binding 0xa00044d <*> to <*>,1
+03b639aa,Lustre: 13194:0:(socknal.c:325:ksocknal_associate_route_conn_locked()) Binding 0xa00044e <*> to <*>,1
+334a5d3b,Lustre: 13194:0:(socknal.c:325:ksocknal_associate_route_conn_locked()) Binding 0xa00044f <*> to <*>,1
+d1eac091,Lustre: 13191:0:(socknal.c:325:ksocknal_associate_route_conn_locked()) Binding 0xa000443 <*> to <*>,1
+fe571e3d,Lustre: 13194:0:(socknal.c:325:ksocknal_associate_route_conn_locked()) Binding 0xa000442 <*> to <*>,1
+1a3c80ba,Lustre: 13194:0:(socknal.c:325:ksocknal_associate_route_conn_locked()) Binding 0xa000450 <*> to <*>,1
+90b81d9f,Lustre: 13194:0:(socknal.c:325:ksocknal_associate_route_conn_locked()) Binding 0xa000445 <*> to <*>,1
+4e81925d,Lustre: <*> previously skipped <*> similar messages,6
+1b5de63a,Lustre: 13194:0:(socknal.c:325:ksocknal_associate_route_conn_locked()) Binding 0xa000448 <*> to <*>,1
+bfd48aa9,"jAAGpXE9011782: from=root, size=1597631, class=0, nrcpts=1, msgid=<200511101651.jAAGpXE9011782@aadmin1>, relay=#7#@localhost",1
+b27740d0,"jAAGpW9H006009: from=root, size=1594733, class=0, nrcpts=1, msgid=<200511101651.jAAGpW9H006009@badmin1>, relay=#7#@localhost",1
+44a82c56,Lustre: 6194:0:(socknal.c:325:ksocknal_associate_route_conn_locked()) Binding 0xa00044a <*> to <*>,1
+0438b90c,Lustre: 6194:0:(socknal.c:325:ksocknal_associate_route_conn_locked()) Binding 0xa00044b <*> to <*>,1
+d30504e8,Lustre: 6194:0:(socknal.c:325:ksocknal_associate_route_conn_locked()) Binding 0xa00044c <*> to <*>,1
+567ad4fc,Lustre: 6194:0:(socknal.c:325:ksocknal_associate_route_conn_locked()) Binding 0xa00044d <*> to <*>,1
+b7b68b5d,Lustre: 6195:0:(socknal.c:325:ksocknal_associate_route_conn_locked()) Binding 0xa00044e <*> to <*>,1
+62984207,Lustre: 6197:0:(socknal.c:325:ksocknal_associate_route_conn_locked()) Binding 0xa00044f <*> to <*>,1
+c7d6fb56,Lustre: 6196:0:(socknal.c:325:ksocknal_associate_route_conn_locked()) Binding 0xa000450 <*> to <*>,1
+30dff1c2,Lustre: 6196:0:(socknal.c:325:ksocknal_associate_route_conn_locked()) Binding 0xa000442 <*> to <*>,1
+9c464690,Lustre: 6196:0:(socknal.c:325:ksocknal_associate_route_conn_locked()) Binding 0xa000443 <*> to <*>,1
+b4143281,Lustre: 6196:0:(socknal.c:325:ksocknal_associate_route_conn_locked()) Binding 0xa000444 <*> to <*>,1
+855e4ab3,Lustre: 6196:0:(socknal.c:325:ksocknal_associate_route_conn_locked()) Binding 0xa000445 <*> to <*>,1
+3f10af07,Lustre: 6196:0:(socknal.c:325:ksocknal_associate_route_conn_locked()) Binding 0xa000446 <*> to <*>,1
+2b04caa5,Lustre: 6196:0:(socknal.c:325:ksocknal_associate_route_conn_locked()) Binding 0xa000448 <*> to <*>,1
+8be226e1,STATS: dropped 692,1
+c7cdefd8,STATS: dropped 2750,1
+cc6886e1,"jAAHBWJH017948: from=root, size=1597230, class=0, nrcpts=1, msgid=<200511101711.jAAHBWJH017948@aadmin1>, relay=#7#@localhost",1
+e91f5251,"jAAHBduX022301: from=root, size=1595368, class=0, nrcpts=1, msgid=<200511101711.jAAHBduX022301@cadmin1>, relay=#7#@localhost",1
+c17b89c0,STATS: dropped 385,1
+c4785448,STATS: dropped 375,1
+c7009653,"jAAHLaMU022773: from=root, size=1597717, class=0, nrcpts=1, msgid=<200511101721.jAAHLaMU022773@aadmin1>, relay=#7#@localhost",1
+2e09eb5b,Lustre: 29945:0:(socknal.c:325:ksocknal_associate_route_conn_locked()) Binding 0xa00044a <*> to <*>,1
+8a662ebd,Lustre: 29945:0:(socknal.c:325:ksocknal_associate_route_conn_locked()) Binding 0xa00044b <*> to <*>,1
+e11cdb95,Lustre: 29945:0:(socknal.c:325:ksocknal_associate_route_conn_locked()) Binding 0xa00044c <*> to <*>,1
+2da42b99,Lustre: 29945:0:(socknal.c:325:ksocknal_associate_route_conn_locked()) Binding 0xa00044d <*> to <*>,1
+7a18a653,Lustre: 29945:0:(socknal.c:325:ksocknal_associate_route_conn_locked()) Binding 0xa00044e <*> to <*>,1
+259abda7,Lustre: 29945:0:(socknal.c:325:ksocknal_associate_route_conn_locked()) Binding 0xa00044f <*> to <*>,1
+57f8927e,Lustre: 29945:0:(socknal.c:325:ksocknal_associate_route_conn_locked()) Binding 0xa000450 <*> to <*>,1
+19d88bdb,Lustre: 29945:0:(socknal.c:325:ksocknal_associate_route_conn_locked()) Binding 0xa000442 <*> to <*>,1
+56c49542,Lustre: 29945:0:(socknal.c:325:ksocknal_associate_route_conn_locked()) Binding 0xa000443 <*> to <*>,1
+104aa0eb,Lustre: 29945:0:(socknal.c:325:ksocknal_associate_route_conn_locked()) Binding 0xa000444 <*> to <*>,1
+7bdf838e,Lustre: 29945:0:(socknal.c:325:ksocknal_associate_route_conn_locked()) Binding 0xa000446 <*> to <*>,1
+95908ff0,Lustre: 29947:0:(socknal.c:325:ksocknal_associate_route_conn_locked()) Binding 0xa000441 <*> to <*>,1
+74b4c5c4,"[ib_sm_bringup.c:472]: Active port(s) now in INIT state node=0x0005AD00000278D2, port=1, state=2, neighbor node=0x00066A00010002FF, port=10, state=1",1
+832573f5,Lustre: 11484:0:(socknal.c:325:ksocknal_associate_route_conn_locked()) Binding 0xa00044a <*> to <*>,1
+a78f3d39,Lustre: 11484:0:(socknal.c:325:ksocknal_associate_route_conn_locked()) Binding 0xa00044b <*> to <*>,1
+f67c7622,Lustre: 11485:0:(socknal.c:325:ksocknal_associate_route_conn_locked()) Binding 0xa00044c <*> to <*>,1
+594b59cd,Lustre: 11485:0:(socknal.c:325:ksocknal_associate_route_conn_locked()) Binding 0xa00044d <*> to <*>,1
+422b59c0,Lustre: 11484:0:(socknal.c:325:ksocknal_associate_route_conn_locked()) Binding 0xa00044e <*> to <*>,1
+e263e139,Lustre: 11485:0:(socknal.c:325:ksocknal_associate_route_conn_locked()) Binding 0xa00044f <*> to <*>,1
+b5112865,Lustre: 11486:0:(socknal.c:325:ksocknal_associate_route_conn_locked()) Binding 0xa000450 <*> to <*>,1
+a7f98216,Lustre: 11484:0:(socknal.c:325:ksocknal_associate_route_conn_locked()) Binding 0xa000442 <*> to <*>,1
+a8e55942,Lustre: 11484:0:(socknal.c:325:ksocknal_associate_route_conn_locked()) Binding 0xa000443 <*> to <*>,1
+d1d0d6bd,Lustre: 11486:0:(socknal.c:325:ksocknal_associate_route_conn_locked()) Binding 0xa000444 <*> to <*>,1
+ebc83af3,Lustre: 11486:0:(socknal.c:325:ksocknal_associate_route_conn_locked()) Binding 0xa000445 <*> to <*>,1
+6e0aeead,Lustre: 11487:0:(socknal.c:325:ksocknal_associate_route_conn_locked()) Binding 0xa000447 <*> to <*>,1
+e538c93e,Lustre: 11485:0:(socknal.c:325:ksocknal_associate_route_conn_locked()) Binding 0xa000449 <*> to <*>,1
+25823e48,"jAAHVWqq025850: from=root, size=1595058, class=0, nrcpts=1, msgid=<200511101731.jAAHVWqq025850@aadmin1>, relay=#7#@localhost",1
+3416b7cf,#47# : TTY=pts/1 ; PWD=/home/#47# ; USER=root ; COMMAND=/usr/bin/ssh an1 df,1
+72ef546a,"<*> from=root, size=1597112, class=0, nrcpts=1, <*> relay=#7#@localhost",2
+af7ed20f,bad username [],6
+f91d05de,"jAAI1bxH006143: from=root, size=1597082, class=0, nrcpts=1, msgid=<200511101801.jAAI1bxH006143@aadmin1>, relay=#7#@localhost",1
+b6f50fb2,"jAAIBWih009230: from=root, size=1596313, class=0, nrcpts=1, msgid=<200511101811.jAAIBWih009230@aadmin1>, relay=#7#@localhost",1
+fd231754,"jAAILag9012309: from=root, size=1595915, class=0, nrcpts=1, msgid=<200511101821.jAAILag9012309@aadmin1>, relay=#7#@localhost",1
+0c1071fc,"jAAIVWqM017130: from=root, size=1597577, class=0, nrcpts=1, msgid=<200511101831.jAAIVWqM017130@aadmin1>, relay=#7#@localhost",1
+9590ebe0,root : <*> ; <*> ; USER=root ; <*>,5
+1bf79cfe,"<*> from=root, size=1597834, class=0, nrcpts=1, <*> relay=#7#@localhost",2
+7335efcf,"jAAJBWpY000462: from=root, size=1595277, class=0, nrcpts=1, msgid=<200511101911.jAAJBWpY000462@aadmin1>, relay=#7#@localhost",1
+14bb19c7,"jAAJfaH4011490: from=root, size=1595759, class=0, nrcpts=1, msgid=<200511101941.jAAJfaH4011490@aadmin1>, relay=#7#@localhost",1
+a3301d12,"jAAKLXMb027287: from=root, size=1596331, class=0, nrcpts=1, msgid=<200511102021.jAAKLXMb027287@aadmin1>, relay=#7#@localhost",1
+4b4b5fd9,"WARNING: DNS lookup failed for ""#82#"".",1
+7b839264,"connection from ""#82#""",1
+df6287e6,"jAAKVfHk032470: from=root, size=1591153, class=0, nrcpts=1, msgid=<200511102031.jAAKVfHk032470@aadmin1>, relay=#7#@localhost",1
+13a8a822,#57# : TTY=pts/3 ; PWD=/home/#57# ; USER=root ; COMMAND=/apps/contrib/sm,5
+a3d7f768,Listening on LPF/eth1/00:11:43:e3:b9:7e/A_net,2
+5bbd28df,Sending on LPF/eth1/00:11:43:e3:b9:7e/A_net,2
+4b2113e6,Listening on LPF/eth1/00:11:43:e3:b7:99/B_net,2
+f6d54f82,Sending on LPF/eth1/00:11:43:e3:b7:99/B_net,2
+64c48e71,Listening on LPF/eth1/00:11:43:e3:ba:ad/D_net,4
+d638ff68,Sending on LPF/eth1/00:11:43:e3:ba:ad/D_net,4
+7948562f,Listening on LPF/eth1/00:11:43:e3:b8:96/B_net,2
+49099213,Sending on LPF/eth1/00:11:43:e3:b8:96/B_net,2
+2a558e4e,Listening on LPF/eth1/00:11:43:e3:ba:df/C_net,2
+6faf44b2,Sending on LPF/eth1/00:11:43:e3:ba:df/C_net,2
+c2a6f9e0,Listening on LPF/eth1/00:11:43:e3:b8:9f/D_net,2
+8bef1b22,Sending on LPF/eth1/00:11:43:e3:b8:9f/D_net,2
+73a62fbe,Listening on LPF/eth1/00:11:43:e3:b8:05/A_net,2
+8fbb0eb5,Sending on LPF/eth1/00:11:43:e3:b8:05/A_net,2
+e33d3446,Listening on LPF/eth1/00:11:43:e3:b7:de/B_net,2
+0e10ad1f,Sending on LPF/eth1/00:11:43:e3:b7:de/B_net,2
+401e2a56,Listening on LPF/eth1/00:11:43:e2:f0:4f/C_net,4
+a5e639d2,Sending on LPF/eth1/00:11:43:e2:f0:4f/C_net,4
+751ae043,Listening on LPF/eth1/00:11:43:e3:ba:04/D_net,4
+873ffeef,Sending on LPF/eth1/00:11:43:e3:ba:04/D_net,4
+a612a571,Listening on LPF/eth1/00:11:43:e3:ba:32/A_net,2
+e5900c76,Sending on LPF/eth1/00:11:43:e3:ba:32/A_net,2
+c97ce7c3,Listening on LPF/eth1/00:11:43:e3:b8:f3/B_net,2
+7afdb293,Sending on LPF/eth1/00:11:43:e3:b8:f3/B_net,2
+6e670542,Listening on LPF/eth1/00:11:43:e3:b9:ec/C_net,2
+cd6c1e18,Sending on LPF/eth1/00:11:43:e3:b9:ec/C_net,2
+440570c7,Listening on LPF/eth1/00:11:43:e3:ba:13/D_net,2
+71247c45,Sending on LPF/eth1/00:11:43:e3:ba:13/D_net,2
+690a57cc,smartd shutdown succeeded,105
+e05068e3,smartd is exiting (exit status 0),105
+668c66be,smartd received signal 15: Terminated,105
+f8fd5f59,"connection from ""#83#""",1
+c5ac6c42,"jAAKpWUx009500: from=root, size=1596968, class=0, nrcpts=1, msgid=<200511102051.jAAKpWUx009500@aadmin1>, relay=#7#@localhost",1
+96d01e04,0000000300000000 <*> 0000000000000000 0000000000000001,11
+e6f5a5a3,0000000300000000 ffffffffa00df0c0,8
+60ee654d,<ffffffff8011003e>{system_call+126},11
+e9a6c680,<ffffffff801114a8>{show_stack+241} <ffffffffa01a16eb>{:libcfs:kportal_assertion_failed+519},11
+9cddff4a,<ffffffff80131b48>{__wake_up+54} <ffffffff80157cc6>{mempool_free_slab+0},7
+9939b60b,<ffffffff80131b48>{__wake_up+54} <ffffffffa00c2d8b>{:sunrpc:__rpc_execute+867},7
+dcd4699d,<ffffffff8013334e>{autoremove_wake_function+0} <ffffffff8013334e>{autoremove_wake_function+0},7
+fde38f16,<ffffffff80135e1a>{release_console_sem+369} <ffffffff80136048>{vprintk+498},9
+b229e3bd,<ffffffff80136048>{vprintk+498} <ffffffff801360f2>{printk+141},9
+764b0cbf,<ffffffff8013d6a0>{__mod_timer+293} <ffffffff8022e239>{poke_blanked_console+162},12
+cbc9dafe,<ffffffff801419f1>{do_sigaction+490} <ffffffff80185a59>{sys_ioctl+853},10
+c6e5e5e0,<ffffffff80146bf3>{__kernel_text_address+26} <ffffffff8011136c>{show_trace+375},11
+819595a4,<ffffffff80177fb3>{__getblk+42} <ffffffff80130001>{recalc_task_prio+337},2
+9e2c2075,<ffffffff80189c1e>{dput+55} <ffffffff801814da>{__link_path_walk+3862},8
+8a089502,<ffffffff8018aa8b>{__d_lookup+272} <ffffffff80189c1e>{dput+55},8
+83382810,<ffffffff801f16a6>{vgacon_cursor+0} <ffffffff8013d6a0>{__mod_timer+293},6
+bd88c3ba,<ffffffff8022e239>{poke_blanked_console+162} <ffffffff80230578>{vt_console_print+727},20
+fc32b354,<ffffffff80230578>{vt_console_print+727} <ffffffff8013d6a0>{__mod_timer+293},9
+ff61dd78,<ffffffffa00be63f>{:sunrpc:rpc_clnt_sigunmask+63} <ffffffffa00be63f>{:sunrpc:rpc_clnt_sigunmask+63},7
+15d81858,<ffffffffa00fde4c>{:nfs:__nfs_revalidate_inode+1697},7
+7f6b2aac,<ffffffffa0226bab>{:obdclass:obd_ioctl_getdata+4259},11
+7c7e02a0,<ffffffffa022b14f>{:obdclass:class_handle_ioctl+5605},11
+6c956cfb,<ffffffffa0250297>{:obdclass:class_decref+2250} <ffffffffa025136d>{:obdclass:class_detach+1761},11
+0ab60d3d,<ffffffffa025937a>{:obdclass:class_process_config+6109},11
+a73c23f2,<ffffffffa05f81a5>{:obdecho:echo_client_cleanup+911},11
+6cfb9ecc,0000000000000000 ffffffff802ffa89 0000000000000206 <*>,10
+0fa8c734,Call Trace:<ffffffff802ffa89>{thread_return+79} <ffffffffa00c2496>{:sunrpc:rpc_wake_up_next+350},8
+898bb2bc,Lustre: <*> showing stack for process <*>,11
+7c9b36fa,LustreError: <*> OBD ioctl: device not setup <*>,11
+f5e39722,LustreError: <*> ASSERTION(eco->eco_refcount == 0) failed,11
+879f5242,LustreError: 11986:0:(module.c:46:kportal_assertion_failed()) LBUG,1
+3bff33ac,LustreError: dumping log to <*>,11
+3bc8adfe,lctl R running task 0 <*> <*> (NOTLB),11
+88561ec3,"Lustre: <*> Invoked portals upcall /usr/lib/lustre/portals_upcall LBUG,/f3home/#13#/build.2.6/buildir/BUILD/lustre-#12#/lustre/obdecho/echo_client.c,echo_client_cleanup,1382",11
+8cee08cd,0000000000000246 0000000000000003,3
+3e7f8996,<ffffffff80131b48>{__wake_up+54} <ffffffff80130001>{recalc_task_prio+337},2
+44037430,<ffffffffa00c2d8b>{:sunrpc:__rpc_execute+867} <ffffffff8013334e>{autoremove_wake_function+0},2
+7922e407,LustreError: 13967:0:(module.c:46:kportal_assertion_failed()) LBUG,1
+4fd81dbd,audit(1131634360.367:1): initialized,1
+f040e27b,[ib_sm_multicast.c:840]: Failed to set SwitchInfo:DefaultMulticastPort to <*>,2
+eaed457a,bad username [\\\\\\\\\\\\\\],1
+18decce7,LustreError: <*> no device for: <*>,29
+85cb34c2,LustreError: <*> OBD device 30 still set up,2
+be4c2fe6,LustreError: <*> OBD <*> is still busy with 4 references,2
+d1aba190,"You should stop active file system users, or use the --force option to cleanup.",2
+b5333262,<ffffffff80136048>{vprintk+498} <ffffffff80136048>{vprintk+498},2
+c4772b49,<ffffffff801360f2>{printk+141} <ffffffff801360f2>{printk+141},2
+34178e5a,<ffffffff80230578>{vt_console_print+727} <ffffffff80135e1a>{release_console_sem+369},2
+3fa41357,<ffffffff80230578>{vt_console_print+727} <ffffffff801f16a6>{vgacon_cursor+0},1
+1f346abd,<ffffffffa00c2d8b>{:sunrpc:__rpc_execute+867} <ffffffff8013d6a0>{__mod_timer+293},1
+b9f78358,LustreError: 14194:0:(module.c:46:kportal_assertion_failed()) LBUG,1
+9d781521,<ffffffff80130001>{recalc_task_prio+337} <ffffffff8013d6a0>{__mod_timer+293},1
+b6a50409,<ffffffff801814da>{__link_path_walk+3862} <ffffffff801c8370>{dummy_inode_permission+0},1
+43a1b4ff,LustreError: 30405:0:(module.c:46:kportal_assertion_failed()) LBUG,1
+f3c0c5d3,LustreError: <*> previously skipped <*> similar messages,24
+b1c32855,<ffffffff80130001>{recalc_task_prio+337} <ffffffffa00c2d8b>{:sunrpc:__rpc_execute+867},1
+8b9aa116,<ffffffff8013334e>{autoremove_wake_function+0} <ffffffff8013d6a0>{__mod_timer+293},1
+6985fe14,Call Trace:<ffffffff802ffa89>{thread_return+79} <ffffffff80131b48>{__wake_up+54},2
+55b0a070,LustreError: 14212:0:(module.c:46:kportal_assertion_failed()) LBUG,1
+4cc6e9a8,LustreError: 30415:0:(module.c:46:kportal_assertion_failed()) LBUG,1
+d1bdcbe0,<ffffffff801814da>{__link_path_walk+3862} <ffffffff80130001>{recalc_task_prio+337},5
+e8b8e93f,<ffffffff80189c1e>{dput+55} <ffffffff8013d6a0>{__mod_timer+293},2
+e938884a,LustreError: 12054:0:(module.c:46:kportal_assertion_failed()) LBUG,1
+a95ccf00,<ffffffff8013334e>{autoremove_wake_function+0} <ffffffffa00be63f>{:sunrpc:rpc_clnt_sigunmask+63},1
+b0ae55bf,<ffffffff80157cc6>{mempool_free_slab+0} <ffffffffa00fde4c>{:nfs:__nfs_revalidate_inode+1697},1
+c68d3928,<ffffffffa00be63f>{:sunrpc:rpc_clnt_sigunmask+63} <ffffffff80131b48>{__wake_up+54},1
+9a9e4c97,LustreError: 12066:0:(module.c:46:kportal_assertion_failed()) LBUG,1
+9f8cbe7d,LustreError: 30427:0:(module.c:46:kportal_assertion_failed()) LBUG,1
+acd9556c,<ffffffff803004bb>{__lock_text_start+47} <ffffffff80185a59>{sys_ioctl+853},1
+2bb05f7e,<ffffffff8030056f>{_spin_unlock_irqrestore+45} <ffffffff8013d6a0>{__mod_timer+293},1
+18ae3bf0,LustreError: 14234:0:(module.c:46:kportal_assertion_failed()) LBUG,1
+ec704d85,0000000000000000 ffffffff802ffa89 0000000000000246 ffffffff8013da8e,1
+96678e18,Call Trace:<ffffffff802ffa89>{thread_return+79} <ffffffff8013da8e>{run_timer_softirq+385},1
+06b8521b,LustreError: 12080:0:(module.c:46:kportal_assertion_failed()) LBUG,1
+edab3915,"<*> from=root, size=1594678, class=0, nrcpts=1, <*> relay=#7#@localhost",3
+0b1c1477,dcevt32d shutdown succeeded,55
+77923f94,dcsnmp32d shutdown succeeded,65
+1d57865a,<*> segfault at 0000000000000000 rip 0000000000000000 rsp <*> error 14,53
+e7545c16,omsad32 shutdown succeeded,50
+bfc7ef01,peer disconnected: SNMPv2-SMI::enterprises.674.10892.1,53
+28ed14d1,dcstor32d shutdown succeeded,74
+45337fd1,crond shutdown succeeded,63
+44476027,BIOS-e820: 00000000fec00000 - 00000000fec90000 (reserved),2
+44363c23,ACPI: LAPIC (acpi_id[0x05] lapic_id[0x01] disabled),2
+c0f60679,ACPI: LAPIC (acpi_id[0x06] lapic_id[0x07] disabled),2
+20acb10c,ACPI: LAPIC (acpi_id[0x07] lapic_id[0x03] disabled),2
+50fc3e22,ACPI: LAPIC (acpi_id[0x08] lapic_id[0x05] disabled),2
+90ff6a85,ACPI: PM-Timer IO Port: 0x808,3
+6ff104cc,audit(1131631696.365:1): initialized,1
+d4f5a7aa,mount.panfs warning: mounting panfs in an untested environment!!,12
+4c51210f,pan_kernel: expected release: 2.6.9-15.EL.rootsmp release is: 2.6.9-<*>smp,12
+4c57e4fe,"ts_ipoib device ib0 does not seem to be present, delaying initialization.",3
+ac6c5125,Bringing up interface ib0: failed,3
+1e15528d,mount.panfs: panfs is not configured in the kernel,3
+b3844e70,dcdbas: module license 'unspecified' taints kernel.,4
+a4fff944,"dcdbas: no version for ""struct_module"" found: kernel tainted.",3
+7485376c,Instrumentation Service EventID: 1306 Redundancy lost Redundancy unit: BMC PS Redundancy Chassis location: Main System Chassis Previous redundancy state was: Unknown,1
+86b4bbac,"Instrumentation Service EventID: 1354 Power supply detected a failure Sensor location: PS 1 Status Chassis location: Main System Chassis Previous state was: Unknown Power Supply type: AC Power Supply state: Presence detected, Failure detected, AC lost",1
+fb03fa1a,Listener created on port 22.,2
+677b86ae,Daemon is running.,2
+26934eb3,failed,2
+ab77704e,no server suitable for synchronization found,2
+22dabf5e,"Listening on interface eth1, <*>",3
+f8886043,wall: user root broadcasted 5 lines (114 chars),1
+b0594c54,STATS: dropped 6971,1
+f0e02624,audit(1131631978.365:1): initialized,1
+462be407,/sbin/ip route add <*> via <*> dev eth0,2
+7f95da38,audit(1131632011.363:1): initialized,1
+3846ea68,audit(1131632115.368:1): initialized,1
+54eba11f,"connection from ""#91#""",2
+757984aa,WARNING: Could not write /var/log/lastlog: No space left on device,3
+9b1bf440,segfault at 0000000000000000 rip 0000000000000000 rsp 00000000f40ad01c error 14,1
+7203373e,DHCPDISCOVER from 00:11:43:e3:ba:a6 via eth0,3
+baed0f00,DHCPOFFER on <*> to 00:11:43:e3:ba:a6 via eth0,3
+7398702a,DHCPREQUEST for <*> (<*>) from 00:11:43:e3:ba:a6 via eth0,3
+89b6eaeb,audit(1131633072.368:1): initialized,1
+3c8df896,audit(1131637023.364:1): initialized,1
+6c329d38,audit(1131637035.364:1): initialized,1
+4d4010b7,megaraid: fw version:[516A] bios version:[H418],1
+12156cd0,"<*> from=root, size=1596298, class=0, nrcpts=1, <*> relay=#7#@localhost",9
+0fa46c41,audit(1131637271.364:1): initialized,1
+37420d9d,"jAALpaXQ031465: from=root, size=1595633, class=0, nrcpts=1, msgid=<200511102151.jAALpaXQ031465@aadmin1>, relay=#7#@localhost",1
+44046191,Instrumentation Service EventID: 1154 Voltage sensor detected a failure value Sensor location: BMC ROMB Battery Chassis location: Main System Chassis Previous state was: OK (Normal) Discrete voltage state: Bad,7
+e42c3746,Instrumentation Service EventID: 1152 Voltage sensor returned to a normal value Sensor location: BMC ROMB Battery Chassis location: Main System Chassis Previous state was: Critical (Failed) Discrete voltage state: Good,7
+6892bc08,"connection from ""#94#""",1
+b5009399,WARNING: Could not chdir to home directory /Net/usr/home/#95#: No such file or directory,1
+67a59379,"connection from ""#97#""",1
+1b9d5629,WARNING: Setting tty modes failed: Invalid argument,1
+9e7d1fac,"connection from ""#100#""",1
+b06b32aa,"Red Hat, Inc. (Kernel Module GPG key)",1
+fd893a74,188k freed,1
+cabfe249,4.4.0-ioctl (2005-01-12) initialised: #36#@#37#,1
+1bd88145,#104# (Release Date: Fri Jan 21 00:01:03 EST 2005),1
+9051489a,#105# (Release Date: Thu Feb 03 12:27:22 EST 2005),1
+ce61a189,sda1 sda2 sda3 sda4 < sda5 sda6 >,1
+ebc5496f,USB support disabled,1
+cd1dc170,: server is down.,1
+f64a6bb9,mount to NFS server 'nfs1' failed,1
+2faf50f4,module license 'unspecified' taints kernel.,1
+5e0e5dc7,rpc.idmapd -SIGHUP succeeded,1
+0e8601c3,no IPv6 routers present,2
+bc23342f,"<*> from=root, size=303, class=0, nrcpts=1, <*> relay=#7#@localhost",7
+9c1cd9c8,"<*> from=root, size=1596299, class=0, nrcpts=1, <*> relay=#7#@localhost",4
+974177d6,X11 connection from <*> (#21#),2
+4a92a959,audit(1131689994.367:1): initialized,1
+4f82997b,Fri Nov 11 <*> MST 2005,2
+b00621e4,Starting ts_customize: succeeded,1
+d4967230,Searching for custom.cnf. . .,1
+b18842b3,Skipping customization. custom.cnf not found.,1
+f65b5500,"jAAMLXZQ027529: from=root, size=1598120, class=0, nrcpts=1, msgid=<200511102221.jAAMLXZQ027529@dadmin1>, relay=#7#@localhost",1
+95011d17,"connection from ""#106#""",1
+b8792abb,Kerberos TGT authentication as user #107# accepted for #107#@#24#.,1
+0250f7b7,audit(1131640143.367:1): initialized,1
+1a6d79f6,"<*> from=root, size=1598641, class=0, nrcpts=1, <*> relay=#7#@localhost",9
+2ab55ce7,"jAAMfcLm019613: from=root, size=1597586, class=0, nrcpts=1, msgid=<200511102241.jAAMfcLm019613@aadmin1>, relay=#7#@localhost",1
+9049f019,"connection from ""#109#""",1
+ceb92669,"jAAN1bsH028343: from=root, size=1596277, class=0, nrcpts=1, msgid=<200511102301.jAAN1bsH028343@badmin1>, relay=#7#@localhost",1
+ceab677e,<*> segfault at 0000000000000000 rip 0000002a955d0f4c rsp 0000007fbffff180 error 4,168
+b5d7a053,"jAANLVdW003396: from=root, size=1597335, class=0, nrcpts=1, msgid=<200511102321.jAANLVdW003396@aadmin1>, relay=#7#@localhost",1
+9299fb4a,"<*> from=root, size=1597800, class=0, nrcpts=1, <*> relay=#7#@localhost",4
+dad30ab0,"jAANVXsD008210: from=root, size=1596549, class=0, nrcpts=1, msgid=<200511102331.jAANVXsD008210@aadmin1>, relay=#7#@localhost",1
+0a7ec590,#47# : TTY=pts/6 ; PWD=/home/#47# ; USER=root ; COMMAND=/usr/bin/ssh tbird-admin2,1
+e1a20361,fs_client: Umounting panfs ...,5
+1c2ea432,fs_client_cap: done,5
+79875a1b,fs_client_cap: starting to scrub the caps,5
+b7edda2f,fs_client_fm: All RPCs returned,5
+b2f15c18,"pan_kmod: done quiescing subdev 0x78 (""PANASAS kernel trace facility"")",5
+92778b7c,"pan_kmod: quiescing subdev 0x78 (""PANASAS kernel trace facility"")",5
+4ae4f100,Unmounting PanFS filesystems: succeeded,5
+a5fb56a8,many lost ticks.,1
+4f151e3e,Timed out waiting for hotplug event <*> Rebasing to 239,2
+8a6874f5,haldaemon shutdown failed,1
+8489fd25,"jAB01W3K015074: from=root, size=734749, class=0, nrcpts=1, msgid=<200511110001.jAB01W3K015074@badmin1>, relay=#7#@localhost",1
+2f578dd6,"<*> from=root, size=735467, class=0, nrcpts=1, <*> relay=#7#@localhost",4
+3e3ed191,"jAB01gQP029613: from=root, size=435396, class=0, nrcpts=1, msgid=<200511110001.jAB01gQP029613@eadmin1>, relay=#7#@localhost",1
+ddf26e73,"jAB01hO9019124: from=root, size=1116545, class=0, nrcpts=1, msgid=<200511110001.jAB01hO9019124@cadmin1>, relay=#7#@localhost",1
+a92031cb,"jAB0BU0i001076: from=root, size=301077, class=0, nrcpts=1, msgid=<200511110011.jAB0BU0i001076@eadmin1>, relay=#7#@localhost",1
+7c6a948f,"jAB0BWdE022375: from=root, size=736310, class=0, nrcpts=1, msgid=<200511110011.jAB0BWdE022375@cadmin1>, relay=#7#@localhost",1
+df788733,audit(1131646370.365:1): initialized,2
+9139e03d,audit(1131646369.367:1): initialized,1
+4fecc98b,audit(1131646370.369:1): initialized,1
+52459355,audit(1131696855.369:1): initialized,1
+926ee490,72923 pages shared,1
+eefec006,72925 pages shared,1
+f7462d2c,72926 pages shared,1
+6be174b7,72928 pages shared,2
+77c84b6a,73246 pages shared,1
+4ef1f6e2,<*> <*> dirty:0 writeback:0 unstable:0 free:3528 <*> mapped:1490468 pagetables:10191,6
+ad0d52b0,Node 0 Normal: 0*4kB 1*8kB 113*16kB 0*32kB 1*64kB 1*128kB 0*256kB 1*512kB 0*1024kB 0*2048kB 0*4096kB = 2520kB,6
+bad7d382,"Swap cache: add 106190746, delete 106190568, find 15491805/25368956, race 20+121",6
+5984e82a,oom-killer: gfp_mask=0xd0,1
+6a50db5b,audit(1131646461.367:1): initialized,9
+c9db0717,audit(1131646461.368:1): initialized,1
+8b2a1e4c,audit(1131646462.367:1): initialized,57
+ffaed194,audit(1131646462.368:1): initialized,8
+6ae658a5,audit(1131646462.366:1): initialized,16
+ce8ebae5,audit(1131646461.366:1): initialized,4
+0c41d017,/var:,1
+34414b0a,"Clearing orphaned inode 908603 (uid=50055, gid=50055, mode=0100600, size=8747)",1
+120591b1,audit(1131646463.367:1): initialized,20
+cc8a7806,audit(1131646463.366:1): initialized,5
+ff00b8e0,audit(1131650062.367:1): initialized,1
+41b9e00a,audit(1131646464.367:1): initialized,2
+c40baf0d,audit(1131646463.365:1): initialized,1
+cf58b765,audit(1131646463.368:1): initialized,4
+544b33ab,audit(1131646465.367:1): initialized,4
+a3fc1585,audit(1131646462.364:1): initialized,1
+dc29812a,audit(1131642863.367:1): initialized,1
+e715eee6,audit(1131646464.368:1): initialized,1

@@ -1,0 +1,160 @@
+EventId,EventTemplate,Occurrences
+8c7b6197,Loaded Servicing Stack v6.1.7601.23505 with Core: C:\Windows\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_6.1.7601.23505_none_681aa442f6fed7f0\cbscore.dll,4
+13caa1c5,<*> WcpInitialize (wcp.dll version 0.0.0.6) called (stack <*>,12
+2d8b5399,Ending TrustedInstaller initialization.,4
+ddb70245,Starting the TrustedInstaller main loop.,4
+70236f55,TrustedInstaller service starts successfully.,4
+492269e4,SQM: Initializing online with Windows opt-in: False,4
+88c7a286,SQM: Cleaning up report files older than 10 days.,4
+7e5b1617,SQM: Requesting upload of all unsent reports.,4
+083f8cc2,"SQM: Failed to start upload with file pattern: C:\Windows\servicing\sqm\*_std.sqm, flags: <*>[HRESULT = <*>- E_FAIL]",4
+2a6f127b,SQM: Failed to start standard sample upload. [HRESULT = <*>- E_FAIL],4
+500cb726,"SQM: Queued 0 file(s) for upload with pattern: C:\Windows\servicing\sqm\*_all.sqm, flags: 0x6",4
+d13705e4,SQM: Warning: Failed to upload all unsent reports. [HRESULT = <*>- E_FAIL],4
+6342ae85,"No startup processing required, TrustedInstaller service was not set as autostart, or else a reboot is still pending.",4
+b756d24a,NonStart: Checking to ensure startup processing was not required.,4
+82206fcd,"00000004 IAdvancedInstallerAwareStore_ResolvePendingTransactions (call 1) (flags = 00000004, progress = NULL, phase = 0, pdwDisposition = <*>",4
+af6dad2f,"<*> Creating NT transaction (seq <*> objectname [6]""(null)""",10
+6e2f40cc,<*> Created NT transaction (seq <*> result <*>handle <*>,10
+0d5fb9ff,<*> CSI perf trace:,9
+c7e0e082,"NonStart: Success, startup processing not required as expected.",4
+0249909f,Startup processing thread terminated normally,4
+55bc08e8,00000008 CSI Store 4991456 (<*>initialized,2
+2941b1fd,Session: <*> initialized by client <*>,8602
+39b783c8,Warning: Unrecognized packageExtended attribute.,3640
+565f9069,Expecting attribute name [HRESULT = <*>- CBS_E_MANIFEST_INVALID_ITEM],2912
+9c9f9113,Failed to get next element [HRESULT = <*>- CBS_E_MANIFEST_INVALID_ITEM],2912
+39c8b4cc,Failed to internally open package. [HRESULT = <*>- CBS_E_INVALID_PACKAGE],212
+28e57347,Read out cached package applicability for package: <*> ApplicableState: <*> <*>,7925
+25d623ae,Failed to create backup log cab. [HRESULT = <*>- ERROR_INVALID_FUNCTION],4
+61d03dc7,Reboot mark refs incremented to: 1,3
+8599e10a,Scavenge: Starts,2
+c1e0c0b4,<*> CSI Transaction @<*>initialized for deployment engine {d16d444c-56d8-11d5-882d-0080c847b195} with flags 00000002 and client id <*>,30
+1f1dbb91,Scavenge: Begin CSI Store,2
+eaa74126,<*> Performing <*> operations; <*> are not lock/unlock and follow:,21
+8ac976fd,"0000000b Store coherency cookie matches last scavenge cookie, skipping scavenge.",2
+db2dbf7c,<*> ICSITransaction::Commit calling IStorePendingTransaction::Apply - coldpatching=FALSE applyflags=7,3
+d287433e,"Scavenge: Completed, disposition: 0X1",2
+743568da,<*> CSI Transaction @<*>destroyed,30
+e9fec322,Reboot mark refs: 0,2
+ecc5604d,Idle processing thread terminated normally,2
+1915371f,Ending the TrustedInstaller main loop.,2
+0c5a20ae,Starting TrustedInstaller finalization.,2
+c5141d88,Ending TrustedInstaller finalization.,2
+05f90e58,Starting TrustedInstaller initialization.,3
+1850fbcc,Loading offline registry hive: <*> into registry key <*> from path <*>,64
+cd7130e6,Offline image is: read-only,8
+a0ab2bd7,"Disabling manifest caching, because the image is not writeable.",8
+027756ce,00000008@2016/9/28:16:00:46.635 PopulateComponentFamiliesKey - Begin,2
+44a00bee,00000009@2016/9/28:16:01:03.072 PopulateComponentFamiliesKey - End,2
+7aa127af,0000000a CSI Store 17159600 (<*>initialized,2
+5c8bd3df,Unloading offline registry hive: <*>,64
+5a921482,0000000b CSI Store 3065408 (<*>initialized,2
+6083b063,Session: <*> finalized. Reboot required: no [HRESULT = <*>- S_OK],8
+be4dcd02,0000000c CSI Store 482079424 (<*>initialized,1
+b4b7b8c5,0000000d CSI Store 68430256 (<*>initialized,1
+7ddea842,0000000e CSI Store 447480256 (<*>initialized,1
+82da9af2,0000000f CSI Store 93342144 (<*>initialized,1
+4ead9fea,"Appl: detect Parent, Package: <*> Parent: <*> Disposition = <*> VersionComp: EQ, ServiceComp: <*> BuildComp: EQ, DistributionComp: GE, RevisionComp: GE, Exist: present",12981
+a9ab8b3c,Appl: detectParent: package: <*> related parent found: <*> which is not real parent,516
+ebf6af94,Appl: detectParent: package: <*> parent found: <*> state: <*>,525
+6cc38dda,"Appl: detect Parent, Package: <*> disposition state from detectParent: <*>",2626
+db1452b8,Appl: Evaluating package applicability for package <*> applicable state: <*>,2626
+aa52822c,"Appl: Selfupdate, Component: <*> <*> elevation:4, lower version revision holder: <*>",129
+b5dd1c3a,Applicability(ComponentAnalyzerEvaluateSelfUpdate): Component: <*> elevate: <*> applicable(true/false): 1,626
+74a344c1,"Appl: SelfUpdate detect, component: <*> elevation: <*> applicable: <*>",1510
+a17c5029,"Appl: Evaluating applicability block(non detectUpdate part), disposition is: Staged, applicability: <*> result applicability state: <*>",1510
+4e4ae83c,"Appl: Package: <*> Update: <*> Applicable: Applicable, Disposition: Installed",429
+62c4c856,"External EvaluateApplicability, package: <*> package applicable State: Installed, highest update applicable state: <*> resulting applicable <*>",496
+ac79af0b,00000012 CSI Store 93347904 (<*>initialized,1
+9451ab9b,00000013 CSI Store 539351872 (<*>initialized,1
+53b40003,Started DPX phase: Resume and Download Job,3
+834cfda3,Started DPX phase: Apply Deltas Provided In File,4
+18488e8b,Ended DPX phase: Apply Deltas Provided In File,4
+f3692c1c,Ended DPX phase: Resume and Download Job,3
+4b6051f1,"Opened cabinet package, package directory: C:\Windows\SoftwareDistribution\Download\aa1e1b04cb0fe9464d850316c2150d53\, sandbox location: \\?\C:\Windows\SoftwareDistribution\Download\aa1e1b04cb0fe9464d850316c2150d53\inst\, cabinet location: \\?\C:\Windows\SoftwareDistribution\Download\aa1e1b04cb0fe9464d850316c2150d53\windows6.1-kb2952664-v20-x64.cab, manifest location: \\?\C:\Windows\SoftwareDistribution\Download\aa1e1b04cb0fe9464d850316c2150d53\inst\update.mum",1
+6fe0e348,"Exec: Asynchrous operation, session completes later",1
+64fcfb1d,Asynchronous Session: 30548776_2822794614 finalized. [HRESULT = <*>- S_OK],1
+cdc00368,Blocked system sleep; prior state: 0x80000000,1
+95ef8652,"Exec: Processing started. Client: WindowsUpdateAgent, Session: 30548776_2822794614, Package: Package_for_KB2952664~31bf3856ad364e35~amd64~~6.1.20.1",1
+4ea80de7,Exec: Using execution sequence: 1605,1
+462cfb60,Disabling LKG boot option,1
+4875b925,Perf: Begin: nested restore point - <*>,2
+66f947df,"Client specifies CbsMovePayload, or client is Windows Update, will move payload to system.",1
+323ab8aa,Extracting all files from cabinet \\?\C:\Windows\SoftwareDistribution\Download\aa1e1b04cb0fe9464d850316c2150d53\windows6.1-kb2952664-v20-x64.cab,1
+5cbdce11,"Plan: Package: <*> current: <*> pending: Default, start: <*> applicable: <*> targeted: <*> limit: Installed",6
+027b4c4c,"Appl: Old package found: Package_for_KB2952664~31bf3856ad364e35~amd64~~6.1.19.0, force to remove/supersed, Target State: Installed",1
+b90acecd,Appl: Higher version found for package: <*> superseded. (Version on <*>,7
+cb668aeb,"Appl: Old package found superseded, re-install: <*>",4
+b9008ef2,"Plan: Package: <*> Update: <*> current: <*> pending: Default, start: <*> applicable: Installed, targeted: <*> limit: <*> selected: Default",45
+61ea857d,"Plan: Package: <*> current: <*> pending: Default, start: <*> applicable: <*> targeted: Superseded, limit: Superseded",11
+dd6e8dac,"Plan: Merge into existing execution package for Package: <*> existing TargetedState: Superseded, new TargetedState: Superseded",5
+6536366d,"Plan: Migrating selection state, from package: <*> to package: <*>",4
+97b1ae5c,"Appl: detectParent: package: <*> no parent found, go absent",12463
+94e890da,"Plan: Skipping package since its start state and target state are both absent for package: Package_2_for_KB2952664~31bf3856ad364e35~amd64~~6.1.20.1, current: Absent, pending: Default, start: Absent, applicable: Absent, targeted: Absent, limit: Installed",1
+a8b6c819,Perf: Resolve chain <*>,2
+90ed2b56,Exec: Resolving Package: <*> Update: <*>,6
+7b83a6b1,"Exec: Resolving Package: Package_1_for_KB2952664~31bf3856ad364e35~amd64~~6.1.20.1, Update: 2952664-1_neutral_LDR, PinDeployment: amd64_9b4613d5774d18cd032f73467b069e73_31bf3856ad364e35_6.1.7601.23545_none_a93a7dc3b180ed51",1
+4f835abd,"6.1.7601.23545, pA = PROCESSOR_ARCHITECTURE_AMD64 (9), Culture neutral, VersionScope = 1 nonSxS, PublicKeyToken = {l:8 b:31bf3856ad364e35}, Type neutral, TypeName neutral, PublicKey <*> <*> <*> <*> <*>",25
+956c12d7,"Exec: Resolving Package: Package_3_for_KB2952664~31bf3856ad364e35~amd64~~6.1.20.1, Update: <*> PinDeployment: <*>",5
+83809bea,"6.1.7601.23545, pA = PROCESSOR_ARCHITECTURE_AMD64 (9), Culture neutral, VersionScope = 1 nonSxS, PublicKeyToken = {l:8 b:31bf3856ad364e35}, Type neutral, TypeName neutral, PublicKey neutral",6
+06fd42e8,"6.1.7601.23545, pA = PROCESSOR_ARCHITECTURE_AMD64 (9), Culture neutral, VersionScope = 1 nonSxS, PublicKeyToken = {l:8 b:31bf3856ad364e35}, Type neutral, TypeName neutral, PublicKey neutral]) ref: ( flgs: 00000000 guid: {d16d444c-56d8-11d5-882d-0080c847b195} name: <*> ncdata: <*> thumbprint: <*>",20
+a57fc5ea,"6.1.7601.23545, pA = PROCESSOR_ARCHITECTURE_AMD64 (9), Culture neutral, VersionScope = 1 nonSxS, PublicKeyToken = {l:8 b:31bf3856ad364e35}, Type neutral, TypeName neutral, PublicKey neutral]) ref: ( flgs: 00000000 guid: {d16d444c-56d8-11d5-882d-0080c847b195} name: <*>",4
+74dacc11,"~31bf3856ad364e35~amd64~~6.1.20.1.2952664-5_neutral_LDR"" ncdata: [l:0]"""") thumbprint: [l:128{64}]""92a319eafdd86fd9e415984189f833d1a7bd172e905d38b18d0a3cbcaad40da3""",1
+5f57c8b2,00000026 Component change list:,1
+eba628c4,Perf: Stage chain <*>,2
+81e66220,Exec: Staging Package: <*> Update: <*>,6
+86010efa,"Exec: Staging Package: Package_1_for_KB2952664~31bf3856ad364e35~amd64~~6.1.20.1, Update: 2952664-1_neutral_LDR, PinDeployment: amd64_9b4613d5774d18cd032f73467b069e73_31bf3856ad364e35_6.1.7601.23545_none_a93a7dc3b180ed51",1
+d34ecfd7,"Exec: Staging Package: Package_3_for_KB2952664~31bf3856ad364e35~amd64~~6.1.20.1, Update: <*> PinDeployment: <*>",5
+dc861108,"6.1.7601.23545, pA = PROCESSOR_ARCHITECTURE_AMD64 (9), Culture neutr",1
+683d1faf,"al, VersionScope = 1 nonSxS, PublicKeyToken = {l:8 b:31bf3856ad364e35}, Type neutral, TypeName neutral, PublicKey neutral file: [ml:22{11},l:20{10}]""devinv.dll"" srcfile: @0x20eadaa8",1
+a9da7b53,"pp: (null) comp: Microsoft-Windows-Application-Experience-Inventory.Data, Version = 6.1.7601.23545, pA = PROCESSOR_ARCHITECTURE_AMD64 (9), Culture neutral, VersionScope = 1 nonSxS, PublicKeyToken = {l:8 b:31bf3856ad364e35}, Type neutral, TypeName neutral, PublicKey neutral file: [ml:38{19},l:36{18}]""Appraiser_Data.ini"" srcfile: @0x20eb2e78",1
+3a5c080c,Perf: Execute chain started.,1
+37fde292,Exec: Not trying hotpatching because root package is not hotpatch-aware: Package_for_KB2952664~31bf3856ad364e35~amd64~~6.1.20.1,1
+b7c0db79,"Exec: Package: <*> is already in the correct state, current: Superseded, targeted: Superseded",4
+297ee5be,Exec: Skipping Package: <*> Update: <*> because it is already in the correct state.,6
+8252fce1,Exec: Uninstalling Package: <*>,4
+79acadee,Exec: Uninstalling Package: <*> Update: <*>,6
+491876d1,"Exec: Unprojecting Package: Package_1_for_KB2952664~31bf3856ad364e35~amd64~~6.1.19.0, Update: 2952664-1_neutral_LDR, UninstallDeployment: amd64_47e345856f2b9bb4e5f049e20cdc912e_31bf3856ad364e35_6.1.7601.23488_none_f5f4021ae23580fe",1
+c64229a3,"WatchList: Add package Package_1_for_KB2952664~31bf3856ad364e35~amd64~~6.1.20.1.2952664-1_neutral_LDR to re-evaluation(install) due to the change on Component Family: amd64_microsoft-windows-a..rience-program-data_31bf3856ad364e35_0.0.0.0_none_f160e36583903781, Version: 6.1.7601.23488, change: (Owner: Package_1_for_KB2952664~31bf3856ad364e35~amd64~~6.1.19.0.2952664-1_neutral_LDR, Flag: 4, Action: 4)",1
+759a2c87,"Exec: Unprojecting Package: Package_3_for_KB2952664~31bf3856ad364e35~amd64~~6.1.19.0, Update: <*> UninstallDeployment: <*>",5
+9cad52cc,Exec: Installing Package: <*>,4
+34fb8182,Exec: Installing Package: <*> Update: <*>,6
+ab4f733c,"Exec: Installing Package: Package_1_for_KB2952664~31bf3856ad364e35~amd64~~6.1.20.1, Update: 2952664-1_neutral_LDR, InstallDeployment: amd64_9b4613d5774d18cd032f73467b069e73_31bf3856ad364e35_6.1.7601.23545_none_a93a7dc3b180ed51",1
+b782c9e3,"Exec: Installing Package: Package_3_for_KB2952664~31bf3856ad364e35~amd64~~6.1.20.1, Update: <*> InstallDeployment: <*>",5
+0ddb0e2c,Exec: Package creation time stamp: 2016-9-12 - Watchlist processing: 0,1
+e080c47c,Setting ExecuteState key to: CbsExecuteStateInitiateRollback | CbsExecuteStateFlagAdvancedInstallersFailed,1
+e6044b18,"6.1.7601.23488, pA = PROCESSOR_ARCHITECTURE_AMD64 (9), Culture neutral, VersionScope = 1 nonSxS, PublicKeyToken = {l:8 b:31bf3856ad364e35}, Type neutral, TypeName neutral, PublicKey neutral]) ref: ( flgs: 00000000 guid: {d16d444c-56d8-11d5-882d-0080c847b195} name: <*> ncdata: [l:0]"""")",15
+1d226da8,"6.1.7601.23488, pA = PROCESSOR_ARCHITECTURE_AMD64 (9), Culture neutral, VersionScope = 1 nonSxS,",3
+a2fc8ff3,"PublicKeyToken = {l:8 b:31bf3856ad364e35}, Type neutral, TypeName neutral, PublicKey neutral]) ref: ( flgs: 00000000 guid: {d16d444c-56d8-11d5-882d-0080c847b195} name: [l:156{78}]""Package_3_for_KB2952664~31bf3856ad364e35~amd64~~6.1.19.0.2952664-6_neutral_LDR"" ncdata: [l:0]"""")",3
+6971935c,"3856ad364e35~amd64~~6.1.20.1.2952664-4_neutral_LDR"" ncdata: [l:0]"""") thumbprint: (null)",3
+a4257ca3,"<*> Component change list: { 6.1.7601.23488 -> 6.1.7601.23545 Microsoft-Windows-Application-Experience-Program-Data, pA = PROCESSOR_ARCHITECTURE_AMD64 (9), Culture neutral, VersionScope = 1 nonSxS, PublicKeyToken = {l:8 b:31bf3856ad364e35}, Type neutral, TypeName neutral, PublicKey neutral }",3
+9bf694a8,"PROCESSOR_ARCHITECTURE_AMD64 (9), Culture neutral, VersionScope = 1 nonSxS, PublicKeyToken = {l:8 b:31bf3856ad364e35}, Type neutral, TypeName neutral, PublicKey neutral }",45
+57121f69,"null) -> 6.1.7601.23545 79cd1d2fd33706d9f7c5a485100782e3, pA = PROCESSOR_ARCHITECTURE_AMD64 (9), Culture neutral, VersionScope = 1 nonSxS, PublicKeyToken = {l:8 b:31bf3856ad364e35}, Type neutral, TypeName neutral, PublicKey neutral }",3
+4ce4b8ad,"a9c527438da5, pA = PROCESSOR_ARCHITECTURE_AMD64 (9), Culture neutral, VersionScope = 1 nonSxS, PublicKeyToken = {l:8 b:31bf3856ad364e35}, Type neutral, TypeName neutral, PublicKey neutral }",3
+288cd084,00000037 ICSITransaction::Commit calling IStorePendingTransaction::Apply - coldpatching=FALSE applyflags=15 (0x0000000f),1
+cdf6b054,"0000003a Error STATUS_CANNOT_DELETE while executing operation HardLinkFile on [l:328{164}]""\SystemRoot\WinSxS\amd64_microsoft-windows-a..rience-program-data_31bf3856ad364e35_6.1.7601.23545_none_cff8557eb2dd5765\aepic.dll, \??\C:\Windows\System32\aepic.dll""",1
+c959d95f,Setting ExecuteState key to: <*>,4
+93b05e9d,Setting RollbackFailed flag to 0,2
+1d860a9a,Clearing HangDetect value,2
+c09a3a9f,"Saved last global progress. Current: 0, Limit: 1, ExecuteState: ExecuteStateNone",2
+14336335,"Exec: Failed to commit CSI transaction due to file in use or Component reboot required, package changes need to be pended.",1
+a6767507,"Exec: Pended transaction, changes will be applied during shutdown/startup processing.",1
+19738366,Exec: Scheduled TrustedInstaller for auto-start because we pended the transaction. [HRESULT = <*>- S_OK],1
+3ec69c2d,Perf: InstallUninstallChain complete.,1
+ec95b008,"SQM: Reporting package change for package: Package_for_KB2952664~31bf3856ad364e35~amd64~~6.1.20.1, current: Absent, pending: Default, start: Absent, applicable: Installed, target: Installed, limit: Installed, hotpatch status: DisabledBecauseNoHotpatchPackagesInitiated, status: <*>failure source: Not Applicable, reboot required: True, client id: WindowsUpdateAgent, initiated offline: False, execution sequence: 1605, first merged sequence: 1605",1
+82da6352,"SQM: Upload requested for report: PackageChangeBegin_Package_for_KB2952664~31bf3856ad364e35~amd64~~6.1.20.1, session id: 142859, sample type: Standard",1
+9dff3d59,SQM: Ignoring upload request because the sample type is not enabled: Standard,1
+43471058,Exec: End: nested restore point - complete.,1
+309c1108,Restored system sleep block state: 0x80000000,1
+31a452f8,"Exec: Processing complete. Session: 30548776_2822794614, Package: Package_for_KB2952664~31bf3856ad364e35~amd64~~6.1.20.1 [HRESULT = <*>- S_OK]",1
+c4e74ae6,"EvaluateApplicability, package: <*> Package applicability: <*>",2109
+cb494573,"<*> Transaction merge required, do-not-merge flag passed.",22
+1a319b03,"Appl: Selfupdate, Component: <*> <*> elevation:2, lower version revision holder: <*>",78791
+b38451fb,"Applicability(ComponentAnalyzerEvaluateSelfUpdate): Component: <*> elevate: 2, applicable(true/false): 0",78678
+5c0410b9,Appl: Package: <*> Update: <*> Applicable: <*> Disposition: Staged,1081
+68e5ca35,"Appl: Partial install Status testing, package: <*> partially installed (true/false), 0",56
+73af26df,Failed to get session package state for package: <*> [HRESULT = <*>- ERROR_NOT_FOUND],197
+a1f2339a,"Appl: DetectUpdate, Package: <*> Local Parent: <*> Intended State: Staged",197
+a20bf268,"Appl: Evaluating applicability block(detectUpdate part), disposition is: Staged, applicability: NotApplicable, result applicability state: Staged",197
+7c167345,"Appl: Selfupdate, Component: <*> <*> elevation:16, lower version revision holder: <*>",385

@@ -1,0 +1,80 @@
+EventId,EventTemplate,Occurrences
+f7fe7f88,reverse mapping checking getaddrinfo for <*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!,85
+7b7b32a9,Invalid user webmaster from <*>,2
+a66ee660,input_userauth_request invalid user webmaster [preauth],2
+f9422447,pam_unix(sshd auth) check pass; user unknown,135
+290b1093,pam_unix(sshd auth) authentication failure; logname uid 0 euid 0 tty ssh ruser rhost <*>,494
+dbb94c00,Failed password for invalid user webmaster from <*> port <*> ssh2,2
+2491ca3e,Connection closed by <*> [preauth],34
+4d525d0f,Invalid user test9 from <*>,1
+7657deaf,input_userauth_request invalid user test9 [preauth],1
+fd612985,Failed password for invalid user <*> from <*> port 36060 ssh2,4
+0d962896,Received disconnect from <*> 11 Bye Bye [preauth],413
+f602b8d9,Invalid user chen from <*>,1
+4c06253d,input_userauth_request invalid user chen [preauth],1
+acd7dcf6,Failed password for invalid user chen from <*> port 32484 ssh2,1
+0af355cc,Failed password for root from <*> port <*> ssh2,368
+f0cb1435,message repeated 5 times [ Failed password for root from <*> port <*> ssh2],2
+dbea380c,Disconnecting Too many authentication failures for <*> [preauth],3
+ba814e32,PAM <*> more authentication <*> logname uid 0 euid 0 tty ssh ruser rhost <*>,10
+00a684b8,PAM service(sshd) ignoring max retries; <*> > 3,7
+020eef70,Invalid user pgadmin from <*>,1
+0edf8995,input_userauth_request invalid user pgadmin [preauth],1
+7c77d8ec,Failed password for invalid user pgadmin from <*> port 54087 ssh2,1
+4459c33b,Invalid user utsims from <*>,1
+7477d79b,input_userauth_request invalid user utsims [preauth],1
+fe74763f,Failed password for invalid user utsims from <*> port 41506 ssh2,1
+c926c7d9,Did not receive identification string from <*>,10
+2518e786,Invalid user inspur from <*>,3
+6ca7f339,input_userauth_request invalid user inspur [preauth],3
+e810192c,Failed password for invalid user inspur from <*> port <*> ssh2,3
+71043aee,Invalid user support from <*>,6
+d0f01573,input_userauth_request invalid user support [preauth],6
+0696bf5d,Failed password for invalid user support from <*> port <*> ssh2,6
+70494f20,error Received disconnect from <*> 3 <*> Auth fail [preauth],2
+c166da54,Failed password for uucp from <*> port <*> ssh2,5
+22aaf03f,Invalid user test from <*>,5
+b6b7891f,input_userauth_request invalid user test [preauth],5
+0b3b9c13,Received disconnect from <*> 11 Closed due to user request. [preauth],7
+6818d840,Invalid user 0101 from <*>,1
+edb09d27,input_userauth_request invalid user 0101 [preauth],1
+a18b7bd9,Failed password for invalid user 0101 from <*> port 36279 ssh2,1
+1b71723e,Invalid user 0 from <*>,3
+4d7d07ba,input_userauth_request invalid user 0 [preauth],3
+eb8fac1b,Failed <*> for invalid user 0 from <*> port 49811 ssh2,2
+7be5896f,Invalid user 1234 from <*>,3
+9a6cdb8c,input_userauth_request invalid user 1234 [preauth],3
+63d31834,Failed password for invalid user 1234 from <*> port <*> ssh2,3
+684a54a6,Invalid user admin from <*>,21
+e97e4646,input_userauth_request invalid user admin [preauth],21
+92fb66cf,Failed none for invalid user admin from <*> port 52631 ssh2,1
+2e647c73,Failed password for invalid user admin from <*> port <*> ssh2,44
+78691a03,Invalid user default from <*>,1
+14f4c926,input_userauth_request invalid user default [preauth],1
+b4198cc1,Failed password for invalid user default from <*> port 41538 ssh2,2
+494f6c4a,Failed password for ftp from <*> port <*> ssh2,3
+17d4e525,Invalid user guest from <*>,3
+753bbfb8,input_userauth_request invalid user guest [preauth],3
+2ed69732,Failed password for invalid user guest from <*> port <*> ssh2,3
+f5e1f5ce,Invalid user matlab from <*>,3
+1afa3048,input_userauth_request invalid user matlab [preauth],3
+55a03103,Failed password for invalid user matlab from <*> port 46199 ssh2,1
+bd78b442,Failed none for invalid user 0 from <*> port <*> ssh2,2
+991f2574,Invalid user 123 from <*>,2
+7d45cef8,input_userauth_request invalid user 123 [preauth],2
+c6921b9f,Failed password for invalid user 123 from <*> port 48700 ssh2,1
+ead82201,error Received disconnect from <*> 14 No more user authentication methods available. [preauth],45
+3c0c530c,Invalid user user from <*>,56
+a29797ef,input_userauth_request invalid user user [preauth],56
+bc9a176a,Failed password for invalid user user from <*> port <*> ssh2,57
+ce595949,Failed password for invalid user anonymous from <*> port 54051 ssh2,1
+f54c77ab,Failed password for invalid user ubnt from <*> port 60608 ssh2,1
+d4621573,Failed password for sshd from <*> port <*> ssh2,2
+9fed40dc,Failed password for invalid user cisco from <*> port 58309 ssh2,1
+06516d4d,Failed password for invalid user test from <*> port 60250 ssh2,1
+16ac812e,Failed password for git from <*> port <*> ssh2,3
+3dd1f7c5,Failed password for mysql from <*> port <*> ssh2,2
+bb75510d,Accepted password for fztu from <*> port 49116 ssh2,1
+a9b694f7,pam_unix(sshd session) session <*> for user fztu <*>,2
+6b0d579a,Received disconnect from <*> 11 disconnected by user,1
+e55c6b89,fatal Write failed Connection reset by peer [preauth],1

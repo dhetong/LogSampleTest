@@ -8,7 +8,19 @@ import sys
 import pandas as pd
 from collections import defaultdict
 import scipy.misc
+#import scipy.special
 
+def evaluate_sample(groundtruth, parsedresult):
+    df_groundtruth = pd.read_csv(groundtruth)
+    df_parsedlog = pd.read_csv(parsedresult, nrows=2000)
+    # Remove invalid groundtruth event Ids
+    null_logids = df_groundtruth[~df_groundtruth['EventId'].isnull()].index
+    df_groundtruth = df_groundtruth.loc[null_logids]
+    # df_parsedlog = df_parsedlog.loc[null_logids]
+    (precision, recall, f_measure, accuracy) = get_accuracy(df_groundtruth['EventId'], df_parsedlog['EventId'])
+    print('Precision: %.4f, Recall: %.4f, F1_measure: %.4f, Parsing_Accuracy: %.4f' % (
+    precision, recall, f_measure, accuracy))
+    return f_measure, accuracy
 
 def evaluate(groundtruth, parsedresult):
     """ Evaluation function to benchmark log parsing accuracy
@@ -28,9 +40,9 @@ def evaluate(groundtruth, parsedresult):
     df_groundtruth = pd.read_csv(groundtruth)
     df_parsedlog = pd.read_csv(parsedresult)
     # Remove invalid groundtruth event Ids
-    null_logids = df_groundtruth[~df_groundtruth['EventId'].isnull()].index
-    df_groundtruth = df_groundtruth.loc[null_logids]
-    df_parsedlog = df_parsedlog.loc[null_logids]
+    non_empty_log_ids = df_groundtruth[~df_groundtruth['EventId'].isnull()].index
+    df_groundtruth = df_groundtruth.loc[non_empty_log_ids]
+    df_parsedlog = df_parsedlog.loc[non_empty_log_ids]
     (precision, recall, f_measure, accuracy) = get_accuracy(df_groundtruth['EventId'], df_parsedlog['EventId'])
     print('Precision: %.4f, Recall: %.4f, F1_measure: %.4f, Parsing_Accuracy: %.4f'%(precision, recall, f_measure, accuracy))
     return f_measure, accuracy
@@ -89,10 +101,3 @@ def get_accuracy(series_groundtruth, series_parsedlog, debug=False):
     f_measure = 2 * precision * recall / (precision + recall)
     accuracy = float(accurate_events) / series_groundtruth.size
     return precision, recall, f_measure, accuracy
-
-
-
-
-
-
-

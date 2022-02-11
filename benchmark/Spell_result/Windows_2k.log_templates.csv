@@ -1,0 +1,686 @@
+EventId,EventTemplate,Occurrences
+7a8ea8bf,Loaded Servicing Stack v6.1.7601.23505 with Core C \Windows\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_6.1.7601.23505_none_681aa442f6fed7f0\cbscore.dll,2
+ee2db32f,00000001@2016/9/27 20 30 31.455 WcpInitialize (wcp.dll version 0.0.0.6) called (stack @<*>@<*>@<*>@<*>@<*>@0xff83db2f),1
+4d8329f0,00000002@2016/9/27 20 30 31.458 WcpInitialize (wcp.dll version 0.0.0.6) called (stack @<*>@<*>@<*>@<*>@<*>@0xff83d799),1
+366963b9,00000003@2016/9/27 20 30 31.458 WcpInitialize (wcp.dll version 0.0.0.6) called (stack @<*>@<*>@<*>@<*>@<*>@0xff83db2f),1
+2d8b5399,Ending TrustedInstaller initialization.,2
+ddb70245,Starting the TrustedInstaller main loop.,2
+70236f55,TrustedInstaller service starts successfully.,2
+29bb2401,SQM Initializing online with Windows opt-in False,2
+555b51e8,SQM Cleaning up report files older than 10 days.,2
+bb3bab41,SQM Requesting upload of all unsent reports.,2
+aa734e44,SQM Failed to start upload with file pattern C \Windows\servicing\sqm\*_std.sqm flags <*>[HRESULT <*>- E_FAIL],2
+e10e3a85,SQM Failed to start standard sample upload. [HRESULT <*>- E_FAIL],2
+42accaea,SQM Queued 0 file(s) for upload with pattern C \Windows\servicing\sqm\*_all.sqm flags 0x6,2
+66866cd1,SQM Warning Failed to upload all unsent reports. [HRESULT <*>- E_FAIL],2
+0ee415b1,No startup processing required TrustedInstaller service was not set as autostart or else a reboot is still pending.,2
+80e14a25,NonStart Checking to ensure startup processing was not required.,2
+3ba035a4,00000004 IAdvancedInstallerAwareStore_ResolvePendingTransactions (call 1) (flags 00000004 progress NULL phase 0 pdwDisposition <*>,2
+d353c9b6,"00000005 Creating NT transaction (seq 1) objectname [6]""(null)""",2
+f25447d7,00000006 Created NT transaction (seq 1) result <*>handle <*>,2
+5f6d4aeb,00000007@2016/9/27 20 30 31.462 CSI perf trace,1
+690f0a19,NonStart Success startup processing not required as expected.,2
+0249909f,Startup processing thread terminated normally,2
+55bc08e8,00000008 CSI Store 4991456 (<*>initialized,1
+674bc844,Session 30546173_4261722401 initialized by client WindowsUpdateAgent.,1
+fc7991d4,Session 30546173_4262462443 initialized by client WindowsUpdateAgent.,1
+b494f763,Warning Unrecognized packageExtended attribute.,280
+732c4392,Expecting attribute name [HRESULT <*>- CBS_E_MANIFEST_INVALID_ITEM],224
+32e40911,Failed to get next element [HRESULT <*>- CBS_E_MANIFEST_INVALID_ITEM],224
+38dde0bc,Session 30546173_4267072707 initialized by client WindowsUpdateAgent.,1
+62c861b8,Failed to internally open package. [HRESULT <*>- CBS_E_INVALID_PACKAGE],18
+2798d506,Session 30546173_4268042763 initialized by client WindowsUpdateAgent.,1
+1ec9bdf8,Session 30546173_4271022933 initialized by client WindowsUpdateAgent.,1
+8122ff31,Session 30546173_4275933214 initialized by client WindowsUpdateAgent.,1
+6a9b1b02,Session 30546173_4280593480 initialized by client WindowsUpdateAgent.,1
+2125e7b0,Session 30546173_4280603481 initialized by client WindowsUpdateAgent.,1
+97b3edf0,Session 30546173_4280613482 initialized by client WindowsUpdateAgent.,1
+6b3558aa,Session 30546173_4280613483 initialized by client WindowsUpdateAgent.,1
+4dca6ace,Session 30546173_4280623482 initialized by client WindowsUpdateAgent.,1
+6b6f05fd,Session 30546173_4280633483 initialized by client WindowsUpdateAgent.,1
+8cdcd04b,Session 30546173_4280633484 initialized by client WindowsUpdateAgent.,1
+bcca16ec,Session 30546173_4281313522 initialized by client WindowsUpdateAgent.,1
+e016b446,Session 30546173_4285113739 initialized by client WindowsUpdateAgent.,1
+3a38632d,Read out cached package applicability for package <*> ApplicableState 112 CurrentState 112,506
+0f6e6425,Session 30546173_4286503818 initialized by client WindowsUpdateAgent.,1
+c9393cb7,Read out cached package applicability for package Package_for_KB2656356~31bf3856ad364e35~amd64~~6.1.1.1 ApplicableState 80 CurrentState 112,2
+818fdd8e,Session 30546173_4286853838 initialized by client WindowsUpdateAgent.,1
+43a0518f,Session 30546173_4286873840 initialized by client WindowsUpdateAgent.,1
+45b7af1e,Session 30546173_4289083966 initialized by client WindowsUpdateAgent.,1
+2d29520c,Session 30546173_4289704001 initialized by client WindowsUpdateAgent.,1
+6043179e,Session 30546173_4294144255 initialized by client WindowsUpdateAgent.,1
+52723dae,Session 30546173_4294174257 initialized by client WindowsUpdateAgent.,1
+efbe8b30,Session 30546174_187017 initialized by client WindowsUpdateAgent.,1
+b535152a,Session 30546174_857056 initialized by client WindowsUpdateAgent.,1
+6ec82349,Session 30546174_1497092 initialized by client WindowsUpdateAgent.,1
+8b670c69,Session 30546174_1767108 initialized by client WindowsUpdateAgent.,1
+d9d5014a,Session 30546174_2037123 initialized by client WindowsUpdateAgent.,1
+fa9c54b9,Session 30546174_2217133 initialized by client WindowsUpdateAgent.,1
+3c46ccc1,Session 30546174_2817168 initialized by client WindowsUpdateAgent.,1
+b5e91ccd,Session 30546174_8087469 initialized by client WindowsUpdateAgent.,1
+c0f53576,Session 30546174_9517551 initialized by client WindowsUpdateAgent.,1
+3b8659e6,Session 30546174_9817568 initialized by client WindowsUpdateAgent.,1
+c1fddea7,Session 30546174_9927574 initialized by client WindowsUpdateAgent.,1
+9d013f38,Session 30546174_10127586 initialized by client WindowsUpdateAgent.,1
+d91ddaf9,Session 30546174_10517608 initialized by client WindowsUpdateAgent.,1
+e83e4be0,Read out cached package applicability for package Package_for_KB3019978~31bf3856ad364e35~amd64~~6.1.1.2 ApplicableState 80 CurrentState 0,2
+4896a29b,Session 30546174_10537609 initialized by client WindowsUpdateAgent.,1
+85615038,Session 30546174_11037638 initialized by client WindowsUpdateAgent.,1
+aa20a466,Session 30546174_17007979 initialized by client WindowsUpdateAgent.,1
+22c1093b,Session 30546174_17668017 initialized by client WindowsUpdateAgent.,1
+e98d59db,Session 30546174_17818026 initialized by client WindowsUpdateAgent.,1
+a3c7614f,Read out cached package applicability for package <*> ApplicableState 0 CurrentState 0,48
+3cdf923a,Session 30546174_18178046 initialized by client WindowsUpdateAgent.,1
+4d3677ef,Session 30546174_18398059 initialized by client WindowsUpdateAgent.,1
+5a538ca0,Session 30546174_20238164 initialized by client WindowsUpdateAgent.,1
+20947720,Session 30546174_20328169 initialized by client WindowsUpdateAgent.,1
+69d2c9ab,Session 30546174_20448176 initialized by client WindowsUpdateAgent.,1
+c56f55a8,Session 30546174_20458177 initialized by client WindowsUpdateAgent.,1
+538b255a,Session 30546174_20518180 initialized by client WindowsUpdateAgent.,1
+f8065896,Session 30546174_20798196 initialized by client WindowsUpdateAgent.,1
+2f9ffdf6,Session 30546174_21498236 initialized by client WindowsUpdateAgent.,1
+440e435b,Session 30546174_21518237 initialized by client WindowsUpdateAgent.,1
+fe02668e,Session 30546174_21788253 initialized by client WindowsUpdateAgent.,1
+7668832d,Session 30546174_21808254 initialized by client WindowsUpdateAgent.,1
+f525f823,Session 30546174_21868257 initialized by client WindowsUpdateAgent.,1
+95d6a2f5,Session 30546174_21888258 initialized by client WindowsUpdateAgent.,1
+e47de472,Session 30546174_21968263 initialized by client WindowsUpdateAgent.,1
+b0e9ccf5,Session 30546174_22008265 initialized by client WindowsUpdateAgent.,1
+9be76f17,Session 30546174_22048268 initialized by client WindowsUpdateAgent.,1
+fbe15510,Session 30546174_22448291 initialized by client WindowsUpdateAgent.,1
+f063bab7,Session 30546174_22538296 initialized by client WindowsUpdateAgent.,1
+339e2b19,Session 30546174_22828312 initialized by client WindowsUpdateAgent.,1
+6fa0eeb5,Session 30546174_23648359 initialized by client WindowsUpdateAgent.,1
+ec8d8229,Session 30546174_23668360 initialized by client WindowsUpdateAgent.,1
+3b5bbfd0,Session 30546174_23938376 initialized by client WindowsUpdateAgent.,1
+2dc24347,Session 30546174_24168389 initialized by client WindowsUpdateAgent.,1
+e86234c3,Session 30546174_25138444 initialized by client WindowsUpdateAgent.,1
+5601c307,Session 30546174_25988493 initialized by client WindowsUpdateAgent.,1
+687ba6fc,Session 30546174_27448577 initialized by client WindowsUpdateAgent.,1
+cae89587,Session 30546174_27518581 initialized by client WindowsUpdateAgent.,1
+430bf22c,Session 30546174_27548582 initialized by client WindowsUpdateAgent.,1
+6c67db65,Session 30546174_27568583 initialized by client WindowsUpdateAgent.,1
+996fa8e3,Session 30546174_27758594 initialized by client WindowsUpdateAgent.,1
+238f1332,Session 30546174_27818598 initialized by client WindowsUpdateAgent.,1
+9ac07f47,Session 30546174_28288625 initialized by client WindowsUpdateAgent.,1
+8ed18a59,Session 30546174_28528638 initialized by client WindowsUpdateAgent.,1
+96db5f20,Session 30546174_30478750 initialized by client WindowsUpdateAgent.,1
+6ceda5b5,Session 30546174_35199020 initialized by client WindowsUpdateAgent.,1
+8e7d8129,Session 30546174_35469035 initialized by client WindowsUpdateAgent.,1
+68bc4989,Session 30546174_35509038 initialized by client WindowsUpdateAgent.,1
+a08ca6ab,Session 30546174_35659046 initialized by client WindowsUpdateAgent.,1
+ac554f13,Session 30546174_35689048 initialized by client WindowsUpdateAgent.,1
+75e0ee9a,Session 30546174_36019067 initialized by client WindowsUpdateAgent.,1
+a30d817a,Session 30546174_40939348 initialized by client WindowsUpdateAgent.,1
+88e6eb85,Session 30546174_41309369 initialized by client WindowsUpdateAgent.,1
+4ab937f7,Session 30546174_43049469 initialized by client WindowsUpdateAgent.,1
+ae06e54e,Session 30546174_43479493 initialized by client WindowsUpdateAgent.,1
+1538d332,Session 30546174_43599500 initialized by client WindowsUpdateAgent.,1
+e72c10c7,Session 30546174_44439548 initialized by client WindowsUpdateAgent.,1
+82d0c1ba,Session 30546174_44469550 initialized by client WindowsUpdateAgent.,1
+000f5433,Session 30546174_44629559 initialized by client WindowsUpdateAgent.,1
+71d8cef5,Session 30546174_45239594 initialized by client WindowsUpdateAgent.,1
+38c3d0d5,Session 30546174_45309598 initialized by client WindowsUpdateAgent.,1
+67579142,Session 30546174_46439663 initialized by client WindowsUpdateAgent.,1
+e59f325a,Session 30546174_46879688 initialized by client WindowsUpdateAgent.,1
+865c03cb,Session 30546174_46979694 initialized by client WindowsUpdateAgent.,1
+dccc0af9,Session 30546174_48029754 initialized by client WindowsUpdateAgent.,1
+a4ac7f5b,Session 30546174_48659790 initialized by client WindowsUpdateAgent.,1
+4bb067aa,Session 30546174_48769796 initialized by client WindowsUpdateAgent.,1
+ed42bad1,Session 30546174_48809798 initialized by client WindowsUpdateAgent.,1
+4db55ede,Session 30546174_49059813 initialized by client WindowsUpdateAgent.,1
+3671804e,Session 30546174_49089814 initialized by client WindowsUpdateAgent.,1
+960af123,Session 30546174_49109815 initialized by client WindowsUpdateAgent.,1
+ff707a31,Session 30546174_49119816 initialized by client WindowsUpdateAgent.,1
+1623656a,Session 30546174_49199821 initialized by client WindowsUpdateAgent.,1
+f41ada30,Session 30546174_49409833 initialized by client WindowsUpdateAgent.,1
+99bbdc99,Session 30546174_49899861 initialized by client WindowsUpdateAgent.,1
+91588cdd,Session 30546174_50419890 initialized by client WindowsUpdateAgent.,1
+8d9befe9,Session 30546174_50799912 initialized by client WindowsUpdateAgent.,1
+823d0014,Session 30546174_79961580 initialized by client WindowsUpdateAgent.,1
+f9baaafc,Session 30546174_84291828 initialized by client WindowsUpdateAgent.,1
+54bea22c,Session 30546174_84441836 initialized by client WindowsUpdateAgent.,1
+72f72d55,Session 30546174_84491839 initialized by client WindowsUpdateAgent.,1
+c14f2998,Session 30546174_84891862 initialized by client WindowsUpdateAgent.,1
+963778d4,Session 30546174_85221881 initialized by client WindowsUpdateAgent.,1
+52ae90d0,Session 30546174_85241882 initialized by client WindowsUpdateAgent.,1
+541bec01,Session 30546174_85811915 initialized by client WindowsUpdateAgent.,1
+3b924539,Session 30546174_88182050 initialized by client WindowsUpdateAgent.,1
+b336dc32,Session 30546174_88262055 initialized by client WindowsUpdateAgent.,1
+88c4489e,Session 30546174_88342059 initialized by client WindowsUpdateAgent.,1
+f1c4cef4,Session 30546174_88462066 initialized by client WindowsUpdateAgent.,1
+51fa084a,Session 30546174_88482067 initialized by client WindowsUpdateAgent.,1
+cb5d75e5,Session 30546174_88742082 initialized by client WindowsUpdateAgent.,1
+9fa220b7,Session 30546174_89042099 initialized by client WindowsUpdateAgent.,1
+4a3b0fcc,Session 30546174_89092102 initialized by client WindowsUpdateAgent.,1
+d7165843,Session 30546174_89122104 initialized by client WindowsUpdateAgent.,1
+1e9d8e5a,Session 30546174_89272113 initialized by client WindowsUpdateAgent.,1
+dabff6d1,Session 30546174_89322115 initialized by client WindowsUpdateAgent.,1
+5a5bbd94,Session 30546174_89562129 initialized by client WindowsUpdateAgent.,1
+bde01590,Session 30546174_89962152 initialized by client WindowsUpdateAgent.,1
+c82d4dbc,Session 30546174_90352174 initialized by client WindowsUpdateAgent.,1
+5509d722,Session 30546174_90632190 initialized by client WindowsUpdateAgent.,1
+50c6c4f4,Session 30546174_90692194 initialized by client WindowsUpdateAgent.,1
+6968b838,Session 30546174_90722196 initialized by client WindowsUpdateAgent.,1
+8bdaab52,Session 30546174_90802200 initialized by client WindowsUpdateAgent.,1
+6875e9e3,Session 30546174_90832202 initialized by client WindowsUpdateAgent.,1
+f7679c12,Session 30546174_90912206 initialized by client WindowsUpdateAgent.,1
+a86d7c5e,Session 30546174_91002212 initialized by client WindowsUpdateAgent.,1
+01c1b0fe,Session 30546174_91262226 initialized by client WindowsUpdateAgent.,1
+720875b9,Session 30546174_91282228 initialized by client WindowsUpdateAgent.,1
+e6a1cd03,Session 30546174_91382233 initialized by client WindowsUpdateAgent.,1
+2bb9bd71,Session 30546174_91422236 initialized by client WindowsUpdateAgent.,1
+2a5cd863,Session 30546174_91472238 initialized by client WindowsUpdateAgent.,1
+6e4ae386,Session 30546174_91532242 initialized by client WindowsUpdateAgent.,1
+660460bb,Session 30546174_91592245 initialized by client WindowsUpdateAgent.,1
+d5ed7169,Session 30546174_91672250 initialized by client WindowsUpdateAgent.,1
+4f446f89,Session 30546174_92052272 initialized by client WindowsUpdateAgent.,1
+560d039c,Session 30546174_92302286 initialized by client WindowsUpdateAgent.,1
+47a07d45,Session 30546174_93492354 initialized by client WindowsUpdateAgent.,1
+4a3421bb,Session 30546174_93642363 initialized by client WindowsUpdateAgent.,1
+c1c1ea8d,Session 30546174_94042385 initialized by client WindowsUpdateAgent.,1
+8212b5a6,Session 30546174_94182393 initialized by client WindowsUpdateAgent.,1
+200030c2,Session 30546174_94222396 initialized by client WindowsUpdateAgent.,1
+ec381cd0,Session 30546174_94392405 initialized by client WindowsUpdateAgent.,1
+218759c2,Session 30546174_94722424 initialized by client WindowsUpdateAgent.,1
+2ecbbe28,Session 30546174_97232568 initialized by client WindowsUpdateAgent.,1
+47d63c93,Session 30546174_97282571 initialized by client WindowsUpdateAgent.,1
+b917053a,Session 30546174_97402578 initialized by client WindowsUpdateAgent.,1
+044c86dc,Session 30546174_97982611 initialized by client WindowsUpdateAgent.,1
+f7a18edb,Session 30546174_98162621 initialized by client WindowsUpdateAgent.,1
+65a7adc5,Session 30546174_99082674 initialized by client WindowsUpdateAgent.,1
+4666da48,Session 30546174_99222682 initialized by client WindowsUpdateAgent.,1
+7cdf7a6e,Session 30546174_99252683 initialized by client WindowsUpdateAgent.,1
+b0b0c637,Session 30546174_99402692 initialized by client WindowsUpdateAgent.,1
+8a3a6bf0,Session 30546174_100742769 initialized by client WindowsUpdateAgent.,1
+e1804ed5,Session 30546174_100772770 initialized by client WindowsUpdateAgent.,1
+90ee3ce9,Session 30546174_100922779 initialized by client WindowsUpdateAgent.,1
+a3564a6b,Session 30546174_100952781 initialized by client WindowsUpdateAgent.,1
+7e2ee727,Session 30546174_100982782 initialized by client WindowsUpdateAgent.,1
+d515aaef,Session 30546174_101102789 initialized by client WindowsUpdateAgent.,1
+887ada22,Session 30546174_101172793 initialized by client WindowsUpdateAgent.,1
+05adaee3,Session 30546174_101232797 initialized by client WindowsUpdateAgent.,1
+21e7cb9c,Session 30546174_101272799 initialized by client WindowsUpdateAgent.,1
+ff942c10,Session 30546174_101322802 initialized by client WindowsUpdateAgent.,1
+e962803d,Session 30546174_101632820 initialized by client WindowsUpdateAgent.,1
+a9aecdab,Session 30546174_101752826 initialized by client WindowsUpdateAgent.,1
+b6401f18,Session 30546174_101792829 initialized by client WindowsUpdateAgent.,1
+daca2b6c,Session 30546174_101842832 initialized by client WindowsUpdateAgent.,1
+9b2bbc9a,Session 30546174_101902835 initialized by client WindowsUpdateAgent.,1
+eeffbd95,Session 30546174_102002841 initialized by client WindowsUpdateAgent.,1
+52135d61,Session 30546174_102442866 initialized by client WindowsUpdateAgent.,1
+5c984072,Session 30546174_103902949 initialized by client WindowsUpdateAgent.,1
+be4fcd78,Session 30546174_104472982 initialized by client WindowsUpdateAgent.,1
+a5cc25f5,Session 30546174_106683108 initialized by client WindowsUpdateAgent.,1
+b89fbbe6,Session 30546174_106973125 initialized by client WindowsUpdateAgent.,1
+b55cefc7,Session 30546174_107003127 initialized by client WindowsUpdateAgent.,1
+36cc736b,Session 30546174_107053130 initialized by client WindowsUpdateAgent.,1
+14276be7,Session 30546174_107333146 initialized by client WindowsUpdateAgent.,1
+60805ce7,Session 30546174_107363147 initialized by client WindowsUpdateAgent.,1
+1b66a3c4,Session 30546174_107383149 initialized by client WindowsUpdateAgent.,1
+34002340,Session 30546174_107523157 initialized by client WindowsUpdateAgent.,1
+1b2eb3f7,Session 30546174_108313202 initialized by client WindowsUpdateAgent.,1
+5fefb523,Session 30546174_108353204 initialized by client WindowsUpdateAgent.,1
+59b23000,Session 30546174_108613219 initialized by client WindowsUpdateAgent.,1
+55969c46,Session 30546174_108633220 initialized by client WindowsUpdateAgent.,1
+d702244f,Session 30546174_108683223 initialized by client WindowsUpdateAgent.,1
+982f9d45,Session 30546174_108903235 initialized by client WindowsUpdateAgent.,1
+70ceabe9,Session 30546174_109123248 initialized by client WindowsUpdateAgent.,1
+591eac14,Session 30546174_110243312 initialized by client WindowsUpdateAgent.,1
+77fe45b2,Session 30546174_110453324 initialized by client WindowsUpdateAgent.,1
+cecc9e05,Session 30546174_130874492 initialized by client WindowsUpdateAgent.,1
+16f42ea9,Session 30546174_131324518 initialized by client WindowsUpdateAgent.,1
+0b03bbf8,Session 30546174_132374578 initialized by client WindowsUpdateAgent.,1
+92bf6057,Session 30546174_132424581 initialized by client WindowsUpdateAgent.,1
+0215ec1f,Session 30546174_132514586 initialized by client WindowsUpdateAgent.,1
+ce76f35e,Session 30546174_132544588 initialized by client WindowsUpdateAgent.,1
+3d63c576,Session 30546174_132944611 initialized by client WindowsUpdateAgent.,1
+613b9285,Session 30546174_132984613 initialized by client WindowsUpdateAgent.,1
+40ddf3ae,Session 30546174_133134621 initialized by client WindowsUpdateAgent.,1
+b7404984,Session 30546174_137784887 initialized by client WindowsUpdateAgent.,1
+ba10edfc,Session 30546174_138284916 initialized by client WindowsUpdateAgent.,1
+db44e9f5,Session 30546174_138824947 initialized by client WindowsUpdateAgent.,1
+8f174324,Session 30546174_143845234 initialized by client WindowsUpdateAgent.,1
+4e85e5a9,Session 30546174_143875236 initialized by client WindowsUpdateAgent.,1
+4203422d,Session 30546174_143895237 initialized by client WindowsUpdateAgent.,1
+de1db86a,Session 30546174_144035245 initialized by client WindowsUpdateAgent.,1
+7e39636a,Session 30546174_144085248 initialized by client WindowsUpdateAgent.,1
+6897ab4f,Session 30546174_144115249 initialized by client WindowsUpdateAgent.,1
+300c0947,Session 30546174_144435268 initialized by client WindowsUpdateAgent.,1
+f9400fdc,Session 30546174_147195426 initialized by client WindowsUpdateAgent.,1
+d4a8b1da,Session 30546174_147205426 initialized by client WindowsUpdateAgent.,1
+b55c7cd2,Session 30546174_147585448 initialized by client WindowsUpdateAgent.,1
+d9bdeb18,Session 30546174_147765458 initialized by client WindowsUpdateAgent.,1
+2133e964,Session 30546174_149225542 initialized by client WindowsUpdateAgent.,1
+cc4cec90,Session 30546174_149265544 initialized by client WindowsUpdateAgent.,1
+3dc79542,Session 30546174_149285545 initialized by client WindowsUpdateAgent.,1
+7aa487b0,Session 30546174_149295546 initialized by client WindowsUpdateAgent.,1
+44ec8adc,Session 30546174_149325547 initialized by client WindowsUpdateAgent.,1
+d13f50cb,Session 30546174_149405552 initialized by client WindowsUpdateAgent.,1
+c526cc01,Session 30546174_154395837 initialized by client WindowsUpdateAgent.,1
+e0623dd2,Session 30546174_154615850 initialized by client WindowsUpdateAgent.,1
+13515680,Session 30546174_155085877 initialized by client WindowsUpdateAgent.,1
+e466c5d0,Session 30546174_155245886 initialized by client WindowsUpdateAgent.,1
+710f8f5b,Session 30546174_155605907 initialized by client WindowsUpdateAgent.,1
+2fd11776,Session 30546174_155755915 initialized by client WindowsUpdateAgent.,1
+f11f08f3,Session 30546174_156625965 initialized by client WindowsUpdateAgent.,1
+08d30d33,Session 30546174_156695969 initialized by client WindowsUpdateAgent.,1
+0c871d31,Session 30546174_156715970 initialized by client WindowsUpdateAgent.,1
+2b85fecd,Session 30546174_156785974 initialized by client WindowsUpdateAgent.,1
+9348169a,Session 30546174_156825976 initialized by client WindowsUpdateAgent.,1
+bb3f6b44,Session 30546174_157005987 initialized by client WindowsUpdateAgent.,1
+196b3705,Session 30546174_157105992 initialized by client WindowsUpdateAgent.,1
+bb7cbc1a,Session 30546174_157135994 initialized by client WindowsUpdateAgent.,1
+f0fba701,Session 30546174_157145995 initialized by client WindowsUpdateAgent.,1
+d7553a28,Session 30546174_157205998 initialized by client WindowsUpdateAgent.,1
+c060822a,Session 30546174_157616022 initialized by client WindowsUpdateAgent.,1
+3ca722c2,Session 30546174_159636137 initialized by client WindowsUpdateAgent.,1
+a9a37fed,Session 30546174_159666139 initialized by client WindowsUpdateAgent.,1
+95448fc8,Session 30546174_164936440 initialized by client WindowsUpdateAgent.,1
+a6ee6302,Session 30546174_165556476 initialized by client WindowsUpdateAgent.,1
+66466e5c,Session 30546174_165596478 initialized by client WindowsUpdateAgent.,1
+8c178b55,Session 30546174_165696484 initialized by client WindowsUpdateAgent.,1
+b8bec8f5,Session 30546174_165966499 initialized by client WindowsUpdateAgent.,1
+294b86b5,Session 30546174_166396524 initialized by client WindowsUpdateAgent.,1
+418a85cc,Session 30546174_167286575 initialized by client WindowsUpdateAgent.,1
+653253f8,Session 30546174_167476586 initialized by client WindowsUpdateAgent.,1
+f8562383,Session 30546174_169016674 initialized by client WindowsUpdateAgent.,1
+96f772ee,Session 30546174_169066677 initialized by client WindowsUpdateAgent.,1
+bd3d7800,Session 30546174_169296690 initialized by client WindowsUpdateAgent.,1
+e42e8255,Session 30546174_169316691 initialized by client WindowsUpdateAgent.,1
+e797e184,Session 30546174_169366694 initialized by client WindowsUpdateAgent.,1
+3df817c3,Session 30546174_169406696 initialized by client WindowsUpdateAgent.,1
+7bd1b646,Session 30546174_169616708 initialized by client WindowsUpdateAgent.,1
+3b1f135d,Session 30546174_169636709 initialized by client WindowsUpdateAgent.,1
+abbf2d3c,Session 30546174_169666711 initialized by client WindowsUpdateAgent.,1
+e7e0cf40,Session 30546174_169696713 initialized by client WindowsUpdateAgent.,1
+eae2cb22,Session 30546174_169726714 initialized by client WindowsUpdateAgent.,1
+f50efb97,Session 30546174_169836721 initialized by client WindowsUpdateAgent.,1
+751b30fa,Session 30546174_170026732 initialized by client WindowsUpdateAgent.,1
+bc8b6687,Session 30546174_170246744 initialized by client WindowsUpdateAgent.,1
+36612b0c,Session 30546174_171486815 initialized by client WindowsUpdateAgent.,1
+fc7651b1,Session 30546174_171536818 initialized by client WindowsUpdateAgent.,1
+35904056,Session 30546174_171646824 initialized by client WindowsUpdateAgent.,1
+61aea504,Session 30546174_172076849 initialized by client WindowsUpdateAgent.,1
+de14abed,Session 30546174_172126852 initialized by client WindowsUpdateAgent.,1
+2cd0f251,Session 30546174_172246858 initialized by client WindowsUpdateAgent.,1
+25545407,Session 30546174_172276860 initialized by client WindowsUpdateAgent.,1
+55e7f99a,Session 30546174_172546876 initialized by client WindowsUpdateAgent.,1
+080d7337,Session 30546174_172566877 initialized by client WindowsUpdateAgent.,1
+c4ab0a05,Session 30546174_172676883 initialized by client WindowsUpdateAgent.,1
+b92f8588,Session 30546174_173216914 initialized by client WindowsUpdateAgent.,1
+955960d9,Session 30546174_173266917 initialized by client WindowsUpdateAgent.,1
+7fb45185,Session 30546174_173636938 initialized by client WindowsUpdateAgent.,1
+d27b9b5f,Session 30546174_176877123 initialized by client WindowsUpdateAgent.,1
+44ffbdf0,Session 30546174_176887124 initialized by client WindowsUpdateAgent.,1
+3b3c53b2,Session 30546174_176917126 initialized by client WindowsUpdateAgent.,1
+eff4cbd0,Session 30546174_176947127 initialized by client WindowsUpdateAgent.,1
+92210848,Session 30546174_176967128 initialized by client WindowsUpdateAgent.,1
+e96193e9,Session 30546174_177007131 initialized by client WindowsUpdateAgent.,1
+89bc7dcf,Session 30546174_177047133 initialized by client WindowsUpdateAgent.,1
+a9ea829a,Session 30546174_177107136 initialized by client WindowsUpdateAgent.,1
+c002a6be,Session 30546174_177417154 initialized by client WindowsUpdateAgent.,1
+a27047b2,Session 30546174_179617280 initialized by client WindowsUpdateAgent.,1
+04a2ac0c,Session 30546174_179737287 initialized by client WindowsUpdateAgent.,1
+4bc5cc4d,Session 30546174_179777289 initialized by client WindowsUpdateAgent.,1
+8f3c2c9e,Session 30546174_179827292 initialized by client WindowsUpdateAgent.,1
+0ab584ab,Session 30546174_179897296 initialized by client WindowsUpdateAgent.,1
+00b52b22,Session 30546174_180077306 initialized by client WindowsUpdateAgent.,1
+bf043454,Session 30546174_180217314 initialized by client WindowsUpdateAgent.,1
+87de1f3b,Session 30546174_180377324 initialized by client WindowsUpdateAgent.,1
+acc2584b,Session 30546174_181797405 initialized by client WindowsUpdateAgent.,1
+96a4b8dc,Session 30546174_184807577 initialized by client WindowsUpdateAgent.,1
+5c22659d,Session 30546174_185287604 initialized by client WindowsUpdateAgent.,1
+5aae4d5e,Session 30546174_185317606 initialized by client WindowsUpdateAgent.,1
+470fb02b,Session 30546174_185407611 initialized by client WindowsUpdateAgent.,1
+7e600ec9,Session 30546174_185487616 initialized by client WindowsUpdateAgent.,1
+73277e57,Session 30546174_186107651 initialized by client WindowsUpdateAgent.,1
+50a1149a,Session 30546174_186137653 initialized by client WindowsUpdateAgent.,1
+36c9deb9,Session 30546174_186257660 initialized by client WindowsUpdateAgent.,1
+053400c1,Session 30546174_186297662 initialized by client WindowsUpdateAgent.,1
+516b7e67,Failed to create backup log cab. [HRESULT <*>- ERROR_INVALID_FUNCTION],2
+e088906e,Reboot mark refs incremented to 1,1
+66c0849b,Scavenge Starts,1
+55f60b11,"00000009@2016/9/27 20 40 53.744 CSI Transaction @<*>initialized for deployment engine {d16d444c-56d8-11d5-882d-0080c847b195} with flags 00000002 and client id [10]""TI6.0_0 0/""",1
+246f6030,Scavenge Begin CSI Store,1
+f962f859,0000000a Performing 1 operations; 1 are not lock/unlock and follow,1
+227d6206,0000000b Store coherency cookie matches last scavenge cookie skipping scavenge.,1
+290ff3a6,0000000c ICSITransaction Commit calling IStorePendingTransaction Apply - coldpatching FALSE applyflags 7,1
+19fa9a9f,"0000000d Creating NT transaction (seq 2) objectname [6]""(null)""",1
+1d25bad0,0000000e Created NT transaction (seq 2) result <*>handle @0xb8,1
+33034566,0000000f@2016/9/27 20 40 54.786 CSI perf trace,1
+aed2d067,Scavenge Completed disposition 0X1,1
+e874a6d9,00000010@2016/9/27 20 40 54.787 CSI Transaction @<*>destroyed,1
+9cbac0eb,Reboot mark refs 0,1
+ecc5604d,Idle processing thread terminated normally,1
+1915371f,Ending the TrustedInstaller main loop.,1
+0c5a20ae,Starting TrustedInstaller finalization.,1
+c5141d88,Ending TrustedInstaller finalization.,1
+05f90e58,Starting TrustedInstaller initialization.,1
+60f51b63,00000001@2016/9/28 16 00 46.160 WcpInitialize (wcp.dll version 0.0.0.6) called (stack @<*>@<*>@<*>@<*>@<*>@0xffeedb2f),1
+d3c4b75b,00000002@2016/9/28 16 00 46.200 WcpInitialize (wcp.dll version 0.0.0.6) called (stack @<*>@<*>@<*>@<*>@<*>@0xffeed799),1
+2bd902fe,00000003@2016/9/28 16 00 46.213 WcpInitialize (wcp.dll version 0.0.0.6) called (stack @<*>@<*>@<*>@<*>@<*>@0xffeedb2f),1
+383911c4,00000007@2016/9/28 16 00 46.260 CSI perf trace,1
+ceecbb2f,Loading offline registry hive SOFTWARE into registry key '{bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/SOFTWARE' from path '\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Windows\System32\config\SOFTWARE'.,1
+90e4c60b,Loading offline registry hive SYSTEM into registry key '{bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/SYSTEM' from path '\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Windows\System32\config\SYSTEM'.,1
+9f634493,Loading offline registry hive SECURITY into registry key '{bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/SECURITY' from path '\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Windows\System32\config\SECURITY'.,1
+ba3c2cbe,Loading offline registry hive SAM into registry key '{bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/SAM' from path '\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Windows\System32\config\SAM'.,1
+c2505729,Loading offline registry hive COMPONENTS into registry key '{bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/COMPONENTS' from path '\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Windows\System32\config\COMPONENTS'.,1
+9ea3242d,Loading offline registry hive DEFAULT into registry key '{bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/DEFAULT' from path '\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Windows\System32\config\DEFAULT'.,1
+21833e14,Loading offline registry hive ntuser.dat into registry key '{bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Users/default/ntuser.dat' from path '\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Users\default\ntuser.dat'.,1
+64159827,Loading offline registry hive schema.dat into registry key '{bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/system32/smi/store/Machine/schema.dat' from path '\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Windows\system32\smi\store\Machine\schema.dat'.,1
+26f0e468,Offline image is read-only,1
+68866c5f,Disabling manifest caching because the image is not writeable.,1
+3c5792b1,00000008@2016/9/28 16 00 46.635 PopulateComponentFamiliesKey - Begin,1
+b7d63086,00000009@2016/9/28 16 01 03.072 PopulateComponentFamiliesKey - End,1
+7aa127af,0000000a CSI Store 17159600 (<*>initialized,1
+b2ae2682,Session 11152_142416105 initialized by client SPP.,1
+5ead1162,Unloading offline registry hive {bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/SOFTWARE,1
+c79f1be9,Unloading offline registry hive {bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/SYSTEM,1
+ff0b3664,Unloading offline registry hive {bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/SECURITY,1
+ed236bf8,Unloading offline registry hive {bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/SAM,1
+935233c0,Unloading offline registry hive {bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/COMPONENTS,1
+15e3463c,Unloading offline registry hive {bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/DEFAULT,1
+4a591c72,Unloading offline registry hive {bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Users/default/ntuser.dat,1
+ae9b7419,Unloading offline registry hive {bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/system32/smi/store/Machine/schema.dat,1
+5a921482,0000000b CSI Store 3065408 (<*>initialized,1
+7cd791a7,Session 30546354_2823393669 initialized by client WindowsUpdateAgent.,1
+bc12cb88,Session 30546354_2824723745 initialized by client WindowsUpdateAgent.,1
+1a76f86d,Session 30546354_2830724089 initialized by client WindowsUpdateAgent.,1
+914a60a4,Session 30546354_2833204231 initialized by client WindowsUpdateAgent.,1
+166d5924,Session 30546354_2839784607 initialized by client WindowsUpdateAgent.,1
+537e9d06,Session 30546354_2845524935 initialized by client WindowsUpdateAgent.,1
+6b37816e,Session 30546354_2850645228 initialized by client WindowsUpdateAgent.,1
+fc75342b,Session 30546354_2850655229 initialized by client WindowsUpdateAgent.,1
+f587ee56,Session 30546354_2850665229 initialized by client WindowsUpdateAgent.,1
+6481e873,Session 30546354_2850685230 initialized by client WindowsUpdateAgent.,1
+2237aeeb,Session 30546354_2850695231 initialized by client WindowsUpdateAgent.,1
+2f4c96ff,Session 30546354_2850705232 initialized by client WindowsUpdateAgent.,1
+90b45839,Session 30546354_2850715232 initialized by client WindowsUpdateAgent.,1
+63d55939,Session 30546354_2852095311 initialized by client WindowsUpdateAgent.,1
+e08dfd6b,Session 30546354_2868336240 initialized by client WindowsUpdateAgent.,1
+1ad8a07b,Session 30546354_2875796667 initialized by client WindowsUpdateAgent.,1
+48d6904e,Session 30546354_2879516879 initialized by client WindowsUpdateAgent.,1
+b6a86ce1,Session 30546354_2879836898 initialized by client WindowsUpdateAgent.,1
+0779750a,Session 30546354_2894197719 initialized by client WindowsUpdateAgent.,1
+99c0d85d,Session 30546354_2896247836 initialized by client WindowsUpdateAgent.,1
+43d9b469,Session 30546354_2902428190 initialized by client WindowsUpdateAgent.,1
+a4e1dd4d,Session 30546354_2902518195 initialized by client WindowsUpdateAgent.,1
+02a22716,Session 30546354_2908448534 initialized by client WindowsUpdateAgent.,1
+9f690938,Session 30546354_2912518767 initialized by client WindowsUpdateAgent.,1
+0de10cac,Session 30546354_2914788897 initialized by client WindowsUpdateAgent.,1
+2e438b3d,Session 30546354_2915778954 initialized by client WindowsUpdateAgent.,1
+e6fbb430,Session 30546354_2916919019 initialized by client WindowsUpdateAgent.,1
+126d22f9,Session 30546354_2917229036 initialized by client WindowsUpdateAgent.,1
+ac53bdc7,Session 30546354_2919539169 initialized by client WindowsUpdateAgent.,1
+5269d020,Session 30546354_2926539569 initialized by client WindowsUpdateAgent.,1
+b7895750,Session 30546354_2932399904 initialized by client WindowsUpdateAgent.,1
+c9a073fe,Session 30546354_2934110002 initialized by client WindowsUpdateAgent.,1
+1aae8644,Session 30546354_2934760039 initialized by client WindowsUpdateAgent.,1
+77b62f4c,Session 30546354_2936720151 initialized by client WindowsUpdateAgent.,1
+e8d5e8ef,Session 30546354_2937490195 initialized by client WindowsUpdateAgent.,1
+a281ee92,Session 30546354_2937600202 initialized by client WindowsUpdateAgent.,1
+6bc906a9,Session 30546354_2939830329 initialized by client WindowsUpdateAgent.,1
+ac2a0ba0,Session 30546354_2950240925 initialized by client WindowsUpdateAgent.,1
+4ea28938,Session 30546354_2953481110 initialized by client WindowsUpdateAgent.,1
+d7c95e7d,Session 30546354_2955011197 initialized by client WindowsUpdateAgent.,1
+24413201,Session 30546354_2955431222 initialized by client WindowsUpdateAgent.,1
+e7b43e17,Session 30546354_2956421278 initialized by client WindowsUpdateAgent.,1
+529b2a12,Session 30546354_2958491397 initialized by client WindowsUpdateAgent.,1
+0bc3d661,Session 30546354_2958821415 initialized by client WindowsUpdateAgent.,1
+c0908a25,Session 30546354_2959411449 initialized by client WindowsUpdateAgent.,1
+b5350831,Session 30546354_2959511455 initialized by client WindowsUpdateAgent.,1
+c8dcf9b3,Session 30546354_2960071487 initialized by client WindowsUpdateAgent.,1
+f7375d0f,Session 30546354_2961511569 initialized by client WindowsUpdateAgent.,1
+2437c3c7,Session 30546354_2965511798 initialized by client WindowsUpdateAgent.,1
+b04f70fc,Session 30546354_2965591803 initialized by client WindowsUpdateAgent.,1
+0875d3da,Session 30546354_2966751869 initialized by client WindowsUpdateAgent.,1
+1ef295d4,Session 30546354_2966921879 initialized by client WindowsUpdateAgent.,1
+9c4144a1,Session 30546354_2967631919 initialized by client WindowsUpdateAgent.,1
+099157eb,Session 30546354_2967771927 initialized by client WindowsUpdateAgent.,1
+57ee1fd3,Session 30546354_2968461967 initialized by client WindowsUpdateAgent.,1
+ebd54156,Session 30546354_2968771985 initialized by client WindowsUpdateAgent.,1
+603d2f3b,Session 30546354_2968971996 initialized by client WindowsUpdateAgent.,1
+2bf40952,Session 30546354_2970472082 initialized by client WindowsUpdateAgent.,1
+08b8629b,Session 30546354_2971152121 initialized by client WindowsUpdateAgent.,1
+5afbf86e,Session 30546354_2972312187 initialized by client WindowsUpdateAgent.,1
+d23674de,Session 30546354_2973852275 initialized by client WindowsUpdateAgent.,1
+fd474863,Session 30546354_2973972282 initialized by client WindowsUpdateAgent.,1
+853d7816,Session 30546354_2975752384 initialized by client WindowsUpdateAgent.,1
+236a5247,Session 30546354_2976462424 initialized by client WindowsUpdateAgent.,1
+c97b63a5,Session 30546354_2979852618 initialized by client WindowsUpdateAgent.,1
+d7551d0e,Session 30546354_2981802730 initialized by client WindowsUpdateAgent.,1
+0c39cf6c,Session 30546354_2983612833 initialized by client WindowsUpdateAgent.,1
+ba909f2a,Session 30546354_2984842904 initialized by client WindowsUpdateAgent.,1
+cb3705eb,Session 30546354_2984902907 initialized by client WindowsUpdateAgent.,1
+20e551e3,Session 30546354_2985172923 initialized by client WindowsUpdateAgent.,1
+c015cbfb,Session 30546354_2986142978 initialized by client WindowsUpdateAgent.,1
+38dd4e37,Session 30546354_2986352990 initialized by client WindowsUpdateAgent.,1
+0f6ac9ea,Session 30546354_2988103090 initialized by client WindowsUpdateAgent.,1
+8544382a,Session 30546354_2989623177 initialized by client WindowsUpdateAgent.,1
+bdca985c,Session 30546354_2999883764 initialized by client WindowsUpdateAgent.,1
+b9a990c8,Session 30546354_3005294074 initialized by client WindowsUpdateAgent.,1
+40d9aac3,Session 30546354_3007094176 initialized by client WindowsUpdateAgent.,1
+5c41241a,Session 30546354_3007214183 initialized by client WindowsUpdateAgent.,1
+b3fe8b71,Session 30546354_3008284245 initialized by client WindowsUpdateAgent.,1
+311de091,Session 30546354_3008494257 initialized by client WindowsUpdateAgent.,1
+f4af4ca9,Session 30546354_3009694325 initialized by client WindowsUpdateAgent.,1
+9b68d5f0,Session 30546354_3037265902 initialized by client WindowsUpdateAgent.,1
+ecea225f,Session 30546354_3041116122 initialized by client WindowsUpdateAgent.,1
+dc8a1888,Session 30546354_3044096293 initialized by client WindowsUpdateAgent.,1
+58b95a0b,Session 30546354_3044886338 initialized by client WindowsUpdateAgent.,1
+aab38205,Session 30546354_3045146353 initialized by client WindowsUpdateAgent.,1
+cf5a87f6,Session 30546354_3047006459 initialized by client WindowsUpdateAgent.,1
+687ba2f7,Session 30546354_3047216471 initialized by client WindowsUpdateAgent.,1
+52cc27ce,Session 30546354_3048226529 initialized by client WindowsUpdateAgent.,1
+110369b3,Session 30546354_3049686613 initialized by client WindowsUpdateAgent.,1
+9b87402a,Session 30546354_3050066634 initialized by client WindowsUpdateAgent.,1
+27426d44,Session 30546354_3058807134 initialized by client WindowsUpdateAgent.,1
+92de6bc0,Session 30546354_3061267275 initialized by client WindowsUpdateAgent.,1
+d3dae5ea,Session 30546354_3061697300 initialized by client WindowsUpdateAgent.,1
+d84e38ce,Session 30546354_3063077379 initialized by client WindowsUpdateAgent.,1
+6392e834,Session 30546354_3066077550 initialized by client WindowsUpdateAgent.,1
+0d12b71c,Session 30546354_3067097608 initialized by client WindowsUpdateAgent.,1
+878dec44,Session 30546354_3067367624 initialized by client WindowsUpdateAgent.,1
+3932c1b0,Session 30546354_3070257789 initialized by client WindowsUpdateAgent.,1
+d195271c,Session 30546354_3070387797 initialized by client WindowsUpdateAgent.,1
+f0b144fc,Session 30546354_3070417798 initialized by client WindowsUpdateAgent.,1
+7dca8569,Session 30546354_3070457801 initialized by client WindowsUpdateAgent.,1
+2e1d0611,Session 30546354_3070727816 initialized by client WindowsUpdateAgent.,1
+a85e3357,Session 30546354_3072147897 initialized by client WindowsUpdateAgent.,1
+00de5af5,Session 30546354_3072677928 initialized by client WindowsUpdateAgent.,1
+188ff470,Session 30546354_3074888054 initialized by client WindowsUpdateAgent.,1
+b74af829,Session 30546354_3077138183 initialized by client WindowsUpdateAgent.,1
+28e25c61,Session 30546354_3167883373 initialized by client WindowsUpdateAgent.,1
+47a6fbd1,Session 30546354_3172813655 initialized by client WindowsUpdateAgent.,1
+756650cf,Session 30546354_3173223679 initialized by client WindowsUpdateAgent.,1
+35864f85,Session 30546354_3173453692 initialized by client WindowsUpdateAgent.,1
+e4c67084,Session 30546354_3175093786 initialized by client WindowsUpdateAgent.,1
+379891b5,Session 30546354_3176343857 initialized by client WindowsUpdateAgent.,1
+1348eb58,Session 30546354_3176413861 initialized by client WindowsUpdateAgent.,1
+c8a841a9,Session 30546354_3178803998 initialized by client WindowsUpdateAgent.,1
+761fead8,Session 30546354_3181864173 initialized by client WindowsUpdateAgent.,1
+a711d3fa,Session 30546354_3182094186 initialized by client WindowsUpdateAgent.,1
+88485f72,Session 30546354_3183124245 initialized by client WindowsUpdateAgent.,1
+2a3474ad,Session 30546354_3183554269 initialized by client WindowsUpdateAgent.,1
+1cd61b11,Session 30546354_3183714279 initialized by client WindowsUpdateAgent.,1
+b67c3a72,Session 30546354_3184784340 initialized by client WindowsUpdateAgent.,1
+12bdf679,Session 30546354_3185364373 initialized by client WindowsUpdateAgent.,1
+9a057159,Session 30546354_3185714393 initialized by client WindowsUpdateAgent.,1
+4b25a853,Session 30546354_3185874402 initialized by client WindowsUpdateAgent.,1
+a8578054,Session 30546354_3186424434 initialized by client WindowsUpdateAgent.,1
+8e0f965b,Session 30546354_3186634446 initialized by client WindowsUpdateAgent.,1
+a9d07742,Session 30546354_3187144475 initialized by client WindowsUpdateAgent.,1
+5e439f99,Session 30546354_3188034526 initialized by client WindowsUpdateAgent.,1
+4fc0a23c,Session 30546354_3188974579 initialized by client WindowsUpdateAgent.,1
+a5e406af,Session 30546354_3189744623 initialized by client WindowsUpdateAgent.,1
+ce856488,Session 30546354_3189934634 initialized by client WindowsUpdateAgent.,1
+2102ac27,Session 30546354_3190064642 initialized by client WindowsUpdateAgent.,1
+a230032e,Session 30546354_3190364659 initialized by client WindowsUpdateAgent.,1
+95070dfb,Session 30546354_3190684677 initialized by client WindowsUpdateAgent.,1
+9aaa9999,Session 30546354_3190944692 initialized by client WindowsUpdateAgent.,1
+bd96b1d5,Session 30546354_3191224708 initialized by client WindowsUpdateAgent.,1
+3860e96e,Session 30546354_3191744738 initialized by client WindowsUpdateAgent.,1
+de7f0611,Session 30546354_3191924748 initialized by client WindowsUpdateAgent.,1
+4a6f71bc,Session 30546354_3192394775 initialized by client WindowsUpdateAgent.,1
+3b84e1da,Session 30546354_3192854801 initialized by client WindowsUpdateAgent.,1
+22defeb1,Session 30546354_3193054813 initialized by client WindowsUpdateAgent.,1
+a0ccda1f,Session 30546354_3193214822 initialized by client WindowsUpdateAgent.,1
+3dc54ece,Session 30546354_3193364831 initialized by client WindowsUpdateAgent.,1
+17f1820b,Session 30546354_3193904861 initialized by client WindowsUpdateAgent.,1
+dff1f86f,Session 30546354_3194774911 initialized by client WindowsUpdateAgent.,1
+0a9cec67,Session 30546354_3195614959 initialized by client WindowsUpdateAgent.,1
+278183d0,Session 30546354_3196675020 initialized by client WindowsUpdateAgent.,1
+bc5001c0,Session 30546354_3197115045 initialized by client WindowsUpdateAgent.,1
+cd9931d9,Session 30546354_3198015097 initialized by client WindowsUpdateAgent.,1
+d61d79b2,Session 30546354_3198305113 initialized by client WindowsUpdateAgent.,1
+316b9155,Session 30546354_3198345115 initialized by client WindowsUpdateAgent.,1
+3de85d1e,Session 30546354_3198805142 initialized by client WindowsUpdateAgent.,1
+ba0f73e7,Session 30546354_3200035212 initialized by client WindowsUpdateAgent.,1
+9e75fe4b,Session 30546354_3202615360 initialized by client WindowsUpdateAgent.,1
+51c2ee8d,Session 30546354_3203065385 initialized by client WindowsUpdateAgent.,1
+fe269342,Session 30546354_3203755425 initialized by client WindowsUpdateAgent.,1
+772a0e28,Session 30546354_3204535469 initialized by client WindowsUpdateAgent.,1
+cffee2c1,Session 30546354_3204965494 initialized by client WindowsUpdateAgent.,1
+ae5d787c,Session 30546354_3205955551 initialized by client WindowsUpdateAgent.,1
+149f2f85,Session 30546354_3206305571 initialized by client WindowsUpdateAgent.,1
+04834243,Session 30546354_3206335572 initialized by client WindowsUpdateAgent.,1
+264f25cc,Session 30546354_3207045613 initialized by client WindowsUpdateAgent.,1
+1d9f8b64,Session 30546354_3208475695 initialized by client WindowsUpdateAgent.,1
+d23df41c,Session 30546354_3208835715 initialized by client WindowsUpdateAgent.,1
+28f35417,Session 30546354_3209665763 initialized by client WindowsUpdateAgent.,1
+081a659c,Session 30546354_3209785770 initialized by client WindowsUpdateAgent.,1
+108af440,Session 30546354_3209865774 initialized by client WindowsUpdateAgent.,1
+74783b7c,Session 30546354_3214976067 initialized by client WindowsUpdateAgent.,1
+2446f08a,Session 30546354_3215266083 initialized by client WindowsUpdateAgent.,1
+c1c17fda,Session 30546354_3215406091 initialized by client WindowsUpdateAgent.,1
+f3272f70,Session 30546354_3215566100 initialized by client WindowsUpdateAgent.,1
+f464c41b,Session 30546354_3215916120 initialized by client WindowsUpdateAgent.,1
+96e303a0,Session 30546354_3216576158 initialized by client WindowsUpdateAgent.,1
+521e9c77,Session 30546354_3217166192 initialized by client WindowsUpdateAgent.,1
+90cd55ca,Session 30546354_3217316200 initialized by client WindowsUpdateAgent.,1
+e20f34e5,Session 30546354_3217556214 initialized by client WindowsUpdateAgent.,1
+6cf85483,Session 30546354_3217926235 initialized by client WindowsUpdateAgent.,1
+e1423212,Session 30546354_3218366261 initialized by client WindowsUpdateAgent.,1
+a17c85cb,Session 30546354_3219376318 initialized by client WindowsUpdateAgent.,1
+e789458c,Session 30546354_3220876404 initialized by client WindowsUpdateAgent.,1
+3cdc4038,Session 30546354_3222456494 initialized by client WindowsUpdateAgent.,1
+b20912a5,Session 30546354_3225106646 initialized by client WindowsUpdateAgent.,1
+ceaf1317,Session 30546354_3225556672 initialized by client WindowsUpdateAgent.,1
+8fc2e556,Session 30546354_3225636676 initialized by client WindowsUpdateAgent.,1
+b87ed253,Session 30546354_3225896691 initialized by client WindowsUpdateAgent.,1
+1c42755d,Session 30546354_3226336716 initialized by client WindowsUpdateAgent.,1
+507aacc3,Session 30546354_3226626733 initialized by client WindowsUpdateAgent.,1
+faa79839,Session 30546354_3226836745 initialized by client WindowsUpdateAgent.,1
+3939f996,Session 30546354_3227386776 initialized by client WindowsUpdateAgent.,1
+d7266ada,Session 30546354_3228776856 initialized by client WindowsUpdateAgent.,1
+e977df4d,Session 30546354_3228966867 initialized by client WindowsUpdateAgent.,1
+ef41423d,Session 30546354_3229296886 initialized by client WindowsUpdateAgent.,1
+078e763d,Session 30546354_3229346889 initialized by client WindowsUpdateAgent.,1
+2cdf17c0,Session 30546354_3229556901 initialized by client WindowsUpdateAgent.,1
+3bc0b0fb,Session 30546354_3230196937 initialized by client WindowsUpdateAgent.,1
+dd9e59c2,Session 30546354_3230936980 initialized by client WindowsUpdateAgent.,1
+92cfe906,Session 30546354_3232347060 initialized by client WindowsUpdateAgent.,1
+93e9f823,Session 30546354_3233207109 initialized by client WindowsUpdateAgent.,1
+823c3f0c,Session 30546354_3271199282 initialized by client WindowsUpdateAgent.,1
+5698853b,Session 30546354_3273319404 initialized by client WindowsUpdateAgent.,1
+11052ed5,Session 30546354_3274739485 initialized by client WindowsUpdateAgent.,1
+a44dfdc6,Session 30546354_3274949497 initialized by client WindowsUpdateAgent.,1
+4d482a34,Session 30546354_3275569532 initialized by client WindowsUpdateAgent.,1
+0bad278e,Session 30546354_3275839548 initialized by client WindowsUpdateAgent.,1
+a2596aed,Session 30546354_3276819604 initialized by client WindowsUpdateAgent.,1
+779a2a59,Session 30546354_3276969612 initialized by client WindowsUpdateAgent.,1
+b33a1856,Session 30546354_3277269630 initialized by client WindowsUpdateAgent.,1
+771e4b1d,Session 30546354_3282399923 initialized by client WindowsUpdateAgent.,1
+aed0f34c,Session 30546354_3283119964 initialized by client WindowsUpdateAgent.,1
+6a42c6aa,Session 30546354_3284880065 initialized by client WindowsUpdateAgent.,1
+e4bb647b,Session 30546354_3290590392 initialized by client WindowsUpdateAgent.,1
+c0bff1a1,Session 30546354_3290750401 initialized by client WindowsUpdateAgent.,1
+c960404c,Session 30546354_3290900409 initialized by client WindowsUpdateAgent.,1
+8e7a1042,Session 30546354_3291640452 initialized by client WindowsUpdateAgent.,1
+eb747107,Session 30546354_3292390494 initialized by client WindowsUpdateAgent.,1
+639f59d7,Session 30546354_3292510501 initialized by client WindowsUpdateAgent.,1
+ce893695,Session 30546354_3293810576 initialized by client WindowsUpdateAgent.,1
+8aa69f83,Session 30546354_3297200770 initialized by client WindowsUpdateAgent.,1
+5c79d1be,Session 30546354_3297210770 initialized by client WindowsUpdateAgent.,1
+85d59965,Session 30546354_3298080820 initialized by client WindowsUpdateAgent.,1
+f179248b,Session 30546354_3298800861 initialized by client WindowsUpdateAgent.,1
+4d91d9e6,Session 30546354_3300650967 initialized by client WindowsUpdateAgent.,1
+536eb57e,Session 30546354_3300820977 initialized by client WindowsUpdateAgent.,1
+1eb834b5,Session 30546354_3300870980 initialized by client WindowsUpdateAgent.,1
+792a8a9b,Session 30546354_3300980986 initialized by client WindowsUpdateAgent.,1
+bdf66070,Session 30546354_3301050990 initialized by client WindowsUpdateAgent.,1
+88a6df00,Session 30546354_3301471014 initialized by client WindowsUpdateAgent.,1
+0c6f7658,Session 30546354_3306751316 initialized by client WindowsUpdateAgent.,1
+aca2790d,Session 30546354_3307521360 initialized by client WindowsUpdateAgent.,1
+c4ef0520,Session 30546354_3308511417 initialized by client WindowsUpdateAgent.,1
+3b2e89b3,Session 30546354_3309061448 initialized by client WindowsUpdateAgent.,1
+325654ff,Session 30546354_3309721486 initialized by client WindowsUpdateAgent.,1
+a6329c5c,Session 30546354_3310261517 initialized by client WindowsUpdateAgent.,1
+034e9ed5,Session 30546354_3311291576 initialized by client WindowsUpdateAgent.,1
+aee6ea2e,Session 30546354_3311811605 initialized by client WindowsUpdateAgent.,1
+4cc0f63e,Session 30546354_3311911611 initialized by client WindowsUpdateAgent.,1
+477ebccf,Session 30546354_3312101622 initialized by client WindowsUpdateAgent.,1
+c8dda350,Session 30546354_3312401639 initialized by client WindowsUpdateAgent.,1
+d4943451,Session 30546354_3312641653 initialized by client WindowsUpdateAgent.,1
+bf800ca9,Session 30546354_3313121680 initialized by client WindowsUpdateAgent.,1
+22fe8aec,Session 30546354_3313241687 initialized by client WindowsUpdateAgent.,1
+251b5966,Session 30546354_3313271689 initialized by client WindowsUpdateAgent.,1
+fc7dcb96,Session 30546354_3315431812 initialized by client WindowsUpdateAgent.,1
+9e435dbb,Session 30546354_3319352037 initialized by client WindowsUpdateAgent.,1
+9b6036ce,Session 30546354_3321642168 initialized by client WindowsUpdateAgent.,1
+5a0fe485,Session 30546354_3321782176 initialized by client WindowsUpdateAgent.,1
+1e07daf2,Session 30546354_3327172484 initialized by client WindowsUpdateAgent.,1
+529a1a26,Session 30546354_3328072535 initialized by client WindowsUpdateAgent.,1
+2739658e,Session 30546354_3328272547 initialized by client WindowsUpdateAgent.,1
+ef44a018,Session 30546354_3328722573 initialized by client WindowsUpdateAgent.,1
+192386ff,Session 30546354_3329762632 initialized by client WindowsUpdateAgent.,1
+ec051066,Session 30546354_3330712686 initialized by client WindowsUpdateAgent.,1
+ccdc1401,Session 30546354_3332522790 initialized by client WindowsUpdateAgent.,1
+8ab1b438,Session 30546354_3334232888 initialized by client WindowsUpdateAgent.,1
+8cc4880a,Session 30546354_3336152998 initialized by client WindowsUpdateAgent.,1
+d5f8b335,Session 30546354_3336463015 initialized by client WindowsUpdateAgent.,1
+7e54c94e,Session 30546354_3336883039 initialized by client WindowsUpdateAgent.,1
+76f696e7,Session 30546354_3337033048 initialized by client WindowsUpdateAgent.,1
+a678c979,Session 30546354_3337223059 initialized by client WindowsUpdateAgent.,1
+0f456af3,Session 30546354_3337373067 initialized by client WindowsUpdateAgent.,1
+cee9af2d,Session 30546354_3337653083 initialized by client WindowsUpdateAgent.,1
+0e8942a0,Session 30546354_3337743089 initialized by client WindowsUpdateAgent.,1
+af35e879,Session 30546354_3337823093 initialized by client WindowsUpdateAgent.,1
+f94cbc7a,Session 30546354_3337953101 initialized by client WindowsUpdateAgent.,1
+e2df72a0,Session 30546354_3338053106 initialized by client WindowsUpdateAgent.,1
+e723f89a,Session 30546354_3338453129 initialized by client WindowsUpdateAgent.,1
+86670036,Session 30546354_3338913155 initialized by client WindowsUpdateAgent.,1
+f924c09a,Session 30546354_3339973216 initialized by client WindowsUpdateAgent.,1
+5702821a,Session 30546354_3341763318 initialized by client WindowsUpdateAgent.,1
+dbc82c76,Session 30546354_3341883325 initialized by client WindowsUpdateAgent.,1
+05975b99,Session 30546354_3342443357 initialized by client WindowsUpdateAgent.,1
+8fa98b73,Session 30546354_3342893383 initialized by client WindowsUpdateAgent.,1
+e1c1894d,Session 30546354_3343043392 initialized by client WindowsUpdateAgent.,1
+7b72fee5,Session 30546354_3343473416 initialized by client WindowsUpdateAgent.,1
+c982ce30,Session 30546354_3343653427 initialized by client WindowsUpdateAgent.,1
+e4834628,Session 30546354_3344023448 initialized by client WindowsUpdateAgent.,1
+a9c32240,Session 30546354_3344103452 initialized by client WindowsUpdateAgent.,1
+6b7fa7c3,Session 30546354_3344683485 initialized by client WindowsUpdateAgent.,1
+a68219f8,Session 30546354_3345573536 initialized by client WindowsUpdateAgent.,1
+81a00ea4,Session 30546354_3345633540 initialized by client WindowsUpdateAgent.,1
+1e6c3547,Session 30546354_3347003618 initialized by client WindowsUpdateAgent.,1
+c1c1c8a3,Session 30546354_3350523820 initialized by client WindowsUpdateAgent.,1
+6f9df7d7,Session 30546354_3350703830 initialized by client WindowsUpdateAgent.,1
+01b660ad,Session 30546354_3350783834 initialized by client WindowsUpdateAgent.,1
+aec157c7,Session 30546354_3350953844 initialized by client WindowsUpdateAgent.,1
+7455f604,Session 30546354_3351103853 initialized by client WindowsUpdateAgent.,1
+79529e59,Session 30546354_3351293864 initialized by client WindowsUpdateAgent.,1
+d64045c0,Session 30546354_3351423871 initialized by client WindowsUpdateAgent.,1
+5c0de413,Session 30546354_3351723888 initialized by client WindowsUpdateAgent.,1
+9cd4baa6,Session 30546354_3352763948 initialized by client WindowsUpdateAgent.,1
+e16a7162,Session 30546354_3355304093 initialized by client WindowsUpdateAgent.,1
+f0f6b698,Session 30546354_3355724117 initialized by client WindowsUpdateAgent.,1
+abdbe40f,Session 30546354_3355864125 initialized by client WindowsUpdateAgent.,1
+f61dde30,Session 30546354_3356114139 initialized by client WindowsUpdateAgent.,1
+800d8820,Session 30546354_3356384155 initialized by client WindowsUpdateAgent.,1
+bd798d43,Session 30546354_3356844181 initialized by client WindowsUpdateAgent.,1
+db4d72e4,Session 30546354_3357084195 initialized by client WindowsUpdateAgent.,1
+41ba68ef,Session 30546354_3357894241 initialized by client WindowsUpdateAgent.,1
+fa5726f3,Session 30546354_3360174372 initialized by client WindowsUpdateAgent.,1
+d3b86a95,Session 30546354_3363894584 initialized by client WindowsUpdateAgent.,1

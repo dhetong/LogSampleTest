@@ -417,8 +417,8 @@ class LogParser:
         self.output.sort(key=lambda x: int(x[0]))
         self.df_log['EventId'] = [str(logL[1]) for logL in self.output]
         self.df_log['EventTemplate'] = [eventID_template[logL[1]] for logL in self.output]
-        if self.keep_para:
-            self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1) 
+        #if self.keep_para:
+        #    self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1) 
         self.df_log.to_csv(os.path.join(self.para.savePath, self.logname + '_structured.csv'), index=False)
 
     """

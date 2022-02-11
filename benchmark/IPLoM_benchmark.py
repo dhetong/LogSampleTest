@@ -147,7 +147,16 @@ for dataset, setting in benchmark_settings.iteritems():
     log_file = os.path.basename(setting['log_file'])
 
     parser = IPLoM.LogParser(log_format=setting['log_format'], indir=indir, outdir=output_dir,
-                             CT=setting['CT'], lowerBound=setting['lowerBound'], rex=setting['regex'])
+                             CT=0.4, lowerBound=0.7, rex=setting['regex'])
+    #parameter evaluation
+    #parser = IPLoM.LogParser(log_format=setting['log_format'], indir=indir, outdir=output_dir,
+    #                         CT=0.25, lowerBound=setting['lowerBound'], rex=setting['regex'])
+    #parser = IPLoM.LogParser(log_format=setting['log_format'], indir=indir, outdir=output_dir,
+    #                         CT=0.9, lowerBound=setting['lowerBound'], rex=setting['regex'])
+    #parser = IPLoM.LogParser(log_format=setting['log_format'], indir=indir, outdir=output_dir,
+    #                         CT=setting['CT'], lowerBound=0.01, rex=setting['regex'])
+    #parser = IPLoM.LogParser(log_format=setting['log_format'], indir=indir, outdir=output_dir,
+    #                         CT=setting['CT'], lowerBound=0.7, rex=setting['regex'])
     parser.parse(log_file)
     
     F1_measure, accuracy = evaluator.evaluate(

@@ -1,0 +1,1168 @@
+EventId,EventTemplate,Occurrences
+a2d53eed,onStandStepChanged 3579,3
+0b300ea7,onExtend 1514038530000 14 0 4,1
+a0d3102b,onReceive action android.intent.action.SCREEN_ON,17
+392bf31d,processHandleBroadcastAction action android.intent.action.SCREEN_ON,17
+b8f897f8,flush sensor data,17
+1823ccc9,getTodayTotalDetailSteps 1514038440000##6993##548365##8661##12266##27164404,1
+9f53e772,setTodayTotalDetailSteps 1514038440000##7007##548365##8661##12361##27173954,1
+3aa8a96a,calculateCaloriesWithCache totalCalories 126775,1
+a19aa487,calculateAltitudeWithCache totalAltitude 240,217
+2b358f8a,REPORT 7007 5002 150089 240,1
+a53e7997,onExtend 1514038530000 0 0 4,2
+0358de9e,onStandStepChanged 3580,1
+bf9db762,getTodayTotalDetailSteps 1514038440000##7007##548365##8661##12361##27173954,1
+0a5f733e,setTodayTotalDetailSteps 1514038440000##7008##548365##8661##12456##27174269,1
+91300455,calculateCaloriesWithCache totalCalories 126797,1
+b2d70ecf,REPORT 7008 5003 150111 240,1
+b64d7bc6,onStandStepChanged 3581,1
+58fdbd21,onExtend 1514038531000 1 0 4,1
+0811127b,getTodayTotalDetailSteps 1514038440000##7008##548365##8661##12456##27174269,1
+3a3de245,setTodayTotalDetailSteps 1514038440000##7009##548365##8661##12551##27174951,1
+aaabacfb,calculateCaloriesWithCache totalCalories 126818,1
+1ffe4fc6,REPORT 7009 5004 150132 240,1
+577173d3,onStandStepChanged 3583,1
+aeaa2670,onExtend 1514038531000 2 0 4,1
+c73744df,getTodayTotalDetailSteps 1514038440000##7009##548365##8661##12551##27174951,1
+1d71a447,setTodayTotalDetailSteps 1514038440000##7011##548365##8661##12646##27175461,1
+cfd5da01,calculateCaloriesWithCache totalCalories 126861,1
+3b7a2665,REPORT 7011 5005 150175 240,1
+396c3bdd,onStandStepChanged 3584,1
+ed00c578,onExtend 1514038532000 1 0 4,1
+86ead5cd,getTodayTotalDetailSteps 1514038440000##7011##548365##8661##12646##27175461,1
+c1e74dd8,setTodayTotalDetailSteps 1514038440000##7012##548365##8661##12741##27176464,1
+009cb2d1,calculateCaloriesWithCache totalCalories 126882,1
+605e5145,REPORT 7012 5006 150197 240,1
+042efe2c,onStandStepChanged 3585,1
+3c1be908,onExtend 1514038533000 1 0 4,2
+7b1a7109,getTodayTotalDetailSteps 1514038440000##7012##548365##8661##12741##27176464,1
+3fc6cafb,setTodayTotalDetailSteps 1514038440000##7013##548365##8661##12836##27176966,1
+88808032,calculateCaloriesWithCache totalCalories 126904,1
+641c096a,REPORT 7013 5007 150218 240,1
+2a3d200a,onStandStepChanged 3586,1
+b99e347d,getTodayTotalDetailSteps 1514038440000##7013##548365##8661##12836##27176966,1
+da966393,setTodayTotalDetailSteps 1514038440000##7014##548365##8661##12931##27177463,1
+daaa9180,calculateCaloriesWithCache totalCalories 126925,1
+08044dd1,REPORT 7014 5007 150239 240,1
+a99c3dd3,onStandStepChanged 3587,1
+fe8270c4,onExtend 1514038534000 1 0 4,1
+07a69af3,getTodayTotalDetailSteps 1514038440000##7014##548365##8661##12931##27177463,1
+9161777c,setTodayTotalDetailSteps 1514038440000##7015##548365##8661##13026##27177962,1
+7093b5b1,calculateCaloriesWithCache totalCalories 126947,1
+82090fa7,REPORT 7015 5008 150261 240,1
+3c84f5d6,onStandStepChanged 3588,1
+d375bd48,onExtend 1514038535000 1 0 4,2
+4939e0ea,onReceive action android.intent.action.SCREEN_OFF,17
+f64f76b6,onStandStepChanged 3589,3
+8b16269e,getTodayTotalDetailSteps 1514038440000##7015##548365##8661##13026##27177962,1
+bb8ecb8c,setTodayTotalDetailSteps 1514038440000##7017##548365##8661##13121##27179330,1
+c6eacefb,calculateCaloriesWithCache totalCalories 126989,2
+03a21551,isScreenOn true,1
+cb1bca0a,screen status unknown think screen on,1
+051b1c4c,REPORT 7017 5010 150304 240,2
+de2ecc32,getTodayTotalDetailSteps 1514038440000##7017##548365##8661##13121##27179330,1
+6eb00375,setTodayTotalDetailSteps 1514038440000##7017##548365##8661##13216##27179417,1
+401126e7,onExtend 1514038536000 0 0 4,3
+bd1e11b0,onStandStepChanged 3590,1
+5ce358c0,getTodayTotalDetailSteps 1514038440000##7017##548365##8661##13216##27179417,1
+ea886636,setTodayTotalDetailSteps 1514038440000##7018##548365##8661##13311##27179732,1
+359b03fd,calculateCaloriesWithCache totalCalories 127011,1
+9c4be5f6,REPORT 7018 5010 150325 240,1
+f88c4d4a,onStandStepChanged 3591,1
+e0bbde42,getTodayTotalDetailSteps 1514038440000##7018##548365##8661##13311##27179732,1
+42491f8a,setTodayTotalDetailSteps 1514038440000##7019##548365##8661##13406##27180468,1
+4db047b1,calculateCaloriesWithCache totalCalories 127032,1
+53075a15,REPORT 7019 5011 150346 240,1
+6be9003b,onStandStepChanged 3592,1
+07d08ff8,onExtend 1514038537000 1 0 4,1
+a31d7614,getTodayTotalDetailSteps 1514038440000##7019##548365##8661##13406##27180468,1
+133cbcc8,setTodayTotalDetailSteps 1514038440000##7020##548365##8661##13501##27180976,1
+10f29b72,calculateCaloriesWithCache totalCalories 127054,1
+3bde1035,REPORT 7020 5012 150368 240,1
+6d170532,onStandStepChanged 3593,1
+47fcf6e6,onExtend 1514038538000 1 0 4,2
+42ceca68,getTodayTotalDetailSteps 1514038440000##7020##548365##8661##13501##27180976,1
+5b0cc18f,setTodayTotalDetailSteps 1514038440000##7021##548365##8661##13596##27181971,1
+228c98cd,calculateCaloriesWithCache totalCalories 127075,1
+8f2efdbe,REPORT 7021 5012 150389 240,1
+09994c0b,onStandStepChanged 3594,1
+102817dd,getTodayTotalDetailSteps 1514038440000##7021##548365##8661##13596##27181971,1
+2b3a8b8c,setTodayTotalDetailSteps 1514038440000##7022##548365##8661##13691##27182468,1
+7c7e464d,calculateCaloriesWithCache totalCalories 127097,1
+6d9e54d1,REPORT 7022 5013 150411 240,1
+ea3a82df,onStandStepChanged 3595,1
+a54ddffb,onExtend 1514038539000 1 0 4,2
+d4dfeef4,getTodayTotalDetailSteps 1514038440000##7022##548365##8661##13691##27182468,1
+c4da947d,setTodayTotalDetailSteps 1514038440000##7023##548365##8661##13786##27182973,1
+868abe00,calculateCaloriesWithCache totalCalories 127118,1
+771d7983,REPORT 7023 5014 150432 240,1
+2c60dd20,onStandStepChanged 3596,1
+0d1a6c1f,getTodayTotalDetailSteps 1514038440000##7023##548365##8661##13786##27182973,1
+66f549f7,setTodayTotalDetailSteps 1514038440000##7024##548365##8661##13881##27183469,1
+49c7d681,calculateCaloriesWithCache totalCalories 127139,1
+4fbc3fcf,REPORT 7024 5015 150454 240,1
+6fa671f9,onStandStepChanged 3597,1
+9ed4c217,onExtend 1514038540000 1 0 4,1
+b41c9d1e,getTodayTotalDetailSteps 1514038440000##7024##548365##8661##13881##27183469,1
+f9886762,setTodayTotalDetailSteps 1514038440000##7025##548365##8661##13976##27183974,1
+c21dd3d4,calculateCaloriesWithCache totalCalories 127161,1
+8b4a2f2a,REPORT 7025 5015 150475 240,1
+ca52fe9d,onStandStepChanged 3598,1
+3197ca42,onExtend 1514038541000 1 0 4,2
+679a2e8a,getTodayTotalDetailSteps 1514038440000##7025##548365##8661##13976##27183974,1
+6726b7cb,setTodayTotalDetailSteps 1514038440000##7026##548365##8661##14071##27184972,1
+541c753d,calculateCaloriesWithCache totalCalories 127182,1
+8c4b069a,REPORT 7026 5016 150496 240,1
+ebee4f76,onStandStepChanged 3599,1
+70c82d6f,getTodayTotalDetailSteps 1514038440000##7026##548365##8661##14071##27184972,1
+4e61daf3,setTodayTotalDetailSteps 1514038440000##7027##548365##8661##14166##27185467,1
+ee0518d3,calculateCaloriesWithCache totalCalories 127204,1
+ac6cdc69,REPORT 7027 5017 150518 240,1
+573ee4e4,onStandStepChanged 3600,1
+b176b4d2,onExtend 1514038542000 1 0 4,2
+243697d8,getTodayTotalDetailSteps 1514038440000##7027##548365##8661##14166##27185467,1
+7498e6dd,setTodayTotalDetailSteps 1514038440000##7028##548365##8661##14261##27185977,1
+c365b82a,calculateCaloriesWithCache totalCalories 127225,1
+cd727c72,REPORT 7028 5017 150539 240,1
+024aa12b,onStandStepChanged 3601,1
+4351e95d,getTodayTotalDetailSteps 1514038440000##7028##548365##8661##14261##27185977,1
+b162b111,setTodayTotalDetailSteps 1514038440000##7029##548365##8661##14356##27186469,1
+f27ab0e6,calculateCaloriesWithCache totalCalories 127246,1
+18c81606,REPORT 7029 5018 150561 240,1
+eb024f20,onStandStepChanged 3602,1
+6793758a,onExtend 1514038543000 1 0 4,1
+247652ad,getTodayTotalDetailSteps 1514038440000##7029##548365##8661##14356##27186469,1
+ab3e279a,setTodayTotalDetailSteps 1514038440000##7030##548365##8661##14451##27187468,1
+94b2bbe0,calculateCaloriesWithCache totalCalories 127268,1
+7005a235,REPORT 7030 5019 150582 240,1
+c8aa845c,onStandStepChanged 3603,1
+d020a2e3,onExtend 1514038544000 1 0 4,2
+f34542e8,getTodayTotalDetailSteps 1514038440000##7030##548365##8661##14451##27187468,1
+e5e041c7,setTodayTotalDetailSteps 1514038440000##7031##548365##8661##14546##27187968,1
+d5f10914,calculateCaloriesWithCache totalCalories 127289,1
+e72c8c01,REPORT 7031 5020 150604 240,1
+0a40b80d,onStandStepChanged 3604,1
+baf2979b,getTodayTotalDetailSteps 1514038440000##7031##548365##8661##14546##27187968,1
+a155463c,setTodayTotalDetailSteps 1514038440000##7032##548365##8661##14641##27188471,1
+ce75ddf2,calculateCaloriesWithCache totalCalories 127311,1
+310da275,REPORT 7032 5020 150625 240,1
+5ce706a4,onStandStepChanged 3605,1
+e7ff7aee,onExtend 1514038545000 1 0 4,1
+03dd2459,getTodayTotalDetailSteps 1514038440000##7032##548365##8661##14641##27188471,1
+486fec2e,setTodayTotalDetailSteps 1514038440000##7033##548365##8661##14736##27189469,1
+54271fef,calculateCaloriesWithCache totalCalories 127332,1
+2af04e36,REPORT 7033 5021 150646 240,1
+97ceed4c,onStandStepChanged 3606,1
+07273264,onExtend 1514038546000 1 0 4,2
+399cab6a,getTodayTotalDetailSteps 1514038440000##7033##548365##8661##14736##27189469,1
+f69008a1,setTodayTotalDetailSteps 1514038440000##7034##548365##8661##14831##27189969,1
+32ee825c,calculateCaloriesWithCache totalCalories 127354,1
+4cd2625d,REPORT 7034 5022 150668 240,1
+d21841df,onStandStepChanged 3607,1
+e84e0fce,getTodayTotalDetailSteps 1514038440000##7034##548365##8661##14831##27189969,1
+3500b974,setTodayTotalDetailSteps 1514038440000##7035##548365##8661##14926##27190469,1
+fd3b0660,calculateCaloriesWithCache totalCalories 127375,1
+8979b2a0,REPORT 7035 5022 150689 240,1
+a715ec38,onStandStepChanged 3608,1
+872fb342,onExtend 1514038547000 1 0 4,1
+50fdf59f,getTodayTotalDetailSteps 1514038440000##7035##548365##8661##14926##27190469,1
+9b3fad4f,setTodayTotalDetailSteps 1514038440000##7036##548365##8661##15021##27190970,1
+30c4c84b,calculateCaloriesWithCache totalCalories 127396,1
+cde9f049,REPORT 7036 5023 150711 240,1
+d1ad3281,onStandStepChanged 3609,1
+cbf32fc0,onExtend 1514038548000 1 0 4,2
+9334b9c4,getTodayTotalDetailSteps 1514038440000##7036##548365##8661##15021##27190970,1
+f06a8984,setTodayTotalDetailSteps 1514038440000##7037##548365##8661##15116##27191969,1
+2cdffa0f,calculateCaloriesWithCache totalCalories 127418,1
+a073e4e6,REPORT 7037 5024 150732 240,1
+5b8b4572,onStandStepChanged 3610,1
+d62690c0,getTodayTotalDetailSteps 1514038440000##7037##548365##8661##15116##27191969,1
+ef99e509,setTodayTotalDetailSteps 1514038440000##7038##548365##8661##15211##27192478,1
+1e27e43c,calculateCaloriesWithCache totalCalories 127439,1
+9bcd01de,REPORT 7038 5025 150753 240,1
+214d48fc,onStandStepChanged 3611,1
+bfa0ecd9,onExtend 1514038549000 1 0 4,1
+2e0d4042,getTodayTotalDetailSteps 1514038440000##7038##548365##8661##15211##27192478,1
+b3923852,setTodayTotalDetailSteps 1514038440000##7039##548365##8661##15306##27192971,1
+e86a8609,calculateCaloriesWithCache totalCalories 127461,1
+7254cf34,REPORT 7039 5025 150775 240,1
+feba31fa,onStandStepChanged 3612,1
+1d4b9e32,onExtend 1514038550000 1 0 4,2
+3f4299d7,getTodayTotalDetailSteps 1514038440000##7039##548365##8661##15306##27192971,1
+3620c437,setTodayTotalDetailSteps 1514038440000##7040##548365##8661##15401##27193971,1
+9af0fe52,calculateCaloriesWithCache totalCalories 127482,1
+acaa6a21,REPORT 7040 5026 150796 240,1
+d2d9a1fb,onStandStepChanged 3613,1
+c184158f,getTodayTotalDetailSteps 1514038440000##7040##548365##8661##15401##27193971,1
+9e56fe1f,setTodayTotalDetailSteps 1514038440000##7041##548365##8661##15496##27194480,1
+f790bb39,calculateCaloriesWithCache totalCalories 127504,1
+4f96c5d9,REPORT 7041 5027 150818 240,1
+d1a244fe,onStandStepChanged 3614,1
+bb8ad5a4,onExtend 1514038551000 1 0 4,1
+67945b15,getTodayTotalDetailSteps 1514038440000##7041##548365##8661##15496##27194480,1
+49914cdf,setTodayTotalDetailSteps 1514038440000##7042##548365##8661##15591##27195470,1
+6aba4460,calculateCaloriesWithCache totalCalories 127525,1
+4c557c59,REPORT 7042 5027 150839 240,1
+4fdbb74a,onStandStepChanged 3616,1
+719308af,onExtend 1514038552000 2 0 4,1
+ce2b068b,getTodayTotalDetailSteps 1514038440000##7042##548365##8661##15591##27195470,1
+b4dfb711,setTodayTotalDetailSteps 1514038440000##7044##548365##8661##15686##27196480,1
+712a1380,calculateCaloriesWithCache totalCalories 127568,1
+89754be1,REPORT 7044 5029 150882 240,1
+8c70fc3a,onStandStepChanged 3617,1
+f0406083,onExtend 1514038553000 1 0 4,1
+59914a27,getTodayTotalDetailSteps 1514038440000##7044##548365##8661##15686##27196480,1
+39ce453c,setTodayTotalDetailSteps 1514038440000##7045##548365##8661##15781##27196970,1
+571f7317,calculateCaloriesWithCache totalCalories 127589,1
+61f91af3,REPORT 7045 5030 150903 240,1
+7325c55b,onStandStepChanged 3619,1
+bc3c1885,onExtend 1514038554000 2 0 4,1
+6595b41a,getTodayTotalDetailSteps 1514038440000##7045##548365##8661##15781##27196970,1
+c0ab2bc2,setTodayTotalDetailSteps 1514038440000##7047##548365##8661##15876##27197972,1
+1e689c3e,calculateCaloriesWithCache totalCalories 127632,1
+910eaa16,REPORT 7047 5031 150946 240,1
+5ef000ba,onStandStepChanged 3620,1
+42b5f79c,onExtend 1514038555000 1 0 4,1
+76a20b03,getTodayTotalDetailSteps 1514038440000##7047##548365##8661##15876##27197972,1
+03612876,setTodayTotalDetailSteps 1514038440000##7048##548365##8661##15971##27198970,1
+b567d8f3,calculateCaloriesWithCache totalCalories 127653,1
+2e596605,REPORT 7048 5032 150968 240,1
+87dc8426,onStandStepChanged 3622,1
+d088a85d,onExtend 1514038556000 2 0 4,2
+443f19b5,getTodayTotalDetailSteps 1514038440000##7048##548365##8661##15971##27198970,1
+b084eb58,setTodayTotalDetailSteps 1514038440000##7050##548365##8661##16066##27199969,1
+f52ae906,calculateCaloriesWithCache totalCalories 127696,1
+c96f53b0,REPORT 7050 5033 151011 240,1
+ce20e827,onStandStepChanged 3624,1
+d192fda1,getTodayTotalDetailSteps 1514038440000##7050##548365##8661##16066##27199969,1
+94a74c22,setTodayTotalDetailSteps 1514038440000##7052##548365##8661##16161##27200470,1
+f88bac5b,calculateCaloriesWithCache totalCalories 127739,1
+ccb983a1,REPORT 7052 5035 151053 240,1
+b5fd0ec7,onStandStepChanged 3625,1
+6651cf8d,onExtend 1514038558000 1 0 4,1
+365dbd7f,getTodayTotalDetailSteps 1514038440000##7052##548365##8661##16161##27200470,1
+817f9db8,setTodayTotalDetailSteps 1514038440000##7053##548365##8661##16256##27202475,1
+ea10a259,calculateCaloriesWithCache totalCalories 127761,1
+2c7e7d2f,REPORT 7053 5035 151075 240,1
+79d566a5,onStandStepChanged 3626,3
+b2138a17,onExtend 1514038560000 1 0 4,1
+7f4d8019,processHandleBroadcastAction action android.intent.action.TIME_TICK,144
+8bed4816,getTodayTotalDetailSteps 1514038440000##7053##548365##8661##16256##27202475,1
+93b805f8,setTodayTotalDetailSteps 1514038500000##7054##548458##8661##16256##27204469,1
+5bd1d2b6,calculateCaloriesWithCache totalCalories 127782,3
+b4b6b01c,REPORT 7054 5036 151096 240,1
+477efc1c,onExtend 1514038561000 0 0 0,1
+0857c1b3,getTodayTotalDetailSteps 1514038500000##7054##548458##8661##16256##27204469,1
+d4ed38d1,setTodayTotalDetailSteps 1514038500000##7054##548551##8661##16256##27205469,1
+f49b3451,onExtend 1514038639000 0 0 4,1
+608c947b,getTodayTotalDetailSteps 1514038500000##7054##548551##8661##16256##27205469,1
+10fd60f8,setTodayTotalDetailSteps 1514038560000##7054##548552##8661##16256##27283470,1
+111a6083,onStandStepChanged 3628,1
+ef8dd107,onExtend 1514038641000 2 0 4,2
+b8df3988,getTodayTotalDetailSteps 1514038560000##7054##548552##8661##16256##27283470,1
+f0584e20,setTodayTotalDetailSteps 1514038560000##7056##548553##8661##16256##27284971,1
+4973c781,calculateCaloriesWithCache totalCalories 127824,1
+abe6c47f,REPORT 7056 5037 151139 240,1
+5bc237cf,onStandStepChanged 3630,1
+10eb1aba,getTodayTotalDetailSteps 1514038560000##7056##548553##8661##16256##27284971,1
+43dbbddd,setTodayTotalDetailSteps 1514038560000##7058##548554##8661##16256##27285475,1
+a8da3168,calculateCaloriesWithCache totalCalories 127867,1
+f3fabf07,REPORT 7058 5039 151182 240,1
+87821839,onStandStepChanged 3632,1
+9cce5dee,onExtend 1514038642000 2 0 4,2
+952ac580,getTodayTotalDetailSteps 1514038560000##7058##548554##8661##16256##27285475,1
+a23c8120,setTodayTotalDetailSteps 1514038560000##7060##548555##8661##16256##27285968,1
+df874297,calculateCaloriesWithCache totalCalories 127910,1
+62b3b952,REPORT 7060 5040 151225 240,1
+7b62db89,onStandStepChanged 3634,1
+5fe12f85,getTodayTotalDetailSteps 1514038560000##7060##548555##8661##16256##27285968,1
+a31182ce,setTodayTotalDetailSteps 1514038560000##7062##548556##8661##16256##27286470,1
+fdc3af76,calculateCaloriesWithCache totalCalories 127953,1
+a3b75033,REPORT 7062 5042 151268 240,1
+08fa9c52,onStandStepChanged 3636,1
+ef528252,onExtend 1514038643000 2 0 4,2
+88ead758,getTodayTotalDetailSteps 1514038560000##7062##548556##8661##16256##27286470,1
+ccbf7275,setTodayTotalDetailSteps 1514038560000##7064##548557##8661##16256##27286970,1
+06d4c3e2,calculateCaloriesWithCache totalCalories 127996,1
+c84b9405,REPORT 7064 5043 151310 240,1
+4d519d42,onStandStepChanged 3638,1
+50ea7404,getTodayTotalDetailSteps 1514038560000##7064##548557##8661##16256##27286970,1
+8b0a2d34,setTodayTotalDetailSteps 1514038560000##7066##548558##8661##16256##27287469,1
+14762193,calculateCaloriesWithCache totalCalories 128039,1
+0b2cd3c2,REPORT 7066 5045 151353 240,1
+d47b5980,onStandStepChanged 3640,1
+28d00d0d,onExtend 1514038644000 2 0 4,2
+0be52dfa,getTodayTotalDetailSteps 1514038560000##7066##548558##8661##16256##27287469,1
+98434cb5,setTodayTotalDetailSteps 1514038560000##7068##548559##8661##16256##27287972,1
+64c355e9,calculateCaloriesWithCache totalCalories 128081,1
+cf31326f,REPORT 7068 5046 151396 240,1
+bd68c994,onStandStepChanged 3642,1
+aa319d9f,getTodayTotalDetailSteps 1514038560000##7068##548559##8661##16256##27287972,1
+a8aa36f0,setTodayTotalDetailSteps 1514038560000##7070##548560##8661##16256##27288471,1
+fa291aef,calculateCaloriesWithCache totalCalories 128124,1
+b0bc95df,REPORT 7070 5047 151439 240,1
+1d18a080,onStandStepChanged 3643,1
+de216279,onExtend 1514038645000 1 0 4,1
+d36784ab,getTodayTotalDetailSteps 1514038560000##7070##548560##8661##16256##27288471,1
+66c91333,setTodayTotalDetailSteps 1514038560000##7071##548561##8661##16256##27288973,1
+9c2d4808,calculateCaloriesWithCache totalCalories 128146,1
+6d5176c0,REPORT 7071 5048 151460 240,1
+bbd47647,onStandStepChanged 3646,2
+1a20926e,onExtend 1514038645000 3 0 4,1
+a3dcbb44,getTodayTotalDetailSteps 1514038560000##7071##548561##8661##16256##27288973,1
+d9afc5e2,setTodayTotalDetailSteps 1514038560000##7074##548562##8661##16256##27289470,1
+a91e1c83,calculateCaloriesWithCache totalCalories 128210,2
+ea3e790e,REPORT 7074 5050 151525 240,1
+bf53edd8,onExtend 1514038648000 0 0 0,1
+e0e65112,getTodayTotalDetailSteps 1514038560000##7074##548562##8661##16256##27289470,1
+612eee28,setTodayTotalDetailSteps 1514038560000##7074##548563##8661##16256##27292475,1
+ed99f617,onStandStepChanged 3647,1
+f400950a,onExtend 1514038665000 1 0 4,1
+d020afe5,getTodayTotalDetailSteps 1514038560000##7074##548563##8661##16256##27292475,1
+2e96f6e7,setTodayTotalDetailSteps 1514038560000##7075##548564##8661##16256##27309470,1
+b5c352cb,calculateCaloriesWithCache totalCalories 128231,1
+779427cd,REPORT 7075 5051 151546 240,1
+b2196263,onStandStepChanged 3649,1
+ea8e2130,onExtend 1514038666000 2 0 4,2
+c558cb1d,getTodayTotalDetailSteps 1514038560000##7075##548564##8661##16256##27309470,1
+682b45c1,setTodayTotalDetailSteps 1514038560000##7077##548565##8661##16256##27309969,1
+0e335b67,calculateCaloriesWithCache totalCalories 128274,1
+065bc4af,REPORT 7077 5052 151589 240,1
+e363fd5b,onStandStepChanged 3651,1
+73b67301,getTodayTotalDetailSteps 1514038560000##7077##548565##8661##16256##27309969,1
+3da938e4,setTodayTotalDetailSteps 1514038560000##7079##548566##8661##16256##27310473,1
+943fe7f6,calculateCaloriesWithCache totalCalories 128317,1
+bf257975,REPORT 7079 5054 151632 240,1
+4eaa1252,onStandStepChanged 3653,1
+d8388c33,onExtend 1514038667000 2 0 4,2
+c374976f,getTodayTotalDetailSteps 1514038560000##7079##548566##8661##16256##27310473,1
+c13427e3,setTodayTotalDetailSteps 1514038560000##7081##548567##8661##16256##27310970,1
+5ccce053,calculateCaloriesWithCache totalCalories 128360,1
+4013648f,REPORT 7081 5055 151675 240,1
+fb6c3dc8,onStandStepChanged 3655,1
+4316614d,getTodayTotalDetailSteps 1514038560000##7081##548567##8661##16256##27310970,1
+9263ce2a,setTodayTotalDetailSteps 1514038560000##7083##548568##8661##16256##27311472,1
+5408a506,calculateCaloriesWithCache totalCalories 128403,1
+0a1dd9ea,REPORT 7083 5057 151717 240,1
+da289c7d,onStandStepChanged 3656,1
+2a6dcac7,onExtend 1514038668000 1 0 4,1
+e91a37c8,getTodayTotalDetailSteps 1514038560000##7083##548568##8661##16256##27311472,1
+450ff49b,setTodayTotalDetailSteps 1514038560000##7084##548569##8661##16256##27311970,1
+a274547c,calculateCaloriesWithCache totalCalories 128424,1
+f115f28b,REPORT 7084 5057 151739 240,1
+c585e04c,onStandStepChanged 3658,1
+712016c0,onExtend 1514038668000 2 0 4,1
+5b709139,getTodayTotalDetailSteps 1514038560000##7084##548569##8661##16256##27311970,1
+944a528c,setTodayTotalDetailSteps 1514038560000##7086##548570##8661##16256##27312467,1
+82459604,calculateCaloriesWithCache totalCalories 128467,1
+14e6834f,REPORT 7086 5059 151782 240,1
+c95e30d9,onStandStepChanged 3660,1
+e777fe65,onExtend 1514038669000 2 0 4,2
+dcbe41be,getTodayTotalDetailSteps 1514038560000##7086##548570##8661##16256##27312467,1
+4124b6d1,setTodayTotalDetailSteps 1514038560000##7088##548571##8661##16256##27312967,1
+dcc45fb6,calculateCaloriesWithCache totalCalories 128510,1
+057bcaaf,REPORT 7088 5060 151824 240,1
+a683a7b6,onStandStepChanged 3662,1
+1c8204de,getTodayTotalDetailSteps 1514038560000##7088##548571##8661##16256##27312967,1
+ee4f588f,setTodayTotalDetailSteps 1514038560000##7090##548572##8661##16256##27313468,1
+e33e2417,calculateCaloriesWithCache totalCalories 128553,1
+792e90f3,REPORT 7090 5062 151867 240,1
+7eada5ec,onStandStepChanged 3664,1
+af7b5ffb,onExtend 1514038670000 2 0 4,2
+fb9ca833,getTodayTotalDetailSteps 1514038560000##7090##548572##8661##16256##27313468,1
+f25e86d3,setTodayTotalDetailSteps 1514038560000##7092##548573##8661##16256##27313974,1
+d3b43c14,calculateCaloriesWithCache totalCalories 128595,1
+67739053,REPORT 7092 5063 151910 240,1
+a7dfada4,onStandStepChanged 3666,1
+887dffb7,getTodayTotalDetailSteps 1514038560000##7092##548573##8661##16256##27313974,1
+88694117,setTodayTotalDetailSteps 1514038560000##7094##548574##8661##16256##27314468,1
+6b9626b7,calculateCaloriesWithCache totalCalories 128638,1
+d5b76382,REPORT 7094 5065 151953 240,1
+80326455,onStandStepChanged 3667,1
+74dc7be1,onExtend 1514038671000 1 0 4,1
+0bc77890,getTodayTotalDetailSteps 1514038560000##7094##548574##8661##16256##27314468,1
+72e60994,setTodayTotalDetailSteps 1514038560000##7095##548575##8661##16256##27314968,1
+87998b80,calculateCaloriesWithCache totalCalories 128660,1
+b8030732,REPORT 7095 5065 151974 240,1
+0f934c5e,onStandStepChanged 3669,1
+5f48db3a,onExtend 1514038671000 2 0 4,1
+9128f952,getTodayTotalDetailSteps 1514038560000##7095##548575##8661##16256##27314968,1
+6c9ce564,setTodayTotalDetailSteps 1514038560000##7097##548576##8661##16256##27315469,1
+7e63c6f4,calculateCaloriesWithCache totalCalories 128703,1
+47384f87,REPORT 7097 5067 152017 240,1
+9561cff2,onStandStepChanged 3671,1
+25e9b871,onExtend 1514038672000 2 0 4,2
+a480ec3d,getTodayTotalDetailSteps 1514038560000##7097##548576##8661##16256##27315469,1
+c7822cb5,setTodayTotalDetailSteps 1514038560000##7099##548577##8661##16256##27315983,1
+e8cb0f2c,calculateCaloriesWithCache totalCalories 128745,1
+c156d931,REPORT 7099 5068 152060 240,1
+c806328c,onStandStepChanged 3673,1
+cabd09e5,getTodayTotalDetailSteps 1514038560000##7099##548577##8661##16256##27315983,1
+bc7b1c19,setTodayTotalDetailSteps 1514038560000##7101##548578##8661##16256##27316470,1
+70a4d483,calculateCaloriesWithCache totalCalories 128788,1
+47cda88e,REPORT 7101 5070 152103 240,1
+1a1ce287,onStandStepChanged 3674,1
+2aa6ec5b,onExtend 1514038673000 1 0 4,1
+50037992,getTodayTotalDetailSteps 1514038560000##7101##548578##8661##16256##27316470,1
+621fc518,setTodayTotalDetailSteps 1514038560000##7102##548579##8661##16256##27317468,1
+d4a68885,calculateCaloriesWithCache totalCalories 128810,1
+479366d7,REPORT 7102 5070 152124 240,1
+f066a1ce,onStandStepChanged 3675,1
+923e7c11,onExtend 1514038674000 1 0 4,1
+703d14e3,getTodayTotalDetailSteps 1514038560000##7102##548579##8661##16256##27317468,1
+15f9129f,setTodayTotalDetailSteps 1514038560000##7103##548580##8661##16256##27318472,1
+2b89a7d0,calculateCaloriesWithCache totalCalories 128831,1
+20f1c023,REPORT 7103 5071 152146 240,1
+d282cd14,onStandStepChanged 3676,1
+a419367f,onExtend 1514038675000 1 0 4,1
+ebb9a8aa,getTodayTotalDetailSteps 1514038560000##7103##548580##8661##16256##27318472,1
+a133cf94,setTodayTotalDetailSteps 1514038560000##7104##548581##8661##16256##27319473,1
+9fbbc18d,calculateCaloriesWithCache totalCalories 128853,1
+45972092,REPORT 7104 5072 152167 240,1
+0674ed1d,onStandStepChanged 3677,1
+313bee9f,onExtend 1514038676000 1 0 4,1
+1046dc3a,getTodayTotalDetailSteps 1514038560000##7104##548581##8661##16256##27319473,1
+74483933,setTodayTotalDetailSteps 1514038560000##7105##548582##8661##16256##27319968,1
+2fa2cea6,calculateCaloriesWithCache totalCalories 128874,1
+33ae9627,REPORT 7105 5072 152189 240,1
+b9dd8577,onStandStepChanged 3678,1
+d42ab4af,onExtend 1514038677000 1 0 4,1
+7bc2fd90,getTodayTotalDetailSteps 1514038560000##7105##548582##8661##16256##27319968,1
+54d7571d,setTodayTotalDetailSteps 1514038560000##7106##548583##8661##16256##27320969,1
+c00944c0,calculateCaloriesWithCache totalCalories 128895,1
+baefc4a3,REPORT 7106 5073 152210 240,1
+a82ef146,onStandStepChanged 3679,1
+04bef913,onExtend 1514038678000 1 0 4,1
+5ea07094,getTodayTotalDetailSteps 1514038560000##7106##548583##8661##16256##27320969,1
+d199ed0e,setTodayTotalDetailSteps 1514038560000##7107##548584##8661##16256##27321969,1
+2ec0ff9b,calculateCaloriesWithCache totalCalories 128917,1
+c7645b8c,REPORT 7107 5074 152231 240,1
+b16427b1,onStandStepChanged 3681,1
+ec81af83,onExtend 1514038678000 2 0 4,1
+0e318267,getTodayTotalDetailSteps 1514038560000##7107##548584##8661##16256##27321969,1
+af5863db,setTodayTotalDetailSteps 1514038560000##7109##548585##8661##16256##27322469,1
+a0aac72b,calculateCaloriesWithCache totalCalories 128960,1
+32fd5017,REPORT 7109 5075 152274 240,1
+0b98708a,onStandStepChanged 3683,1
+397f767a,onExtend 1514038680000 2 0 4,1
+c8d7cee0,getTodayTotalDetailSteps 1514038560000##7109##548585##8661##16256##27322469,1
+cb663f62,setTodayTotalDetailSteps 1514038620000##7111##548640##8661##16256##27324478,1
+49a53675,calculateCaloriesWithCache totalCalories 129002,1
+2fbc336f,REPORT 7111 5077 152317 240,1
+82b5fcce,onStandStepChanged 3684,1
+e9dfe371,onExtend 1514038682000 1 0 4,1
+b34289b0,getTodayTotalDetailSteps 1514038620000##7111##548640##8661##16256##27324478,1
+587258b8,setTodayTotalDetailSteps 1514038620000##7112##548695##8661##16256##27325968,1
+72624c93,calculateCaloriesWithCache totalCalories 129024,1
+29ee9149,REPORT 7112 5077 152339 240,1
+e3b864f4,onStandStepChanged 3685,1
+8413d5bf,onExtend 1514038683000 1 0 4,1
+a3be10f1,getTodayTotalDetailSteps 1514038620000##7112##548695##8661##16256##27325968,1
+643f7e0d,setTodayTotalDetailSteps 1514038620000##7113##548750##8661##16256##27326969,1
+185a9ec3,calculateCaloriesWithCache totalCalories 129045,1
+d10b8c2b,REPORT 7113 5078 152360 240,1
+75a26093,onStandStepChanged 3686,2
+722568e6,onExtend 1514038686000 1 0 4,1
+92a8ce77,getTodayTotalDetailSteps 1514038620000##7113##548750##8661##16256##27326969,1
+4a2b18bb,setTodayTotalDetailSteps 1514038620000##7114##548805##8661##16256##27329972,1
+ead9eed3,calculateCaloriesWithCache totalCalories 129067,2
+28bef299,REPORT 7114 5079 152381 240,1
+5fb615e6,onExtend 1514038686000 0 0 0,1
+ba54ffa4,getTodayTotalDetailSteps 1514038620000##7114##548805##8661##16256##27329972,1
+371445c9,setTodayTotalDetailSteps 1514038620000##7114##548860##8661##16256##27330470,1
+e3fe5952,onStandStepChanged 3689,1
+5229b9c9,onExtend 1514038748000 3 0 4,1
+07481b61,getTodayTotalDetailSteps 1514038620000##7114##548860##8661##16256##27330470,1
+985f331b,setTodayTotalDetailSteps 1514038680000##7117##548865##8661##16256##27392475,1
+ee383307,calculateCaloriesWithCache totalCalories 129131,1
+063d29e1,REPORT 7117 5081 152446 240,1
+29bc971b,onStandStepChanged 3694,1
+086ca835,onExtend 1514038749000 5 0 4,1
+3778657b,getTodayTotalDetailSteps 1514038680000##7117##548865##8661##16256##27392475,1
+169f75f5,setTodayTotalDetailSteps 1514038680000##7122##548870##8661##16256##27392978,1
+79c04637,calculateCaloriesWithCache totalCalories 129238,1
+5ec486ee,REPORT 7122 5085 152553 240,1
+4a904fb5,onStandStepChanged 3696,1
+96dd9938,onExtend 1514038749000 2 0 4,1
+866db7b6,getTodayTotalDetailSteps 1514038680000##7122##548870##8661##16256##27392978,1
+f768739c,setTodayTotalDetailSteps 1514038680000##7124##548875##8661##16256##27393470,1
+657551b0,calculateCaloriesWithCache totalCalories 129281,1
+561e1e75,REPORT 7124 5086 152596 240,1
+c8a4e09f,onStandStepChanged 3698,1
+223a71e3,onExtend 1514038750000 2 0 4,2
+380cc07c,getTodayTotalDetailSteps 1514038680000##7124##548875##8661##16256##27393470,1
+b70d7d65,setTodayTotalDetailSteps 1514038680000##7126##548880##8661##16256##27393971,1
+e5327dfc,calculateCaloriesWithCache totalCalories 129324,1
+e0f2e772,REPORT 7126 5087 152638 240,1
+66dee760,onStandStepChanged 3700,1
+3206144a,getTodayTotalDetailSteps 1514038680000##7126##548880##8661##16256##27393971,1
+f4229449,setTodayTotalDetailSteps 1514038680000##7128##548885##8661##16256##27394469,1
+6c913c49,calculateCaloriesWithCache totalCalories 129366,1
+5f79fdce,REPORT 7128 5089 152681 240,1
+b7b87497,onStandStepChanged 3702,1
+fb59a89f,onExtend 1514038751000 2 0 4,2
+fafe0b0c,getTodayTotalDetailSteps 1514038680000##7128##548885##8661##16256##27394469,1
+e4baece8,setTodayTotalDetailSteps 1514038680000##7130##548890##8661##16256##27394969,1
+d4b94b61,calculateCaloriesWithCache totalCalories 129409,1
+dbff31ac,REPORT 7130 5090 152724 240,1
+1961b9c2,onStandStepChanged 3704,1
+8cb0c7cf,getTodayTotalDetailSteps 1514038680000##7130##548890##8661##16256##27394969,1
+e274128d,setTodayTotalDetailSteps 1514038680000##7132##548895##8661##16256##27395468,1
+5801c482,calculateCaloriesWithCache totalCalories 129452,1
+d26e8524,REPORT 7132 5092 152767 240,1
+0cf67992,onStandStepChanged 3707,1
+1339424d,onExtend 1514038752000 3 0 4,1
+3c9893a9,getTodayTotalDetailSteps 1514038680000##7132##548895##8661##16256##27395468,1
+eba2f904,setTodayTotalDetailSteps 1514038680000##7135##548900##8661##16256##27395969,1
+fa6ff7ff,calculateCaloriesWithCache totalCalories 129516,1
+9d285cc5,REPORT 7135 5094 152831 240,1
+43ce41c8,onStandStepChanged 3711,1
+5df8fe4d,onExtend 1514038752000 4 0 4,1
+59dde438,getTodayTotalDetailSteps 1514038680000##7135##548900##8661##16256##27395969,1
+686492d4,setTodayTotalDetailSteps 1514038680000##7139##548905##8661##16256##27396473,1
+6ad5865f,calculateCaloriesWithCache totalCalories 129602,1
+4120695a,REPORT 7139 5097 152917 240,1
+8d56c787,onStandStepChanged 3712,1
+85c13eda,onExtend 1514038753000 1 0 4,1
+2869b8b3,getTodayTotalDetailSteps 1514038680000##7139##548905##8661##16256##27396473,1
+1ae7372e,setTodayTotalDetailSteps 1514038680000##7140##548910##8661##16256##27396969,1
+2c78eaf0,calculateCaloriesWithCache totalCalories 129623,1
+6d64f63d,REPORT 7140 5097 152938 240,1
+d226526d,onStandStepChanged 3726,2
+5e97a33c,onExtend 1514038755000 14 0 4,1
+f8dcee8f,getTodayTotalDetailSteps 1514038680000##7140##548910##8661##16256##27396969,1
+534c3cff,setTodayTotalDetailSteps 1514038680000##7154##548915##8661##16256##27398975,1
+dc52d0be,calculateCaloriesWithCache totalCalories 129923,2
+f5ec68b4,REPORT 7154 5107 153238 240,1
+562ef865,onExtend 1514038756000 0 0 0,2
+47f1314e,getTodayTotalDetailSteps 1514038680000##7154##548915##8661##16256##27398975,1
+c3555488,setTodayTotalDetailSteps 1514038680000##7154##548920##8661##16256##27400475,1
+658cc0a4,onStandStepChanged 3732,4
+c003e761,onExtend 1514038798000 0 0 4,2
+894011f9,getTodayTotalDetailSteps 1514038680000##7154##548920##8661##16256##27400475,1
+fdc7dcc1,setTodayTotalDetailSteps 1514038680000##7160##548925##8661##16256##27442097,1
+282df797,calculateCaloriesWithCache totalCalories 130052,2
+35a8493d,REPORT 7160 5112 153367 240,1
+7cb3ec53,getTodayTotalDetailSteps 1514038680000##7160##548925##8661##16256##27442097,1
+b7dc43e3,setTodayTotalDetailSteps 1514038680000##7160##548930##8661##16256##27442416,1
+b7a83ed3,onStandStepChanged 3735,1
+0635a938,flushTempCacheToDB by stand,1
+a323890f,Alarm uploadStaticsToDB totalSteps 7163Calories 153367Floor 240Distance 5112,1
+0da159ce,writeDataToDB size 327,1
+ef68aa1b,upLoadOneMinuteDataToEngine time 25233975 0 93 0 20002,1
+330ab54d,upLoadOneMinuteDataToEngine time 25233976 0 1 0 20002,1
+fe97e47a,upLoadOneMinuteDataToEngine time 25233977 0 55 0 20002,1
+be905b8b,upLoadOneMinuteDataToEngine time 25233978 0 5 0 20002,1
+1886994e,upLoadOneMinuteDataToEngine time 25233979 0 46 0 20002,1
+abda682b,getBinderPackageName packageName com.huawei.health,8
+893a4f3f,getAppContext() isAppValid health or wear packageName com.huawei.health,2
+447f6139,onExtend 1514038799000 3 0 4,1
+d8b19cfd,insertHiHealthData() checkAppType 0 appID 1,2
+0eed5423,insertHiHealthData() size 4 app 1 One Data Type 40002 packageName com.huawei.health writeStatType 0,1
+b5d8f32c,saveHealthDetailData() deviceID 2 clientID 1 id 1,2
+1252792c,saveStatData() type <*> time 1513958400000 statClient 2 who is 1,4
+01b729b0,new date 20171223 type 40002 7163.0 old 6983.0,1
+7f7677ba,new date 20171223 type 40003 <*> old 210654.54000000004,2
+e98e90a8,saveHealthDetailData() saveOneDetailData fail hiHealthData 1513958400000 type <*>,2
+733348a0,new date 20171223 type 40005 <*> old 330.0,2
+2e8009d0,new date 20171223 type 40004 5112.0 old 4985.0,1
+f61774b8,bulkSaveDetailHiHealthData() size 4 totalTime 30,1
+e08168d7,startListenerChange subscribeList [1],2
+432654b8,insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode 4 errorMessage ERR_DATA_INSERT,1
+bcf8d4c7,insertHiHealthData() end totalTime 45,1
+472e1dbf,uploadStaticsToDB() onResult type 4 obj true,1
+48a170b5,uploadStaticsToDB failed message true,1
+71835e93,checkInsertStatus stepSum or calorieSum is enough,2
+42ded8e2,checkInsertStatus stepStatSum or calorieStatSum is enough,2
+629a1b11,stepSyncOrNot appSynTimes is 0 <*>,5
+7181eb84,startInsertSportSync start auto sync app is 1,2
+e1fe025b,checkFirstSyncByType no such data in db type is 1 deviceCode is 0,2
+7979a2cf,startInsertSportSync first 500 steps sync do all sync,2
+ac2f6107,startSync hiSyncOption HiSyncOption{syncAction 2 syncMethod 2 syncScope 0 syncDataType 20000 syncModel 2 pushAction 0} app 1 who 1,5
+076002a6,insertHiHealthData() size 20 app 1 One Data Type 2 packageName com.huawei.health writeStatType 0,1
+6e805a4c,needAutoSync autoSyncSwitch is open,5
+55109723,initDataPrivacy the dataPrivacy switch is open start push health data!,5
+38085a58,initDataPrivacy the dataPrivacy is true,5
+8999f54e,initUserPrivacy the userPrivacy switch is open start push user data!,5
+1d4b8a6f,initUserPrivacy the userPrivacy is true,5
+3f9b4da2,ifCanSync not! no cloud version,5
+8764d489,sendSyncFailedBroadcast,5
+12b9738e,bulkSaveDetailHiHealthData() size 20 totalTime 34,1
+6e0d1efb,new date 20171223 type 40002 6724.0 old 7163.0,1
+2a04e678,new date 20171223 type 40004 4800.935999999999 old 5112.0,1
+2986ddea,new date 20171223 type 40011 6314.0 old 6137.0,1
+88e06dc0,new date 20171223 type 40031 4508.196000000001 old 4381.818,1
+b8b805f7,new date 20171223 type 40021 135245.88 old 131454.53999999995,1
+31987f4f,new date 20171223 type 40013 410.0 old 410.0,1
+e7631bc1,new date 20171223 type 40034 292.73999999999995 old 292.73999999999995,1
+710394d2,new date 20171223 type 40024 79200.0 old 79200.0,1
+974d29fd,new date 20171223 type 40041 6720.0 old 6480.0,1
+ae7ac54f,new date 20171223 type 40044 420.0 old 420.0,1
+4b1db674,new date 20171223 type 40006 7140.0 old 6900.0,1
+f8d9959c,saveRealTimeHealthDatasStat() size 1 totalTime 48,1
+077f537b,insertHiHealthData() end totalTime 94,1
+27f33a1c,InsertCallBack() onSuccess type 0 data true,1
+b5c0c650,InsertEvent success begin 25233975 end 25233979,1
+01f48460,setWriteDBLastDataMinute 25233979,1
+042d7a7a,setWriteDBLastDataMinute success,1
+b3d6ad7f,flush2DB result success,1
+77df9f4e,getTodayTotalDetailSteps 1514038680000##7160##548930##8661##16256##27442416,1
+08ec75cb,setTodayTotalDetailSteps 1514038680000##7163##548935##8661##16256##27442827,1
+65f91836,calculateCaloriesWithCache totalCalories 130116,1
+385cc35d,REPORT 7163 5114 153431 240,1
+c0ab1ae3,onStandStepChanged 3737,1
+6608415b,onExtend 1514038799000 2 0 4,1
+ba61564d,getTodayTotalDetailSteps 1514038680000##7163##548935##8661##16256##27442827,1
+2fca80a3,setTodayTotalDetailSteps 1514038680000##7165##548940##8661##16256##27443484,1
+38834468,calculateCaloriesWithCache totalCalories 130159,1
+92c2bd9d,REPORT 7165 5115 153474 240,1
+b262e155,onStandStepChanged 3739,1
+50a8b47a,onExtend 1514038800000 2 0 4,1
+22e8c958,getTodayTotalDetailSteps 1514038680000##7165##548940##8661##16256##27443484,1
+454cfe99,setTodayTotalDetailSteps 1514038680000##7167##548945##8661##16256##27443986,1
+e3d26fd1,calculateCaloriesWithCache totalCalories 130201,1
+70a38add,REPORT 7167 5117 153517 240,1
+4968ad92,onStandStepChanged 3742,1
+8703517e,onExtend 1514038800000 3 0 4,1
+149b6368,getTodayTotalDetailSteps 1514038680000##7167##548945##8661##16256##27443986,1
+ca549d2c,setTodayTotalDetailSteps 1514038740000##7170##548996##8661##16256##27444484,1
+db4912fc,calculateCaloriesWithCache totalCalories 130266,1
+577aa7af,REPORT 7170 5119 153581 240,1
+50b4e5ec,onStandStepChanged 3745,1
+0ecb654e,onExtend 1514038801000 3 0 4,1
+be528995,getTodayTotalDetailSteps 1514038740000##7170##548996##8661##16256##27444484,1
+e44ef382,setTodayTotalDetailSteps 1514038740000##7173##549047##8661##16256##27444985,1
+5df3ba39,calculateCaloriesWithCache totalCalories 130330,1
+7d81b9cc,REPORT 7173 5121 153645 240,1
+6b8cfa16,onStandStepChanged 3746,1
+c0d90e5e,onExtend 1514038801000 1 0 4,1
+2adf3309,getTodayTotalDetailSteps 1514038740000##7173##549047##8661##16256##27444985,1
+4555e2c8,setTodayTotalDetailSteps 1514038740000##7174##549098##8661##16256##27445485,1
+66bb4ad7,calculateCaloriesWithCache totalCalories 130351,1
+55da9ec2,REPORT 7174 5122 153667 240,1
+d47cb0d6,onStandStepChanged 3748,1
+f51c6f4b,onExtend 1514038802000 2 0 4,1
+ad6e2d22,getTodayTotalDetailSteps 1514038740000##7174##549098##8661##16256##27445485,1
+75208fb9,setTodayTotalDetailSteps 1514038740000##7176##549149##8661##16256##27445983,1
+cf9ea5cd,calculateCaloriesWithCache totalCalories 130394,1
+61ec8923,REPORT 7176 5123 153709 240,1
+8b1e6f61,onStandStepChanged 3751,1
+9781b9c3,onExtend 1514038802000 3 0 4,1
+0eb0a49c,getTodayTotalDetailSteps 1514038740000##7176##549149##8661##16256##27445983,1
+617206be,setTodayTotalDetailSteps 1514038740000##7179##549200##8661##16256##27446483,1
+d406748f,calculateCaloriesWithCache totalCalories 130458,1
+217ed7b1,REPORT 7179 5125 153774 240,1
+960dc040,onStandStepChanged 3753,1
+4de1c75f,onExtend 1514038803000 2 0 4,2
+754dba78,getTodayTotalDetailSteps 1514038740000##7179##549200##8661##16256##27446483,1
+69e6a3e1,setTodayTotalDetailSteps 1514038740000##7181##549251##8661##16256##27446989,1
+19924091,calculateCaloriesWithCache totalCalories 130501,1
+71c708b7,REPORT 7181 5127 153817 240,1
+2cafc8c9,onStandStepChanged 3755,1
+2d1fba82,getTodayTotalDetailSteps 1514038740000##7181##549251##8661##16256##27446989,1
+e66f0244,setTodayTotalDetailSteps 1514038740000##7183##549302##8661##16256##27447483,1
+7e8f6082,calculateCaloriesWithCache totalCalories 130544,1
+ad04af25,REPORT 7183 5128 153859 240,1
+944d6f4a,onStandStepChanged 3757,1
+5f6654d5,onExtend 1514038804000 2 0 4,1
+6abff9d7,getTodayTotalDetailSteps 1514038740000##7183##549302##8661##16256##27447483,1
+6ee6443c,setTodayTotalDetailSteps 1514038740000##7185##549353##8661##16256##27448486,1
+2aa3e5f8,calculateCaloriesWithCache totalCalories 130587,1
+f351cf95,REPORT 7185 5130 153902 240,1
+f7ff15f1,onStandStepChanged 3758,1
+2635fe9c,onExtend 1514038805000 1 0 4,1
+3d51727c,getTodayTotalDetailSteps 1514038740000##7185##549353##8661##16256##27448486,1
+1e55c982,setTodayTotalDetailSteps 1514038740000##7186##549404##8661##16256##27448983,1
+315875a0,calculateCaloriesWithCache totalCalories 130608,1
+d1ff257b,REPORT 7186 5130 153924 240,1
+664aa2b4,onStandStepChanged 3759,1
+9407afd1,onExtend 1514038806000 1 0 4,1
+8d7ad935,getTodayTotalDetailSteps 1514038740000##7186##549404##8661##16256##27448983,1
+a17c70b6,setTodayTotalDetailSteps 1514038740000##7187##549455##8661##16256##27449982,1
+c1efe6dc,calculateCaloriesWithCache totalCalories 130630,1
+dd242dfa,REPORT 7187 5131 153945 240,1
+e97cc3ae,onStandStepChanged 3760,1
+5fc9fd7d,onExtend 1514038808000 1 0 4,2
+94d5cc7e,getTodayTotalDetailSteps 1514038740000##7187##549455##8661##16256##27449982,1
+88382642,setTodayTotalDetailSteps 1514038740000##7188##549506##8661##16256##27451985,1
+dce02dc7,calculateCaloriesWithCache totalCalories 130651,1
+2a674cae,REPORT 7188 5132 153966 240,1
+f299dfb0,onStandStepChanged 3761,59
+87a1f715,getTodayTotalDetailSteps 1514038740000##7188##549506##8661##16256##27451985,1
+f7fefaf5,setTodayTotalDetailSteps 1514038740000##7189##549557##8661##16256##27452491,1
+db462ae4,calculateCaloriesWithCache totalCalories 130673,48
+e9762497,REPORT 7189 5132 153988 240,16
+d1b31d55,onExtend 1514038813000 0 0 0,1
+feb56edd,getTodayTotalDetailSteps 1514038740000##7189##549557##8661##16256##27452491,1
+890aa5c6,setTodayTotalDetailSteps 1514038740000##7189##549608##8661##16256##27457484,1
+2705cd39,onExtend 1514038816000 0 0 5,1
+c08bde99,getTodayTotalDetailSteps 1514038740000##7189##549608##8661##16256##27457484,1
+33c4c95e,setTodayTotalDetailSteps 1514038740000##7189##549659##8661##16256##27460494,1
+0815a272,onExtend 1514038819000 0 0 5,1
+308e64fb,onExtend 1514038879000 0 0 5,1
+d04828a4,onExtend 1514038939000 0 0 5,1
+d2eedba8,onExtend 1514038999000 0 0 5,1
+4be51e1d,onExtend 1514039059000 0 0 0,1
+04923228,getTodayTotalDetailSteps 1514038740000##7189##549659##8661##16256##27460494,1
+da143533,setTodayTotalDetailSteps 1514038980000##7189##549659##8661##16256##27706526,1
+ca1c4513,onExtend 1514039062000 0 0 0,1
+c8a3b8be,getTodayTotalDetailSteps 1514038980000##7189##549659##8661##16256##27706526,1
+39535c97,setTodayTotalDetailSteps 1514038980000##7189##549659##8661##16256##27706835,1
+3a6b8da6,onExtend 1514039091000 0 0 5,1
+ca343c03,getTodayTotalDetailSteps 1514038980000##7189##549659##8661##16256##27706835,1
+601908c5,setTodayTotalDetailSteps 1514038980000##7189##549659##8661##16256##27736503,1
+331af7c5,onExtend 1514039093000 0 0 0,1
+30b4962f,getTodayTotalDetailSteps 1514038980000##7189##549659##8661##16256##27736503,1
+13faba00,setTodayTotalDetailSteps 1514038980000##7189##549659##8661##16256##27738504,1
+7752348c,onExtend 1514039098000 0 0 5,1
+b6aecb21,getTodayTotalDetailSteps 1514038980000##7189##549659##8661##16256##27738504,1
+7f975d68,setTodayTotalDetailSteps 1514038980000##7189##549659##8661##16256##27743510,1
+bc92e8a7,onExtend 1514039112000 0 0 5,1
+88fbc442,onExtend 1514039172000 0 0 5,1
+8833ff40,onExtend 1514039232000 0 0 5,1
+4c9ab2bc,onExtend 1514039292000 0 0 5,1
+733c302e,onExtend 1514039352000 0 0 5,1
+788f8e9c,onExtend 1514039412000 0 0 0,1
+ca13c745,getTodayTotalDetailSteps 1514038980000##7189##549659##8661##16256##27743510,1
+20309eb2,setTodayTotalDetailSteps 1514039340000##7189##549659##8661##16256##28068346,1
+9be2f913,onExtend 1514039424000 0 0 0,1
+a5999962,getTodayTotalDetailSteps 1514039340000##7189##549659##8661##16256##28068346,1
+ba2f79ca,setTodayTotalDetailSteps 1514039340000##7189##549659##8661##16256##28068666,1
+18056c34,onExtend 1514039492000 0 0 5,1
+5bd979ed,getTodayTotalDetailSteps 1514039340000##7189##549659##8661##16256##28068666,1
+44ea26c7,setTodayTotalDetailSteps 1514039400000##7189##549659##8661##16256##28136544,1
+f5505061,onExtend 1514039515000 0 0 0,1
+9a83eac3,onExtend 1514039575000 0 0 0,1
+d5502a70,getTodayTotalDetailSteps 1514039400000##7189##549659##8661##16256##28136544,1
+47467515,setTodayTotalDetailSteps 1514039400000##7189##549659##8661##16256##28163940,1
+94175204,onExtend 1514039520000 0 0 0,1
+8d168acd,timeStamp back extendReportTimeStamp 1514039575000,1
+1fd6080e,getTodayTotalDetailSteps 1514039400000##7189##549659##8661##16256##28163940,1
+4db61afa,setTodayTotalDetailSteps 1514039400000##7189##549659##8661##16256##28164276,1
+3ba40b70,startTimer start autoSync,3
+c033a277,onExtend 1514039590000 0 0 5,1
+0966269f,getTodayTotalDetailSteps 1514039400000##7189##549659##8661##16256##28164276,1
+19631cbe,setTodayTotalDetailSteps 1514039520000##7189##549659##8661##16256##28234547,1
+92ebedef,onExtend 1514039626000 0 0 0,2
+ffe25ff0,getTodayTotalDetailSteps 1514039520000##7189##549659##8661##16256##28234547,1
+41840ffc,setTodayTotalDetailSteps 1514039520000##7189##549659##8661##16256##28270623,1
+96069adf,getTodayTotalDetailSteps 1514039520000##7189##549659##8661##16256##28270623,1
+08245667,setTodayTotalDetailSteps 1514039520000##7189##549659##8661##16256##28270935,1
+78269c6f,onExtend 1514039834000 0 0 5,1
+8ff39ccf,getTodayTotalDetailSteps 1514039520000##7189##549659##8661##16256##28270935,1
+b50f6e1f,setTodayTotalDetailSteps 1514039760000##7189##549659##8661##16256##28479559,1
+85a8ab5d,onExtend 1514039857000 0 0 5,1
+e52d5ecf,onExtend 1514039917000 0 0 5,1
+6893457e,onExtend 1514039977000 0 0 0,1
+260e3d25,getTodayTotalDetailSteps 1514039760000##7189##549659##8661##16256##28479559,1
+c4440257,setTodayTotalDetailSteps 1514039880000##7189##549659##8661##16256##28609620,1
+1ca96548,onExtend 1514039965000 0 0 0,1
+ae0c3edf,timeStamp back extendReportTimeStamp 1514039977000,1
+cbabdb90,getTodayTotalDetailSteps 1514039880000##7189##549659##8661##16256##28609620,1
+f7309d1a,setTodayTotalDetailSteps 1514039880000##7189##549659##8661##16256##28609933,1
+b417e246,onExtend 1514040348000 0 0 5,1
+0843f727,getTodayTotalDetailSteps 1514039880000##7189##549659##8661##16256##28609933,1
+2eecf651,setTodayTotalDetailSteps 1514040240000##7189##549659##8661##16256##28993578,1
+2ff6b4f4,onExtend 1514040354000 0 0 0,1
+3af3b64b,getTodayTotalDetailSteps 1514040240000##7189##549659##8661##16256##28993578,1
+85f7dbf1,setTodayTotalDetailSteps 1514040240000##7189##549659##8661##16256##28999575,1
+af2a8e49,onExtend 1514040662000 0 0 5,1
+eedb6a83,getTodayTotalDetailSteps 1514040240000##7189##549659##8661##16256##28999575,1
+f7286b84,setTodayTotalDetailSteps 1514040600000##7189##549659##8661##16256##29307585,1
+f82bcabb,onExtend 1514040697000 0 0 0,2
+2f66fb9d,getTodayTotalDetailSteps 1514040600000##7189##549659##8661##16256##29307585,1
+294bbb73,setTodayTotalDetailSteps 1514040600000##7189##549659##8661##16256##29341612,1
+dfd047c6,getTodayTotalDetailSteps 1514040600000##7189##549659##8661##16256##29341612,1
+8a87ae42,setTodayTotalDetailSteps 1514040600000##7189##549659##8661##16256##29341927,1
+8ea9805b,onExtend 1514040700000 0 0 0,1
+b192c740,getTodayTotalDetailSteps 1514040600000##7189##549659##8661##16256##29341927,1
+88e7fc0d,setTodayTotalDetailSteps 1514040600000##7189##549659##8661##16256##29344951,1
+286e9dd0,onExtend 1514040708000 0 0 5,1
+55013c11,getTodayTotalDetailSteps 1514040600000##7189##549659##8661##16256##29344951,1
+b535a380,setTodayTotalDetailSteps 1514040600000##7189##549659##8661##16256##29353602,1
+683b455e,onExtend 1514040766000 0 0 5,2
+e37d64a4,getTodayTotalDetailSteps 1514040600000##7189##549659##8661##16256##29353602,1
+8f1b2508,setTodayTotalDetailSteps 1514040660000##7189##549659##8661##16256##29409806,1
+357de9db,getTodayTotalDetailSteps 1514040660000##7189##549659##8661##16256##29409806,1
+e27646fe,setTodayTotalDetailSteps 1514040660000##7189##549659##8661##16256##29410120,1
+c07e8ed7,onExtend 1514040766000 0 0 0,1
+e577f20f,getTodayTotalDetailSteps 1514040660000##7189##549659##8661##16256##29410120,1
+059283ad,setTodayTotalDetailSteps 1514040660000##7189##549659##8661##16256##29410605,1
+86d71dbd,onExtend 1514040772000 0 0 5,1
+d9de2d02,getTodayTotalDetailSteps 1514040660000##7189##549659##8661##16256##29410605,1
+5ca6c081,setTodayTotalDetailSteps 1514040660000##7189##549659##8661##16256##29416607,1
+c484580e,onExtend 1514040776000 0 0 5,1
+db173439,onExtend 1514040836000 0 0 0,1
+66cdfe0a,getTodayTotalDetailSteps 1514040660000##7189##549659##8661##16256##29416607,1
+3367b928,setTodayTotalDetailSteps 1514040720000##7189##549659##8661##16256##29425533,1
+84e64c9d,onExtend 1514040781000 0 0 0,1
+94c783cf,timeStamp back extendReportTimeStamp 1514040836000,1
+4bca36f0,getTodayTotalDetailSteps 1514040720000##7189##549659##8661##16256##29425533,1
+9676ae59,setTodayTotalDetailSteps 1514040720000##7189##549659##8661##16256##29425847,1
+336f3f1e,onExtend 1514040786000 0 0 5,1
+343c6473,getTodayTotalDetailSteps 1514040720000##7189##549659##8661##16256##29425847,1
+9c1a2efe,setTodayTotalDetailSteps 1514040720000##7189##549659##8661##16256##29431618,1
+dd5bc4dd,onExtend 1514040793000 0 0 5,2
+cec7495f,getTodayTotalDetailSteps 1514040720000##7189##549659##8661##16256##29431618,1
+ef820c45,setTodayTotalDetailSteps 1514040720000##7189##549659##8661##16256##29437037,1
+fcbbdc9e,onExtend 1514040793000 0 0 0,1
+72359432,getTodayTotalDetailSteps 1514040720000##7189##549659##8661##16256##29437037,1
+c7f88094,setTodayTotalDetailSteps 1514040720000##7189##549659##8661##16256##29437358,1
+04a24e3b,onExtend 1514040895000 0 0 5,1
+d097fb44,getTodayTotalDetailSteps 1514040720000##7189##549659##8661##16256##29437358,1
+c5323d62,setTodayTotalDetailSteps 1514040780000##7189##549659##8661##16256##29539649,1
+928fe5c1,onExtend 1514040956000 0 0 5,2
+6db1b811,getTodayTotalDetailSteps 1514040780000##7189##549659##8661##16256##29539649,1
+d9e8aa20,setTodayTotalDetailSteps 1514040840000##7189##549659##8661##16256##29600053,1
+4d65ba60,onExtend 1514040956000 0 0 0,1
+41b52f77,getTodayTotalDetailSteps 1514040840000##7189##549659##8661##16256##29600053,1
+3f7566d5,setTodayTotalDetailSteps 1514040840000##7189##549659##8661##16256##29600372,1
+2efba609,onExtend 1514040966000 0 0 5,1
+52bee27e,onExtend 1514041026000 0 0 5,1
+4e099335,onExtend 1514041086000 0 0 5,1
+6407be48,onExtend 1514041146000 0 0 5,1
+ca0a945f,onExtend 1514041206000 0 0 5,1
+8180c522,onExtend 1514041266000 0 0 5,1
+a90e5304,onExtend 1514041326000 0 0 5,1
+caa9628f,onExtend 1514041386000 0 0 5,1
+3f9d9819,onExtend 1514041446000 0 0 5,1
+4f23b533,onExtend 1514041506000 0 0 5,1
+eaa356f2,onExtend 1514041566000 0 0 5,1
+69716935,onExtend 1514041626000 0 0 5,1
+3e9618bc,getTodayTotalDetailSteps 1514040840000##7189##549659##8661##16256##29600372,1
+b4467d65,setTodayTotalDetailSteps 1514041560000##7189##549659##8661##16256##30270445,1
+86ea1491,onExtend 1514041627000 0 0 5,1
+524ceb5e,getTodayTotalDetailSteps 1514041560000##7189##549659##8661##16256##30270445,1
+db51b76b,setTodayTotalDetailSteps 1514041560000##7189##549659##8661##16256##30270764,1
+743a2501,onExtend 1514041627000 0 0 0,1
+36dbe723,getTodayTotalDetailSteps 1514041560000##7189##549659##8661##16256##30270764,1
+be584734,setTodayTotalDetailSteps 1514041560000##7189##549659##8661##16256##30271693,1
+e89aa876,getTodaySportData mStepsRecordManager com.huawei.health.g.c@8a2a501,6
+6c25b2fe,getTodayTotalDetailSteps 1514041560000##7189##549659##8661##16256##30271693,1
+891f8742,setTodayTotalDetailSteps 1514041560000##7189##549659##8661##16256##30314585,1
+15cb5d23,getTodayTotalDetailSteps 1514041560000##7189##549659##8661##16256##30314585,1
+4f24f5b6,setTodayTotalDetailSteps 1514041560000##7189##549659##8661##16256##30315546,1
+8664a97e,getTodayTotalDetailSteps 1514041560000##7189##549659##8661##16256##30315546,1
+17ae075a,setTodayTotalDetailSteps 1514041620000##7189##549659##8661##16256##30333554,1
+c2aaad4d,onExtend 1514041699000 0 0 5,1
+22f38bea,getTodayTotalDetailSteps 1514041620000##7189##549659##8661##16256##30333554,1
+7360a01e,setTodayTotalDetailSteps 1514041620000##7189##549659##8661##16256##30343722,1
+58b4db22,onExtend 1514041722000 0 0 5,1
+ea131f92,onExtend 1514041782000 0 0 5,1
+6b079bd2,onExtend 1514041842000 0 0 5,1
+a44ac9b6,onExtend 1514041902000 0 0 5,1
+0b64ed0b,onExtend 1514041962000 0 0 5,1
+82932c00,onExtend 1514042022000 0 0 5,1
+4f93472e,onExtend 1514042082000 0 0 5,1
+55bb4089,getTodayTotalDetailSteps 1514041620000##7189##549659##8661##16256##30343722,1
+28e68347,setTodayTotalDetailSteps 1514041980000##7189##549659##8661##16256##30708710,1
+a59b3a98,onExtend 1514042064000 0 0 5,1
+89774c81,timeStamp back extendReportTimeStamp 1514042082000,1
+9e7f6489,getTodayTotalDetailSteps 1514041980000##7189##549659##8661##16256##30708710,1
+0cb8dda3,setTodayTotalDetailSteps 1514041980000##7189##549659##8661##16256##30709030,1
+9adb94cc,onExtend 1514042064000 0 0 0,1
+ab0e092d,getTodayTotalDetailSteps 1514041980000##7189##549659##8661##16256##30709030,1
+a6bfb921,setTodayTotalDetailSteps 1514041980000##7189##549659##8661##16256##30709727,1
+a7716ba8,onStandStepChanged 3763,1
+2bc53037,onExtend 1514042082000 2 0 0,1
+f5d386ce,getTodayTotalDetailSteps 1514041980000##7189##549659##8661##16256##30709727,1
+c12cb5a8,setTodayTotalDetailSteps 1514041980000##7191##549659##8661##16256##30727229,1
+f355823f,calculateCaloriesWithCache totalCalories 130715,1
+f418eb38,REPORT 7191 5134 154031 240,1
+1f2e9836,onStandStepChanged 3764,1
+a30b8593,onExtend 1514042082000 1 0 4,1
+eb5ca24b,getTodayTotalDetailSteps 1514041980000##7191##549659##8661##16256##30727229,1
+054a652a,setTodayTotalDetailSteps 1514041980000##7192##549659##8661##16256##30727733,1
+f9860751,calculateCaloriesWithCache totalCalories 130737,1
+73dbdcca,REPORT 7192 5135 154052 240,1
+fe8ba518,onStandStepChanged 3765,1
+8df13dc2,onExtend 1514042083000 1 0 4,1
+4d635c51,getTodayTotalDetailSteps 1514041980000##7192##549659##8661##16256##30727733,1
+d04c78b6,setTodayTotalDetailSteps 1514041980000##7193##549659##8661##16256##30728232,1
+fc640234,calculateCaloriesWithCache totalCalories 130758,1
+b4f90281,REPORT 7193 5135 154074 240,1
+ab4354c8,onStandStepChanged 3768,1
+ffecfaa9,onExtend 1514042083000 3 0 4,1
+cf0d9a12,getTodayTotalDetailSteps 1514041980000##7193##549659##8661##16256##30728232,1
+fec7d603,setTodayTotalDetailSteps 1514041980000##7196##549659##8661##16256##30728728,1
+f24dbd51,calculateCaloriesWithCache totalCalories 130822,1
+9c845559,REPORT 7196 5137 154138 240,1
+9fc6e880,onStandStepChanged 3770,1
+1f325d95,onExtend 1514042084000 2 0 4,2
+02e7e566,getTodayTotalDetailSteps 1514041980000##7196##549659##8661##16256##30728728,1
+5d7d674b,setTodayTotalDetailSteps 1514041980000##7198##549659##8661##16256##30729233,1
+80d39ebd,calculateCaloriesWithCache totalCalories 130865,1
+f36dad16,REPORT 7198 5139 154181 240,1
+9aa2c2ee,onStandStepChanged 3772,1
+6cd4606c,getTodayTotalDetailSteps 1514041980000##7198##549659##8661##16256##30729233,1
+76739a3e,setTodayTotalDetailSteps 1514041980000##7200##549659##8661##16256##30729733,1
+9d7fc967,calculateCaloriesWithCache totalCalories 130908,1
+9137e45a,REPORT 7200 5140 154223 240,1
+a27c7886,onStandStepChanged 3774,1
+3f33a1a5,onExtend 1514042085000 2 0 4,1
+bf5544dc,getTodayTotalDetailSteps 1514041980000##7200##549659##8661##16256##30729733,1
+a46e3f94,setTodayTotalDetailSteps 1514041980000##7202##549659##8661##16256##30730227,1
+e1be0f00,calculateCaloriesWithCache totalCalories 130951,1
+7d2d9f52,REPORT 7202 5142 154266 240,1
+7bb87b65,onStandStepChanged 3777,1
+2d8a7007,onExtend 1514042085000 3 0 4,1
+cf7df897,getTodayTotalDetailSteps 1514041980000##7202##549659##8661##16256##30730227,1
+ef4c97d7,setTodayTotalDetailSteps 1514041980000##7205##549659##8661##16256##30730728,1
+7ace2623,calculateCaloriesWithCache totalCalories 131015,1
+4857b4b5,REPORT 7205 5144 154331 240,1
+27b04f3f,onStandStepChanged 3780,1
+694dbd99,onExtend 1514042086000 3 0 4,2
+ff4bcdd0,getTodayTotalDetailSteps 1514041980000##7205##549659##8661##16256##30730728,1
+59412417,setTodayTotalDetailSteps 1514041980000##7208##549659##8661##16256##30731232,1
+3623d700,calculateCaloriesWithCache totalCalories 131079,1
+0d1f505f,REPORT 7208 5146 154395 240,1
+53e8c344,onStandStepChanged 3783,1
+1cd9ad0a,getTodayTotalDetailSteps 1514041980000##7208##549659##8661##16256##30731232,1
+6488b6c9,setTodayTotalDetailSteps 1514041980000##7211##549659##8661##16256##30731730,1
+3e0fb638,calculateCaloriesWithCache totalCalories 131144,1
+557122af,REPORT 7211 5148 154459 240,1
+02cc2b84,onStandStepChanged 3784,1
+20adfc74,onExtend 1514042087000 1 0 4,1
+4ee2aef4,getTodayTotalDetailSteps 1514041980000##7211##549659##8661##16256##30731730,1
+f790d6c7,setTodayTotalDetailSteps 1514041980000##7212##549659##8661##16256##30732729,1
+106a7395,calculateCaloriesWithCache totalCalories 131165,1
+94a2d22b,REPORT 7212 5149 154481 240,1
+46053b8c,onStandStepChanged 3786,73
+0241ea58,onExtend 1514042088000 2 0 4,1
+0fbdbfbc,getTodayTotalDetailSteps 1514041980000##7212##549659##8661##16256##30732729,1
+5048d5bc,setTodayTotalDetailSteps 1514041980000##7214##549659##8661##16256##30733226,1
+b7b10f9f,calculateCaloriesWithCache totalCalories 131208,47
+fb10eec7,REPORT 7214 5150 154523 240,3
+99250daa,onExtend 1514042091000 0 0 0,1
+fa0408f8,getTodayTotalDetailSteps 1514041980000##7214##549659##8661##16256##30733226,1
+99281bb1,setTodayTotalDetailSteps 1514041980000##7214##549659##8661##16256##30736730,1
+87db6c66,onExtend 1514042182000 0 0 5,1
+1413e70f,getTodayTotalDetailSteps 1514041980000##7214##549659##8661##16256##30736730,1
+5376dcb5,setTodayTotalDetailSteps 1514042100000##7214##549659##8661##16256##30827730,1
+f1ff35cc,onExtend 1514042205000 0 0 5,1
+ca1f2477,onExtend 1514042265000 0 0 0,1
+828940ee,getTodayTotalDetailSteps 1514042100000##7214##549659##8661##16256##30827730,1
+5df17bc8,setTodayTotalDetailSteps 1514042160000##7214##549659##8661##16256##30905315,1
+6c9919f1,onExtend 1514042261000 0 0 0,1
+6c6c2c0f,timeStamp back extendReportTimeStamp 1514042265000,1
+0a1e5023,getTodayTotalDetailSteps 1514042160000##7214##549659##8661##16256##30905315,1
+636a85c9,setTodayTotalDetailSteps 1514042160000##7214##549659##8661##16256##30905625,1
+f80da96c,onExtend 1514042262000 0 0 0,2
+a253a9b4,getTodayTotalDetailSteps 1514042160000##7214##549659##8661##16256##30905625,1
+21d1db44,setTodayTotalDetailSteps 1514042160000##7214##549659##8661##16256##30906310,1
+60381374,getTodayTotalDetailSteps 1514042160000##7214##549659##8661##16256##30906310,1
+d25de972,setTodayTotalDetailSteps 1514042160000##7214##549659##8661##16256##30906710,1
+66e12f86,onExtend 1514042360000 0 0 5,1
+cf8f196b,getTodayTotalDetailSteps 1514042160000##7214##549659##8661##16256##30906710,1
+3d4c87ed,setTodayTotalDetailSteps 1514042280000##7214##549659##8661##16256##31004759,1
+5423d0ff,onExtend 1514042361000 0 0 0,1
+013302b2,getTodayTotalDetailSteps 1514042280000##7214##549659##8661##16256##31004759,1
+0a946006,setTodayTotalDetailSteps 1514042280000##7214##549659##8661##16256##31005759,1
+23a3fcb8,onExtend 1514042595000 0 0 5,1
+6c3df8b8,getTodayTotalDetailSteps 1514042280000##7214##549659##8661##16256##31005759,1
+3b70f992,setTodayTotalDetailSteps 1514042520000##7214##549659##8661##16256##31239760,1
+03b2f49b,onExtend 1514042599000 0 0 0,1
+092b6d92,getTodayTotalDetailSteps 1514042520000##7214##549659##8661##16256##31239760,1
+24b62fb0,setTodayTotalDetailSteps 1514042520000##7214##549659##8661##16256##31243766,1
+0566c1e0,onExtend 1514042944000 0 0 5,1
+76bb8ccd,getTodayTotalDetailSteps 1514042520000##7214##549659##8661##16256##31243766,1
+bf9048f6,setTodayTotalDetailSteps 1514042880000##7214##549659##8661##16256##31588757,1
+4b8e0135,onExtend 1514042945000 0 0 0,1
+d010bc0a,getTodayTotalDetailSteps 1514042880000##7214##549659##8661##16256##31588757,1
+75158944,setTodayTotalDetailSteps 1514042880000##7214##549659##8661##16256##31589757,1
+d86506c9,onExtend 1514043434000 0 0 5,1
+1cfb78e5,getTodayTotalDetailSteps 1514042880000##7214##549659##8661##16256##31589757,1
+c5c52de4,setTodayTotalDetailSteps 1514043360000##7214##549659##8661##16256##32078759,1
+dfaa8343,onExtend 1514043436000 0 0 0,1
+bf4ab75a,getTodayTotalDetailSteps 1514043360000##7214##549659##8661##16256##32078759,1
+a69bcf4d,setTodayTotalDetailSteps 1514043360000##7214##549659##8661##16256##32080760,1
+70502886,onExtend 1514043610000 0 0 5,1
+cb6d9e72,getTodayTotalDetailSteps 1514043360000##7214##549659##8661##16256##32080760,1
+40fc7d10,setTodayTotalDetailSteps 1514043540000##7214##549659##8661##16256##32254765,1
+e7662350,onExtend 1514043614000 0 0 0,1
+59c13b0b,getTodayTotalDetailSteps 1514043540000##7214##549659##8661##16256##32254765,1
+ad0d1c22,setTodayTotalDetailSteps 1514043540000##7214##549659##8661##16256##32258759,1
+7ae6bd8f,onExtend 1514043759000 0 0 0,1
+f7e8d291,getTodayTotalDetailSteps 1514043540000##7214##549659##8661##16256##32258759,1
+eff5a2b6,setTodayTotalDetailSteps 1514043660000##7214##549659##8661##16256##32403526,1
+b28ad7de,onExtend 1514043967000 0 0 5,1
+d3dee11f,getTodayTotalDetailSteps 1514043660000##7214##549659##8661##16256##32403526,1
+24fbbd50,setTodayTotalDetailSteps 1514043900000##7214##549659##8661##16256##32611763,1
+9c50a9a8,onExtend 1514043974000 0 0 0,1
+fa1c31dd,getTodayTotalDetailSteps 1514043900000##7214##549659##8661##16256##32611763,1
+27f0c329,setTodayTotalDetailSteps 1514043900000##7214##549659##8661##16256##32618758,1
+26d71ea5,onExtend 1514044249000 0 0 0,1
+d900ffcf,getTodayTotalDetailSteps 1514043900000##7214##549659##8661##16256##32618758,1
+e26183f1,setTodayTotalDetailSteps 1514044140000##7214##549659##8661##16256##32893026,1
+daacc82d,onExtend 1514044377000 0 0 5,1
+5aed1f9c,getTodayTotalDetailSteps 1514044140000##7214##549659##8661##16256##32893026,1
+96322a14,setTodayTotalDetailSteps 1514044260000##7214##549659##8661##16256##33021763,1
+d75a079d,onExtend 1514044380000 0 0 0,1
+74228dab,getTodayTotalDetailSteps 1514044260000##7214##549659##8661##16256##33021763,1
+a63a1693,setTodayTotalDetailSteps 1514044320000##7214##549659##8661##16256##33024761,1
+c31679f2,onExtend 1514044395000 0 0 5,1
+3cba2ace,getTodayTotalDetailSteps 1514044320000##7214##549659##8661##16256##33024761,1
+001bf54f,setTodayTotalDetailSteps 1514044320000##7214##549659##8661##16256##33039758,1
+2d89db3f,onExtend 1514044397000 0 0 0,1
+a8ad9da9,getTodayTotalDetailSteps 1514044320000##7214##549659##8661##16256##33039758,1
+fe0ead76,setTodayTotalDetailSteps 1514044320000##7214##549659##8661##16256##33041763,1
+67a194f4,onExtend 1514044405000 0 0 5,1
+178cc90b,getTodayTotalDetailSteps 1514044320000##7214##549659##8661##16256##33041763,1
+e8e55a48,setTodayTotalDetailSteps 1514044320000##7214##549659##8661##16256##33049759,1
+3e8830fe,onExtend 1514044411000 0 0 0,1
+932a658c,getTodayTotalDetailSteps 1514044320000##7214##549659##8661##16256##33049759,1
+cd7db7ad,setTodayTotalDetailSteps 1514044320000##7214##549659##8661##16256##33055760,1
+bbb14ada,onExtend 1514044420000 0 0 5,1
+d0c7e868,getTodayTotalDetailSteps 1514044320000##7214##549659##8661##16256##33055760,1
+eb630cf0,setTodayTotalDetailSteps 1514044320000##7214##549659##8661##16256##33064766,1
+f8a4ba98,onExtend 1514044422000 0 0 0,1
+cb10ce35,getTodayTotalDetailSteps 1514044320000##7214##549659##8661##16256##33064766,1
+d764bc20,setTodayTotalDetailSteps 1514044320000##7214##549659##8661##16256##33066759,1
+50a42a63,onExtend 1514044431000 0 0 5,1
+0b2a69f1,getTodayTotalDetailSteps 1514044320000##7214##549659##8661##16256##33066759,1
+a5003b59,setTodayTotalDetailSteps 1514044320000##7214##549659##8661##16256##33075759,1
+6b1d9418,onExtend 1514044437000 0 0 0,1
+53e73b8e,getTodayTotalDetailSteps 1514044320000##7214##549659##8661##16256##33075759,1
+42865b25,setTodayTotalDetailSteps 1514044320000##7214##549659##8661##16256##33081765,1
+d3040d31,onExtend 1514044468000 0 0 5,1
+332fbe60,getTodayTotalDetailSteps 1514044320000##7214##549659##8661##16256##33081765,1
+195039af,setTodayTotalDetailSteps 1514044380000##7214##549659##8661##16256##33112771,1
+6f1e2b48,onExtend 1514044469000 0 0 0,1
+d6ee54fc,getTodayTotalDetailSteps 1514044380000##7214##549659##8661##16256##33112771,1
+fac074d4,setTodayTotalDetailSteps 1514044380000##7214##549659##8661##16256##33113758,1
+435bd935,onExtend 1514044474000 0 0 5,1
+0156e917,getTodayTotalDetailSteps 1514044380000##7214##549659##8661##16256##33113758,1
+230a644f,setTodayTotalDetailSteps 1514044380000##7214##549659##8661##16256##33118758,1
+775c6f4e,onExtend 1514044475000 0 0 0,1
+19275e3b,getTodayTotalDetailSteps 1514044380000##7214##549659##8661##16256##33118758,1
+f2f2c50e,setTodayTotalDetailSteps 1514044380000##7214##549659##8661##16256##33119761,1
+a5e23329,onExtend 1514044485000 0 0 5,1
+6fbb4083,getTodayTotalDetailSteps 1514044380000##7214##549659##8661##16256##33119761,1
+2071807e,setTodayTotalDetailSteps 1514044380000##7214##549659##8661##16256##33129767,1
+5c618383,onExtend 1514044487000 0 0 0,1
+9e75cacd,getTodayTotalDetailSteps 1514044380000##7214##549659##8661##16256##33129767,1
+62e8e2e7,setTodayTotalDetailSteps 1514044380000##7214##549659##8661##16256##33131773,1
+0033801b,onExtend 1514044494000 0 0 5,1
+84de0cd5,getTodayTotalDetailSteps 1514044380000##7214##549659##8661##16256##33131773,1
+a247ec27,setTodayTotalDetailSteps 1514044380000##7214##549659##8661##16256##33138759,1
+668e9da1,onExtend 1514044496000 0 0 0,1
+18e8432d,getTodayTotalDetailSteps 1514044380000##7214##549659##8661##16256##33138759,1
+eb6e28a0,setTodayTotalDetailSteps 1514044380000##7214##549659##8661##16256##33140770,1
+8b02730b,onExtend 1514044524000 0 0 5,1
+5f7e351e,getTodayTotalDetailSteps 1514044380000##7214##549659##8661##16256##33140770,1
+8d2952ba,setTodayTotalDetailSteps 1514044440000##7214##549659##8661##16256##33168762,1
+72e615bf,onExtend 1514044525000 0 0 0,1
+dc75a946,getTodayTotalDetailSteps 1514044440000##7214##549659##8661##16256##33168762,1
+f12d1cc2,setTodayTotalDetailSteps 1514044440000##7214##549659##8661##16256##33169760,1
+bb270c8c,onExtend 1514044572000 0 0 5,1
+5dc1d0ca,getTodayTotalDetailSteps 1514044440000##7214##549659##8661##16256##33169760,1
+cebf3d4d,setTodayTotalDetailSteps 1514044500000##7214##549659##8661##16256##33216767,1
+ab5cb284,onExtend 1514044573000 0 0 0,1
+600514c0,getTodayTotalDetailSteps 1514044500000##7214##549659##8661##16256##33216767,1
+9c9b5de7,setTodayTotalDetailSteps 1514044500000##7214##549659##8661##16256##33217764,1
+e666e0a1,onExtend 1514044588000 0 0 5,1
+aef02d68,getTodayTotalDetailSteps 1514044500000##7214##549659##8661##16256##33217764,1
+87b2ffd7,setTodayTotalDetailSteps 1514044500000##7214##549659##8661##16256##33232763,1
+048eed82,onExtend 1514044595000 0 0 0,1
+db34737c,getTodayTotalDetailSteps 1514044500000##7214##549659##8661##16256##33232763,1
+2e3ccbf5,setTodayTotalDetailSteps 1514044500000##7214##549659##8661##16256##33239758,1
+d197475b,onExtend 1514044654000 0 0 5,1
+5a71d3b9,getTodayTotalDetailSteps 1514044500000##7214##549659##8661##16256##33239758,1
+152388af,setTodayTotalDetailSteps 1514044560000##7214##549659##8661##16256##33298759,1
+c5ed7236,onExtend 1514044662000 0 0 0,1
+57e05cc1,getTodayTotalDetailSteps 1514044560000##7214##549659##8661##16256##33298759,1
+19bb5b3b,setTodayTotalDetailSteps 1514044560000##7214##549659##8661##16256##33306763,1
+e1fe8d25,theDayChanged 1514044800216,1
+e788f919,initEnviroument,1
+3244bf49,getStepCounterStatus,2
+86bcfaea,reStartStepCounter,1
+bbf9ad1c,registersensorsuccess true,1
+3616b800,clear(),1
+e984b0b7,getTodayBasicStandardSteps 1514018661124##0##3428,1
+00d03c97,tryToRecordAsBasicStepData bWrite true,1
+77393e0e,getDiffTotalSteps 1513958400215##0,1
+facd1a62,setBasicStandardSteps basicStandardStep 3786 restartSteps 0,1
+ce783cea,setDiffTotalSteps 0,1
+68e70e26,getTodayTotalDetailSteps 1514044560000##7214##549659##8661##16256##33306763,2
+b9662614,getTodayBasicStandardSteps 1514044800223##3786##0,1
+ba93ceca,getDiffTotalSteps 1514044800231##0,1
+71ffe66c,tryToReloadTodayBasicSteps1514044800223|3786|0|0,1
+c4ae1232,reload 3786 restar 0,1
+9e3a0e2d,setTodayTotalDetailSteps 1514044740000##0##549659##8661##16256##33444553,1
+84c9e21d,calculateCaloriesWithCache totalCalories 0,24
+76a0f7d0,calculateAltitudeWithCache totalAltitude 0,24
+5203c108,REPORT 0 0 0 0,1
+3752bcc6,next day steps0mLastReport7214,1
+9bf7cf41,setGoalNotifiShownRecord 1514044800237 false,1
+8e523808,closeNotification...,1
+c5a628cf,deleteHealthNotification(),1
+3b34d079,onExtend 1514044801000 0 0 0,1
+1c3a91a2,getTodayTotalDetailSteps 1514044740000##0##549659##8661##16256##33444553,1
+c7afe45e,setTodayTotalDetailSteps 1514044740000##0##549659##8661##16256##33444943,1
+03367629,onExtend 1514044805000 0 0 5,1
+206a65f9,getTodayTotalDetailSteps 1514044740000##0##549659##8661##16256##33444943,1
+da3813eb,setTodayTotalDetailSteps 1514044740000##0##549659##8661##16256##33449757,1
+d776407d,onExtend 1514044806000 0 0 0,1
+9987238e,getTodayTotalDetailSteps 1514044740000##0##549659##8661##16256##33449757,1
+b2a0dc46,setTodayTotalDetailSteps 1514044740000##0##549659##8661##16256##33450764,1
+3b8c4ffa,onExtend 1514045123000 0 0 0,1
+a716bf12,getTodayTotalDetailSteps 1514044740000##0##549659##8661##16256##33450764,1
+fc074220,setTodayTotalDetailSteps 1514045040000##0##549659##8661##16256##33767093,1
+441662b6,onExtend 1514045177000 0 0 0,1
+982b570a,getTodayTotalDetailSteps 1514045040000##0##549659##8661##16256##33767093,1
+3f4409fe,setTodayTotalDetailSteps 1514045100000##0##549659##8661##16256##33821183,1
+6129aed3,onExtend 1514045222000 0 0 5,1
+219356f6,getTodayTotalDetailSteps 1514045100000##0##549659##8661##16256##33821183,1
+546f5382,setTodayTotalDetailSteps 1514045160000##0##549659##8661##16256##33866758,1
+c34b05d2,onExtend 1514045224000 0 0 0,1
+7a63df05,getTodayTotalDetailSteps 1514045160000##0##549659##8661##16256##33866758,1
+a3472962,setTodayTotalDetailSteps 1514045160000##0##549659##8661##16256##33868758,1
+b9adc19a,onExtend 1514045240000 0 0 5,1
+652ca7d8,getTodayTotalDetailSteps 1514045160000##0##549659##8661##16256##33868758,1
+4c6eafa9,setTodayTotalDetailSteps 1514045160000##0##549659##8661##16256##33884757,1
+cc9f59c2,onExtend 1514045241000 0 0 0,1
+3be2a340,getTodayTotalDetailSteps 1514045160000##0##549659##8661##16256##33884757,1
+d3aa770c,setTodayTotalDetailSteps 1514045160000##0##549659##8661##16256##33885759,1
+ab2d1995,onExtend 1514045344000 0 0 5,1
+1972b783,getTodayTotalDetailSteps 1514045160000##0##549659##8661##16256##33885759,1
+232f9bc8,setTodayTotalDetailSteps 1514045280000##0##549659##8661##16256##33988760,1
+f761a65b,onExtend 1514045346000 0 0 0,1
+f050ce56,getTodayTotalDetailSteps 1514045280000##0##549659##8661##16256##33988760,1
+b6c43bed,setTodayTotalDetailSteps 1514045280000##0##549659##8661##16256##33990761,1
+27181e5b,onExtend 1514045374000 0 0 5,1
+dbe62e88,getTodayTotalDetailSteps 1514045280000##0##549659##8661##16256##33990761,1
+d387b147,setTodayTotalDetailSteps 1514045280000##0##549659##8661##16256##34018758,1
+4a26015d,onExtend 1514045375000 0 0 0,1
+efed91a3,getTodayTotalDetailSteps 1514045280000##0##549659##8661##16256##34018758,1
+8c986bc2,setTodayTotalDetailSteps 1514045280000##0##549659##8661##16256##34019759,1
+01980f02,onExtend 1514045409000 0 0 5,1
+72e5396a,getTodayTotalDetailSteps 1514045280000##0##549659##8661##16256##34019759,1
+be184296,setTodayTotalDetailSteps 1514045340000##0##549659##8661##16256##34053757,1
+e22f6088,onExtend 1514045410000 0 0 0,1
+efa449e5,getTodayTotalDetailSteps 1514045340000##0##549659##8661##16256##34053757,1
+a08eb25b,setTodayTotalDetailSteps 1514045340000##0##549659##8661##16256##34054759,1
+f5e4c86c,onExtend 1514045442000 0 0 5,1
+18139437,getTodayTotalDetailSteps 1514045340000##0##549659##8661##16256##34054759,1
+33203048,setTodayTotalDetailSteps 1514045340000##0##549659##8661##16256##34086757,1
+0d20feb3,onExtend 1514045443000 0 0 0,1
+d0e70e2a,getTodayTotalDetailSteps 1514045340000##0##549659##8661##16256##34086757,1
+62559ad8,setTodayTotalDetailSteps 1514045340000##0##549659##8661##16256##34087759,1
+b480616c,onExtend 1514045516000 0 0 5,1
+a9185aa7,getTodayTotalDetailSteps 1514045340000##0##549659##8661##16256##34087759,1
+4cc3fea6,setTodayTotalDetailSteps 1514045400000##0##549659##8661##16256##34160765,1
+1d1cacc6,onExtend 1514045517000 0 0 0,1
+bbfc5204,getTodayTotalDetailSteps 1514045400000##0##549659##8661##16256##34160765,1
+8ec0ad8c,setTodayTotalDetailSteps 1514045400000##0##549659##8661##16256##34161762,1
+aa5ed0fc,onExtend 1514045753000 0 0 0,1
+a8d2cbcf,getTodayTotalDetailSteps 1514045400000##0##549659##8661##16256##34161762,1
+cabb93ea,setTodayTotalDetailSteps 1514045640000##0##549659##8661##16256##34397604,1
+c5096181,onExtend 1514046316000 0 0 5,1
+4ec81b5a,getTodayTotalDetailSteps 1514045640000##0##549659##8661##16256##34397604,1
+4960704d,setTodayTotalDetailSteps 1514046240000##0##549659##8661##16256##34960758,1
+4d89fa07,onExtend 1514046317000 0 0 0,1
+e1678e8a,getTodayTotalDetailSteps 1514046240000##0##549659##8661##16256##34960758,1
+5b491ecd,setTodayTotalDetailSteps 1514046240000##0##549659##8661##16256##34961757,1
+c1fab1cb,onExtend 1514046505000 0 0 5,1
+5b9e17a9,getTodayTotalDetailSteps 1514046240000##0##549659##8661##16256##34961757,1
+e1164da9,setTodayTotalDetailSteps 1514046420000##0##549659##8661##16256##35149773,1
+931b994e,checkCurrentDay a new day comes reset basicSyncCondition currentDay is 20171224 oldDay is 20171223,1

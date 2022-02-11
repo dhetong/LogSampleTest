@@ -30,7 +30,7 @@ Logparser provides a toolkit and benchmarks for automated log parsing, which is 
 | LenMa | [**CNSM'15**] [Length Matters: Clustering System Log Messages using Length of Words](https://arxiv.org/pdf/1611.03213.pdf), by Keiichi Shima. |
 | LogMine | [**CIKM'16**] [LogMine: Fast Pattern Recognition for Log Analytics](http://www.cs.unm.edu/~mueen/Papers/LogMine.pdf), by Hossein Hamooni, Biplob Debnath, Jianwu Xu, Hui Zhang, Geoff Jiang, Adbullah Mueen. [**NEC**] |
 | Spell | [**ICDM'16**] [Spell: Streaming Parsing of System Event Logs](https://www.cs.utah.edu/~lifeifei/papers/spell.pdf), by Min Du, Feifei Li.  |
-| Drain | [**ICWS'17**] [Drain: An Online Log Parsing Approach with Fixed Depth Tree](https://jiemingzhu.github.io/pub/pjhe_icws2017.pdf), by Pinjia He, Jieming Zhu, Zibin Zheng, and Michael R. Lyu.  |
+| Drain | [**ICWS'17**] [Drain: An Online Log Parsing Approach with Fixed Depth Tree](https://jiemingzhu.github.io/pub/pjhe_icws2017.pdf), by Pinjia He, Jieming Zhu, Zibin Zheng, and Michael R. Lyu. <br> [IBM-Drain3](https://github.com/IBM/Drain3): IBM's upgrade version of Drain in Python 3.6 with additional features. |
 | MoLFI | [**ICPC'18**] [A Search-based Approach for Accurate Identification of Log Message Formats](http://publications.uni.lu/bitstream/10993/35286/1/ICPC-2018.pdf), by Salma Messaoudi, Annibale Panichella, Domenico Bianculli, Lionel Briand, Raimondas Sasnauskas.  |
 
 ### Get started
@@ -42,10 +42,10 @@ Code organization:
 + [logparser](./logparser): the logparser package
 + [logs](./logs): Some log samples and manually parsed structured logs with their templates (ground truth).
 
-Please follow the [installation steps](https://logparser.readthedocs.io/en/latest/installation/dependency.html) and [demo](https://logparser.readthedocs.io/en/latest/demo.html) in the docs to get started. To reproduce the experimental results, please run the [benchmark](./benchmark) scripts.
+Please follow the [installation steps](https://logparser.readthedocs.io/en/latest/installation/dependency.html) and [demo](https://logparser.readthedocs.io/en/latest/demo.html) in the docs to get started. 
 
 ### Benchmarking results
-All the log parsers have been evaluated across 16 different logs available in [loghub](https://github.com/logpai/loghub). We report parsing accuracy as the percentage of accurately parsed log messages. 
+All the log parsers have been evaluated across 16 different logs available in [loghub](https://github.com/logpai/loghub). We report parsing accuracy as the percentage of accurately parsed log messages. To reproduce the experimental results, please run the [benchmark](./benchmark) scripts.
 
 <p align="center"><a href="https://arxiv.org/abs/1811.03509"><img src="./docs/img/parsers.png" width="768"></a></p>
 
@@ -69,8 +69,8 @@ All the log parsers have been evaluated across 16 different logs available in [l
 Logparser is implemented based on a number of existing open-source projects:
 + [SLCT](http://ristov.github.io/slct/) (C++)
 + [LogCluster](https://github.com/ristov/logcluster) (perl)
-+ [LenMa](https://github.com/keiichishima/templateminer) (python 2)
-+ [MoLFI](https://github.com/SalmaMessaoudi/MoLFI) (python 3)
++ [LenMa](https://github.com/keiichishima/templateminer) (python 2.7)
++ [MoLFI](https://github.com/SalmaMessaoudi/MoLFI) (python 3.6)
 
 ### Feedback
 For any questions or feedback, please post to [the issue page](https://github.com/logpai/logparser/issues). 

@@ -1,0 +1,53 @@
+EventId,EventTemplate,Occurrences
+86c697a4,<*>  <*>HTTP<*>status: <*> len: <*> time: <*>.<*>,1017
+22086309,[instance:  VM  (Lifecycle Event),109
+46f5adfb,[instance:  During sync_power_state the instance has a pending task (spawning). Skip.,43
+4be4b3cb,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking,82
+1615727a,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage",82
+b47d90d9,Active base files: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>,82
+13bf0341,Creating event  for instance ,22
+41e8fc2d,[instance:  Instance  successfully.,44
+1794d6f1,[instance:  Took <*>.<*> seconds to  the instance on the hypervisor.,43
+ecc69256,[instance:  Took <*>.<*> seconds to build instance.,22
+10e88810,Auditing locally available compute resources for node cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us,15
+5d1bf6d9,"Total usable vcpus: <*>, total allocated vcpus: <*>",15
+290ea70e,Final resource view: name=cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us phys_ram=<*>MB used_ram=<*>MB phys_disk=<*>GB used_disk=<*>GB total_vcpus=<*> used_vcpus=<*> pci_stats=[],15
+cb05b130,Compute_service record updated for cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us:cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us,15
+3b2a5296,[instance:  Terminating instance,22
+d40cab8b,[instance:  Deleting instance files ,21
+9d4c7c2e,[instance:  Deletion of <*>complete,21
+bad0ac4b,[instance:  Took <*>.<*> seconds to deallocate network for instance.,21
+f2379fc6,Unknown base file: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>,30
+e8b6d360,Removable base files: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>,30
+f539d934,Removing base or swap file: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>,21
+df60e4d1,HTTP exception thrown: No instances found for any event,21
+64868687,"[instance:  Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",21
+0e6326e2,[instance: <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>]      <*>.<*> ,4
+006e5179,"[instance:   limit not specified, defaulting to unlimited",42
+888221c2,[instance:  Claim successful,21
+3f837968,[instance:  Creating image,21
+5b9541a3,Successfully synced instances from host 'cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us'.,2
+fcf79207,Running instance usage audit for host cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us from <*>-<*>-<*> <*>:<*>:<*> to <*>-<*>-<*> <*>:<*>:<*>. <*> instances.,1
+2e0c3644,[instance: b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>]      <*>.<*> ,4
+2d813545,Base or swap file too young to remove: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>,9
+db8c5e6f,[instance: <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf]      <*>.<*> ,4
+fe10c818,[instance: <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c]      <*>.<*> ,4
+6b9eafc0,[instance: <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>]      <*>.<*> ,4
+0989593c,[instance: af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>]      <*>.<*> ,4
+f1c15855,[instance: ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f]      <*>.<*> ,4
+12d84a54,The instance sync for host 'cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us' did not match. Re-created its InstanceList.,5
+8a0394e8,[instance: <*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>]      <*>.<*> ,4
+24cb99bb,[instance: fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e]      <*>.<*> ,4
+42077875,[instance: <*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf]      <*>.<*> ,4
+19c1e595,[instance: d<*>b<*>eb-<*>d<*>a-<*>aa<*>-ba<*>b-<*>d<*>f<*>f<*>c]      <*>.<*> ,4
+32216369,[instance: <*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>]      <*>.<*> ,4
+c9894b36,[instance: <*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>]      <*>.<*> ,4
+b92484e0,[instance: bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e]      <*>.<*> ,4
+5fc05b01,"While synchronizing instance power states, found <*> instances in the database and <*> instances on the hypervisor.",1
+bee11547,[instance: be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc]      <*>.<*> ,4
+ce36754a,[instance: a<*>cf<*>-<*>bb-<*>-a<*>d-<*>c<*>ac<*>a<*>d]      <*>.<*> ,4
+fce807a5,[instance: d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d]      <*>.<*> ,4
+a982d81b,[instance: d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e]      <*>.<*> ,4
+06efd12d,[instance: <*>e<*>a-<*>fe<*>-<*>-<*>b<*>-<*>ac<*>e<*>]      <*>.<*> ,4
+70ac8453,[instance: c<*>f<*>f<*>-<*>c-<*>ea<*>-b<*>e<*>-<*>edfcfbf]      <*>.<*> ,4
+61ce7a00,[instance: faf<*>ea-cba<*>-<*>e<*>b-<*>f<*>-<*>a<*>bc<*>f]      <*>.<*> ,4
