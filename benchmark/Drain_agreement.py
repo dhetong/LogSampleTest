@@ -212,8 +212,7 @@ for index in range(0,Zookeeper_num-1,1):
 		os.path.join(output_dir_1, logfile_1 + '_structured.csv'),
 		os.path.join(output_dir_2, logfile_2 + '_structured.csv'))
         ratio = float(float(agreement)/5000.0)
-        print(ratio)
-        agreement_result.append([logfile_1,logfile_2,para_info,agreement])
+        agreement_result.append([logfile_1,logfile_2,para_info,ratio])
 
 df_result = pd.DataFrame(agreement_result, columns=['File1', 'File2', 'Para', 'Agreement'])
 print(df_result)
