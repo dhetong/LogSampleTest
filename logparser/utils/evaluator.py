@@ -10,9 +10,28 @@ from collections import defaultdict
 import scipy.misc
 #import scipy.special
 
+def evaluate_agreement(file_1, file_2):
+    df_file1 = pd.read_csv(file_1)
+    df_file2 = pd.read_csv(file_2)
+
+    eventlist_1 = df_file1['EventTemplate']
+    eventlist_2 = df_file2['EventTemplate']
+
+    count = 0
+    for index in range(0,4999,1):
+        line_1 = eventlist_1[index+5000]
+        line_2 = eventlist_2[index]
+
+        if(line_1.__eq__(line_2)):
+            count = count+1
+
+    return count
+    #agreement = count/5000
+    #return agreement
+
 def evaluate_sample(groundtruth, parsedresult):
     df_groundtruth = pd.read_csv(groundtruth)
-    df_parsedlog = pd.read_csv(parsedresult, nrows=2000)
+    df_parsedlog = pd.read_csv(parsedresult, nrows=1000)
     # Remove invalid groundtruth event Ids
     null_logids = df_groundtruth[~df_groundtruth['EventId'].isnull()].index
     df_groundtruth = df_groundtruth.loc[null_logids]
