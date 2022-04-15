@@ -49,7 +49,7 @@ class LogParser(object):
         template_ids = [0] * self.df_log.shape[0]
         for t in self.templ_mgr.templates:
             template = ' '.join(t.words)
-            eventid = hashlib.md5(' '.join(template).encode('utf-8')).hexdigest()[0:8]
+            eventid = hashlib.md5(' '.join(template).decode('utf-8').encode('utf-8')).hexdigest()[0:8]
             logids = t.get_logids()
             for logid in logids:
                 templates[logid] = template

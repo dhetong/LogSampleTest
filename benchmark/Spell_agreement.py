@@ -192,13 +192,13 @@ Thunderbird_num = 10
 Windows_num = 10
 Zookeeper_num = 10
 
-setting = benchmark_settings['Zookeeper']
+setting = benchmark_settings['Spark']
 
 agreement_result = []
-for index in range(0,Zookeeper_num-1,1):
-    logfile_1 = Zookeeper_file + '.part' + str(index)
-    logfile_2 = Zookeeper_file + '.part' + str(index+1)
-    indir = input_dir + Zookeeper_dir
+for index in range(0,Spark_num,1):
+    logfile_1 = Spark_file + '.part' + str(index)
+    logfile_2 = Spark_file + '.part' + str(index+1)
+    indir = input_dir + Spark_dir
 
     for para_index in range(0,n_para-1,1):
         para_info = str(tau[para_index])
@@ -215,4 +215,4 @@ for index in range(0,Zookeeper_num-1,1):
 
 df_result = pd.DataFrame(agreement_result, columns=['File1', 'File2', 'Para', 'Agreement'])
 print(df_result)
-df_result.to_csv('Spell_agreement_Zookeeper.csv')
+df_result.to_csv('Spell_agreement_Spark.csv')

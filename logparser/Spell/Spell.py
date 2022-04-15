@@ -192,7 +192,7 @@ class LogParser:
 
         for logclust in logClustL:
             template_str = ' '.join(logclust.logTemplate)
-            eid = hashlib.md5(template_str.encode('utf-8')).hexdigest()[0:8]
+            eid = hashlib.md5(template_str.decode('utf-8').encode('utf-8')).hexdigest()[0:8]
             for logid in logclust.logIDL:
                 templates[logid - 1] = template_str
                 ids[logid - 1] = eid

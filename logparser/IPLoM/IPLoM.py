@@ -28,7 +28,7 @@ class Partition:
 class Event:
     def __init__(self, eventStr):
         self.eventStr = eventStr
-        self.eventId = hashlib.md5(' '.join(eventStr).encode('utf-8')).hexdigest()[0:8]
+        self.eventId = hashlib.md5(' '.join(eventStr).decode('utf-8').encode('utf-8')).hexdigest()[0:8]
         self.eventCount = 0
 
 

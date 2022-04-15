@@ -193,13 +193,16 @@ Thunderbird_num = 10
 Windows_num = 10
 Zookeeper_num = 10
 
-setting = benchmark_settings['Zookeeper']
+setting = benchmark_settings['BGL']
 
 agreement_result = []
-for index in range(0,Zookeeper_num-1,1):
-    logfile_1 = Zookeeper_file + '.part' + str(index)
-    logfile_2 = Zookeeper_file + '.part' + str(index+1)
-    indir = input_dir + Zookeeper_dir
+for index in range(0,BGL_num,1):
+    logfile_1 = BGL_file + '.part' + str(index)
+    logfile_2 = BGL_file + '.part' + str(index+1)
+    indir = input_dir + BGL_dir
+
+    print(logfile_1)
+    print(logfile_2)
 
     for para_index in range(0,n_para-1,1):
         para_info = str(CT[para_index]) + ',' + str(lb[para_index])
@@ -208,6 +211,8 @@ for index in range(0,Zookeeper_num-1,1):
                              CT=CT[para_index], lowerBound=lb[para_index], rex=setting['regex'])
         parser_2 = IPLoM.LogParser(log_format=setting['log_format'], indir=indir, outdir=output_dir_2,
                              CT=CT[para_index], lowerBound=lb[para_index], rex=setting['regex'])
+        parser_1.parse(logfile_1)
+        parser_2.parse(logfile_2)
         agreement = evaluator.evaluate_agreement(
 		os.path.join(output_dir_1, logfile_1 + '_structured.csv'),
 		os.path.join(output_dir_2, logfile_2 + '_structured.csv'))
@@ -216,4 +221,4 @@ for index in range(0,Zookeeper_num-1,1):
 
 df_result = pd.DataFrame(agreement_result, columns=['File1', 'File2', 'Para', 'Agreement'])
 print(df_result)
-df_result.to_csv('IPLoM_agreement_Zookeeper.csv')
+df_result.to_csv('IPLoM_agreement_BGL.csv')
